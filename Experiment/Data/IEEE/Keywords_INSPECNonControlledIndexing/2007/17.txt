@@ -1,0 +1,1 @@
+kinematic analysis; multistage machining processes; general fixture layouts; complex multistage manufacturing processes; dimensional variation propagation; fixture error; datum error; machine geometric error; product dimensional quality; dimensional error accumulation; fault diagnosis; process design evaluation; final product variation analysis; final product variation reduction

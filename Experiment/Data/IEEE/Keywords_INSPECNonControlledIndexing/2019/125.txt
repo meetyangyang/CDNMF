@@ -1,0 +1,1 @@
+predictability; copredictability; centralized systems; decentralized setting; failure event occurrences; decentralized discrete-event systems; polynomial-time; failure prediction; failure events; decentralized DESs; decentralized framework; nondeterministic automaton; polynomial complexity

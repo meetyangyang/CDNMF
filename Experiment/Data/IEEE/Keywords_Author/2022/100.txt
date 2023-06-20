@@ -1,0 +1,1 @@
+Mission mobility reliability (MMR); off-road autonomous ground vehicle (AGV); rapidly exploring random tree (RRT*); reliability-based mission planning; uncertain terrain environment

@@ -1,0 +1,1 @@
+Shapley value-based approach; influential nodes; social networks; Internet research community; viral marketing; sales promotions; target set selection problem; information diffusion; λ -coverage problem; top-k nodes problem; cooperative game theory

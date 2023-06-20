@@ -1,0 +1,1 @@
+Diagnosability analysis; discrete event system (DES); fault diagnosis; labeled Petri net (LPN); reduction rules

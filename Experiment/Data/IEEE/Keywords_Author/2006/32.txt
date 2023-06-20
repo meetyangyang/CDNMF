@@ -1,0 +1,1 @@
+Genetic algorithms (GAs); Petri nets; queueing systems; semiconductor manufacturing scheduling

@@ -1,0 +1,1 @@
+bisimilarity control; small model theorem; nondeterministic state machines; partial observation; bisimulation equivalence control; observation compatible supervisor; finite state space

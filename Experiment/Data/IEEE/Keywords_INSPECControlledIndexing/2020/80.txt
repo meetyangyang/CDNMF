@@ -1,0 +1,1 @@
+dynamic programming; inventory management; nonlinear programming; order processing; pricing; sensitivity analysis; stochastic processes; stock control

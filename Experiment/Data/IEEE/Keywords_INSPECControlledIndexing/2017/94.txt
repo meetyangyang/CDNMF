@@ -1,0 +1,1 @@
+closed loop systems; control engineering computing; feedback; grippers; industrial manipulators; maximum likelihood estimation; motion control; nonlinear control systems; optimisation; software packages; trajectory control

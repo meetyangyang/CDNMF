@@ -1,0 +1,1 @@
+wheeled mobile robots; fault-tolerant formation control; hybrid GA-PSO algorithm; fault-tolerant formation control strategy; actuator faults; healthy WMRs; hybrid genetic algorithm; particle swarm optimization; metaheuristic optimization techniques; optimization problem; continuous control inputs; control parameterization; time discretization method; fault-tolerance capabilities

@@ -1,0 +1,1 @@
+building cooling system; energy management system; chiller plant; thermal storage unit; cooling load; probabilistic framework; building occupancy; energy consumption minimization; energy saving; static optimization problem; dynamic programming problem; discrete time stochastic hybrid system; overall energy minimization; controlled Markov chain

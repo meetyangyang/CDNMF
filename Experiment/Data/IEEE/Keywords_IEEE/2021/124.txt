@@ -1,0 +1,1 @@
+Robots; Job shop scheduling; Collision avoidance; Energy consumption; Scheduling algorithms

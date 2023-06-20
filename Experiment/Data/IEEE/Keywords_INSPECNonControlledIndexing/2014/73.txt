@@ -1,0 +1,1 @@
+optimal subtask allocation; human and robot collaboration; hybrid assembly system; collaborative hybrid assembly cell; automatic subtask allocation strategy; logic restriction; logic mathematic method; discrete-event system; system tradeoff; assembly time cost; payment cost; genetic based revolutionary algorithm; robot coworkers; electronic assembly case

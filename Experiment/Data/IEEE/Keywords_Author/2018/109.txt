@@ -1,0 +1,1 @@
+Automotive manufacturing; discrete optimization; generalized Voronoi diagram; path planning; robot programming; robot routing; robotic assembly

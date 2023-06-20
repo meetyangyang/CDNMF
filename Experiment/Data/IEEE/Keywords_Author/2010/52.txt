@@ -1,0 +1,1 @@
+Automated guided vehicles; decomposition; discrete-event systems; Petri nets (PNs); route planning problem; shortest-path algorithm

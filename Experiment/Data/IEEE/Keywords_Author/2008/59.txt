@@ -1,0 +1,1 @@
+Camera networks and sensor selection; computational geometry and object modeling; geometric algorithms;  languages;  and systems; minimum enclosing simplex;  polytope approximation;  sensor networks

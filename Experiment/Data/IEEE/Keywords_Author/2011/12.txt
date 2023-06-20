@@ -1,0 +1,1 @@
+Diffusion of information; influential nodes; Shapley value; social networks; target set selection; top-$k$ nodes; $\\lambda$ -coverage

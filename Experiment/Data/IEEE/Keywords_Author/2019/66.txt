@@ -1,0 +1,1 @@
+Change point detection; dynamic time warping; pipe tightening processes; process monitoring; weighted regression

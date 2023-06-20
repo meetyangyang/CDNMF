@@ -1,0 +1,1 @@
+Adaboost; bridge deck inspection; bridge maintenance; computer vision; concrete; crack detection; crack pattern recognition; homography; image mosaic; image stitching; Laplacian pyramid; machine learning; random forest; robotic imaging; robotic inspection; Seekur robot; structural health monitoring; structure from motion; STRUM classifier; support vector machine

@@ -1,0 +1,1 @@
+nonlinear multiple mode process monitoring; LL-SVDD-MRDA; online monitoring technique; nonlinear multiple-mode problems; industrial processes; lazy learning; adaptive local modeling method; between-mode dynamic process; modified receptor density algorithm; residual analysis; Tennessee Eastman process; support vector data description

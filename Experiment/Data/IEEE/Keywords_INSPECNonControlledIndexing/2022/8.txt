@@ -1,0 +1,1 @@
+iterative learning approach; tracking control; high-speed trains; reference displacement; Krasovskii function; unknown time-varying speed delays; hyperbolic tangent function; command filter; composite energy function; numerical simulations; railway department; iterative learning control framework; train operation; control signal; control system stability

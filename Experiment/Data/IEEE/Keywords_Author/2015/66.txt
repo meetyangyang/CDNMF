@@ -1,0 +1,1 @@
+Empirical mode decomposition (EMD); Hilbert–Huang transform; instantaneous frequency; speaker recognition; whispered speech

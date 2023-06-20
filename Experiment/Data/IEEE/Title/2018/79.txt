@@ -1,0 +1,1 @@
+Robust Sparse Representation-Based Classification Using Online Sensor Data for Monitoring Manual Material Handling Tasks

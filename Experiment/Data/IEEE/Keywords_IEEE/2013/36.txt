@@ -1,0 +1,1 @@
+Fault detection; Petri nets; Vectors; Labeling; Monitoring; Equations; Automata

@@ -1,0 +1,1 @@
+Attacking signals; denial of service (DoS); frame; mobile radio-frequency identification (RFID); slotted ALOHA; tag density; tag entering rate; velocity

@@ -1,0 +1,1 @@
+multiobjective genetic algorithm; finite-element analysis; payload test results; compact piezo-driven flexure stage; compact one-degree-of-freedom; piezoelectric actuator; orthogonal compound bridge-type amplifier; vertical nanopositioning; vertical micropositioning; closed-loop performance

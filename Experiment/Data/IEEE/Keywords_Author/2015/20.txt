@@ -1,0 +1,1 @@
+Average run length; control charts; image-based quality control; online monitoring; tucker and CP decompositions

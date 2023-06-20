@@ -1,0 +1,1 @@
+Dynamic time warping; feature embedding; medical automation; myocardial infarction (MI); vectorcardiogram (VCG)

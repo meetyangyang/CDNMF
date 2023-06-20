@@ -1,0 +1,1 @@
+Projective homography; robotics; uncalibrated visual servoing; visual servo control

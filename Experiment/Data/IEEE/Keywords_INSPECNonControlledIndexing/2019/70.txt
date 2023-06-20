@@ -1,0 +1,1 @@
+autonomous indoor exploration; graph-based SLAM; information entropy; Karto SLAM; autonomous exploration experiments; robotic mapping; polygon map construction approach; 3D directional endpoint; 2D laser-based autonomous exploration approach; Gmapping

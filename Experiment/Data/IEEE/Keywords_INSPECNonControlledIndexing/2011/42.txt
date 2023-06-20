@@ -1,0 +1,1 @@
+measurement redundancy analysis; row vectors; model matrix; structured linear systems; NP-hard problem; divide-and-conquer algorithm; bound-and-decompose algorithm; mixed integer programming; redundancy degree problem; redundancy degree

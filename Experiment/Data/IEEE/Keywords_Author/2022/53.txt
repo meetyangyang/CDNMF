@@ -1,0 +1,1 @@
+Inventory control; joint ordering and pricing; price–freshness-dependent demand

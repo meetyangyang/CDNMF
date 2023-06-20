@@ -1,0 +1,1 @@
+Ambulatory gait system; gait detection; human walking; inertial measurement units (IMUs); slip dynamics

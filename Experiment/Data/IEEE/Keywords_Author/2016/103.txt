@@ -1,0 +1,1 @@
+Ball grid array (BGA); camera calibration; coplanarity; height detection; iso-contour; solder ball detection; stereo vision; triangulation

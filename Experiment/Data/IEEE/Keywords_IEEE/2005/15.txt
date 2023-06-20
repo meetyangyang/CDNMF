@@ -1,0 +1,1 @@
+Lagrangian functions; Job shop scheduling; Costs; Uncertainty; Processor scheduling; Assembly; Stochastic processes; Inventory management; Dynamic scheduling; Dynamic programming

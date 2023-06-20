@@ -1,0 +1,1 @@
+modified two stage degradation model; dynamic maintenance threshold calculation; manufacturing systems; unscheduled downtime; machine malfunction; equipment lifetime distribution; machine degradation; uncertainty; continuous monitoring; reliability prediction; alarm

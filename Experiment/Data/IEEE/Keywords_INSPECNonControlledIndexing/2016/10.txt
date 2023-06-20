@@ -1,0 +1,1 @@
+flexible manufacturing systems; asynchronous exponential machines; finite nondedicated buffers; convergent recursive algorithm; bottleneck analysis; system throughput

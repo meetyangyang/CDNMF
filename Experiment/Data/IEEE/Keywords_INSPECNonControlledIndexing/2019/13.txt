@@ -1,0 +1,1 @@
+efficient combination chemotherapy schedules; cancer chemotherapy; acquired drug resistance; optimal chemotherapy schedule; nonlinear optimization problem; posttreatment chemotherapy-induced toxicity; cell cycle-specific model; cancer patients; cell growth; tumor cells; memetic algorithm; advanced local search strategy

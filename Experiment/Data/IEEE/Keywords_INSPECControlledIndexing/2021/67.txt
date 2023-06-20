@@ -1,0 +1,1 @@
+autonomous aerial vehicles; collision avoidance; dynamic programming; Markov processes; mobile robots; optimisation; path planning; predictive control; remotely operated vehicles; trajectory control

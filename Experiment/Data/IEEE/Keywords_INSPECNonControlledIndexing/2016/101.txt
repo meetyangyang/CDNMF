@@ -1,0 +1,1 @@
+kinematic control; teaching-playback robot manipulator system; teaching pendant; nonredundancy singularity avoidance; end-effector; redundancy singularity avoidance; NRSA; RSA; Jacobian matrix; point-to-point singularity avoidance; joint-interpolated control; trajectory error; PTPSA method

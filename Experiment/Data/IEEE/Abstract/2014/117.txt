@@ -1,0 +1,1 @@
+This paper deals with a distribution system with one origin and one destination in which the shipments are realized with a limited fleet of capacitated vehicles. An optimization problem is defined to find the optimal shipment policies in order to satisfy the external demand;  by minimizing holding costs of the customer and transportation costs. 

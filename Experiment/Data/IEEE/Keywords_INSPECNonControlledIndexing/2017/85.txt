@@ -1,0 +1,1 @@
+adaptive fault-tolerant tracking control; MIMO discrete-time systems; reinforcement learning-based adaptive tracking control technique; unknown multiple-input multiple-output nonlinear discrete-time systems; abrupt faults; incipient faults; neural network approximation ability; action network; critic network; cost function; stability analysis

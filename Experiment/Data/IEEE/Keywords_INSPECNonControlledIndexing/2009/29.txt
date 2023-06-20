@@ -1,0 +1,1 @@
+open CNC system; component technology; interoperability; digital servo; fieldbus-based system; motion controller

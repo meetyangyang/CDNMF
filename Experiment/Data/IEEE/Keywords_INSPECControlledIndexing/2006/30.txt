@@ -1,0 +1,1 @@
+SCADA systems; resource allocation; flexible manufacturing systems; failure analysis; robust control; reduced order systems; Petri nets; maintenance engineering; fault tolerance; production engineering computing

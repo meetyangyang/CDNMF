@@ -1,0 +1,1 @@
+We present a novel method for correctly identifying and straightening one dimensional agarose electrophoretic lanes. Our method has been shown to yield comparable accuracy with manual lane tracking results;  and to successfully process 98% of DNA fingerprinting gels with no human intervention. 

@@ -1,0 +1,1 @@
+Calibrating an Automatic Zoom Camera With Moving Least Squares

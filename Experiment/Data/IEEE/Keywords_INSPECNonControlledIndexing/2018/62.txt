@@ -1,0 +1,1 @@
+scatter search; multiresource constraints; discarded products; dual-objective optimization model; disassembly profit; genetic local search; dismantling operation; reuse potential; recovery operation; recycling process

@@ -1,0 +1,1 @@
+adaptive fast terminal sliding mode control control law; attitude tracking control problem; rigid spacecraft; finite-time convergence; robustness; fault-tolerant control; actuator saturations; actuator faults

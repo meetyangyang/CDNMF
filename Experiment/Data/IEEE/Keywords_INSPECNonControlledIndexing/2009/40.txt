@@ -1,0 +1,1 @@
+meshless harmonic volumetric mapping; fundamental solution methods; automatic meshless method; shell surface mapping; linear system; method of fundamental solution; geometric primitives; topological types; information transfer; shape registration; deformation sequence analysis; tetrahedral remeshing; solid texture synthesis

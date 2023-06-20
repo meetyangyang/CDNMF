@@ -1,0 +1,1 @@
+Data-driven regression methods; nonlinear processes; self-learning kernel model; semidefinite programming (SDP); virtual sensor

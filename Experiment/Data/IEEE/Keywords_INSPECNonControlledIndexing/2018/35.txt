@@ -1,0 +1,1 @@
+automatic segmentation; hidden Markov model regression; posture analysis; quiet standing; human balance control; human control system; neural pathologies; human stability; stabilometric signal segmentation; orthostatic postures; patient rehabilitation

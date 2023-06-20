@@ -1,0 +1,1 @@
+sequence-dependent setup time permutation; flow shop scheduling problem; adaptive hybrid genetic algorithm; makespan minimization; total weighted tardiness minimization; inheriting factor; probability-based multipoint crossover; local search method; setup-time instance

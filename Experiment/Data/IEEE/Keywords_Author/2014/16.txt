@@ -1,0 +1,1 @@
+Articulated vehicles; feedforward control; geometric continuity; polynomial splines; smooth path generation

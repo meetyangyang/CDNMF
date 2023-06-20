@@ -1,0 +1,1 @@
+RSSI-based indoor localization; received-signal-strength index; precise signal propagation model; signal attenuation parameter; environmental-adaptation capability

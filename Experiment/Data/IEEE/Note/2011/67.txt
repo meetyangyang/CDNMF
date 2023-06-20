@@ -1,0 +1,1 @@
+Linehaul-feeder vehicle routing problemwith virtual depots is practical to the logistics and transportationcompanies, especially in the urban area where local streets aretoo narrow or large vehicles are not allowed to enter. Note thatthe higher the customer demands, the better the benefit of theLFVRP-VD.

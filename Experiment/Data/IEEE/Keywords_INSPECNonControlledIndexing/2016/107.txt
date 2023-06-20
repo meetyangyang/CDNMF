@@ -1,0 +1,1 @@
+multirobot simultaneous localization and tracking; MR-SLAT algorithm; multiple hypothesis tracking; MHT; data association; NAO humanoid robots; RoboCup scenario; robotic vehicles; laser scanners; dedicated short-range communications; DSRC; moving objects; extended Kalman filter

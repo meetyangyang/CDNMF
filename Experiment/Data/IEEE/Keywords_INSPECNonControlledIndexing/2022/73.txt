@@ -1,0 +1,1 @@
+robotic calibration; sufficient resolution; multidegrees; Fabry-Perot interferences; 6-DoF nanopositioning robot; extrinsic parameters; influential parameters; 6-DoF positioning; micronanopositioning robots; serial 6-degree-of-freedom robot; multiDoF; high-resolution sensors; intrinsic parameters; 1D interferometric measurements

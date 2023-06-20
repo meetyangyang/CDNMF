@@ -1,0 +1,1 @@
+real-time visual tracking; stereo image processing algorithms; stereo NURBS image projection; test pattern calibration; image matching energy; NURBS curve; dynamic length thread; nonuniform rational B-spline curve; patient; surgical robot; remote controlled device; dynamic surgical suture threads; segmented thread image

@@ -1,0 +1,1 @@
+obstacle avoidance; mixed-integer linear program; cooperative routing; coordinated routing problem; unmanned aerial vehicle; branch-and-cut algorithm; UAV; communication constraints; reconnaissance mission; vehicle routing problem; transformation method; air-ground vehicle team-exact algorithm

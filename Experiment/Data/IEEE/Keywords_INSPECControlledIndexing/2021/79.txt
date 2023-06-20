@@ -1,0 +1,1 @@
+convolutional neural nets; dexterous manipulators; grippers; image colour analysis; learning (artificial intelligence); manipulator dynamics; mobile robots; robot vision; service robots

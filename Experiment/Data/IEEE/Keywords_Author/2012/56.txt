@@ -1,0 +1,1 @@
+Closed-form surfaces; curve registration; model-based 3D recognition; principal curvatures; tactile data; triangular meshes

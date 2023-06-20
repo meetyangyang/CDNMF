@@ -1,0 +1,1 @@
+additive manufacturing constraints; lattice struts; bidirectional evolutionary structural optimization-based algorithm; Von-Mises stress; stiffness; quadcopter arm; artificial neural network; manufacturing process; manufacturability; optimization strategy; mechanical properties; printing quality; additive manufacturing technology; physical properties; lattice structure design

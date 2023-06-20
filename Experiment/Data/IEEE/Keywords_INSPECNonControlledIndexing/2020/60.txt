@@ -1,0 +1,1 @@
+multiple parking lots; parking assignment problem; parking expenses; mixed-integer linear programming problem; alternating direction method of multipliers; ADMM; matching game approach; greedy approach; cost minimization problem; optimization problem; electric vehicles

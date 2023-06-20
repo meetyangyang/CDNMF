@@ -1,0 +1,1 @@
+SCALAR: Simultaneous Calibration of 2-D Laser and Robot Kinematic Parameters Using Planarity and Distance Constraints

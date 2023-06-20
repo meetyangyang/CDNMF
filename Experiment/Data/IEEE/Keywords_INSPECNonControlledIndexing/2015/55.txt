@@ -1,0 +1,1 @@
+cooperative path following; multirotor unmanned aerial vehicles; time-varying networks; information exchange; distributed control law; mission temporal assignment; collision-free path; faulty communication networks; temporary link losses; switching topologies; multirotor UAV; temporal separation; collision avoidance

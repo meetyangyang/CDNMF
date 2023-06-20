@@ -1,0 +1,1 @@
+environmental sound recognition; home automation; sound class identification; sound category; human speech; speech recognition; human intention detection; signal-to-noise ratio-aware subspace-based signal enhancement; independent component analysis; Mel-frequency cepstral coefficients; frame-based multiclass support vector machines; wavelet transform

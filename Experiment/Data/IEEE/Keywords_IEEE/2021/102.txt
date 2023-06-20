@@ -1,0 +1,1 @@
+Trajectory; Knee; MIMO communication; Exoskeletons; Hip; Legged locomotion

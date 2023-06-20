@@ -1,0 +1,1 @@
+asymptotic stability; control system synthesis; electric motors; Lyapunov methods; medical control systems; nonlinear control systems; patient treatment; switching systems (control); trajectory control; variable structure systems

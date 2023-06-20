@@ -1,0 +1,1 @@
+constraint satisfaction problems; home automation; knowledge representation; optimisation; planning (artificial intelligence)

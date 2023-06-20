@@ -1,0 +1,1 @@
+robot kinematic base frame; hand-eye calibration; 3D position data; mechanical base frame; product of exponentials formula; POE formula; 3D position measurements; closed-form solution; iterative solution; 7-DOF industrial robot; optical tracking system

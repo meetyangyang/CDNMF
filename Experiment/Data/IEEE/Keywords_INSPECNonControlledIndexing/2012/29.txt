@@ -1,0 +1,1 @@
+sequence planning; coordinated sequences of operations; sequential behavior; manufacturing system; product; control logic development; development process; self-contained operation; execution constraint; graphical language; formal language; operation precondition; operation post-condition; SOP language; software tool

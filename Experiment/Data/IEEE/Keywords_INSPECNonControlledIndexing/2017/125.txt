@@ -1,0 +1,1 @@
+residual life distribution; parallel unit systems; workload adjustment; complex systems; production demand; parallel configuration; unexpected machine downtime; scheduled maintenance; unit degradation rate; workload assignment; natural redundancy; parallel structure; maintenance resources

@@ -1,0 +1,1 @@
+motion control; neurocontrollers; path planning; quadratic programming; redundant manipulators

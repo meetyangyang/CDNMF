@@ -1,0 +1,1 @@
+Routing; Disaster management; Lagrangian functions; Scheduling; Resource management; NP-hard problem

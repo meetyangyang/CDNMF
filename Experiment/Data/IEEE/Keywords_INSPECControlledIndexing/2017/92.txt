@@ -1,0 +1,1 @@
+approximation theory; control system synthesis; estimation theory; gradient methods; iterative learning control; matrix algebra; stochastic systems

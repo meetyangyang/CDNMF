@@ -1,0 +1,1 @@
+Bisimulation equivalence; extended automata; formal verification; software abstraction; software modeling; software verification; symbolic transition systems

@@ -1,0 +1,1 @@
+Using Lagrangian Relaxation Decomposition With Heuristic to Integrate the Decisions of Cell Formation and Parts Scheduling Considering Intercell Moves

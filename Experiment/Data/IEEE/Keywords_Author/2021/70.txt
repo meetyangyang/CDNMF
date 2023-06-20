@@ -1,0 +1,1 @@
+Event-oriented modeling; heuristic path planning; persistent surveillance; road-network; unmanned ground vehicle (UGV)

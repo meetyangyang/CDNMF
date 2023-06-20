@@ -1,0 +1,1 @@
+Cloud data centers (CDCs); computation offloading; edge computing; intelligent optimization; migrating birds optimization (MBO); simulated annealing (SA)

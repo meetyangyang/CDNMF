@@ -1,0 +1,1 @@
+many-robot scheduling; many-objective optimization; MODE; multiobjective DE algorithm; NP-hard; RCSP-BM; hybrid flow shop scheduling; multiobjective differential evolution algorithm; green scheduling algorithm; robotic cell scheduling problem; batch-processing machines

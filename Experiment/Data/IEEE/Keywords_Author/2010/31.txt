@@ -1,0 +1,1 @@
+Coordinate sensor system; manufacturing fault diagnosis; reliability modeling; weighted-${\\bf k}$-out-of-$n$  system

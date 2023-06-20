@@ -1,0 +1,1 @@
+force control; humanoid robots; legged locomotion; motion control; path planning; robot dynamics; stability; torque control; trajectory control; viscoelasticity

@@ -1,0 +1,1 @@
+collision avoidance; containers; industrial robots; integer programming; linear programming; loading; warehousing

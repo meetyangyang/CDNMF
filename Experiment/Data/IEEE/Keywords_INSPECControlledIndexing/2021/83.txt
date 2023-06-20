@@ -1,0 +1,1 @@
+adaptive control; closed loop systems; control nonlinearities; control system synthesis; distributed control; feedback; multi-agent systems; multi-robot systems; nonlinear control systems; observers; position control; time-varying systems; tracking; uncertain systems

@@ -1,0 +1,1 @@
+attitude measurement; estimation theory; gradient methods; Kalman filters; sensor fusion; underwater vehicles

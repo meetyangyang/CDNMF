@@ -1,0 +1,1 @@
+In this research, we have developed thevector field (VF) for each joint (hip, knee, and ankle) of a biped,which plays an important role in walking. The idea is nobleand based on data driven computational model. The generatedtrajectories are applied on HOAP-2 bipedal humanoid robot andcompare the two joint trajectories from VF with HOAP-2 modeland hybrid automata model.

@@ -1,0 +1,1 @@
+ball grid arrays; feature extraction; image classification; image segmentation; inspection; printed circuit manufacture; soldering; X-ray imaging

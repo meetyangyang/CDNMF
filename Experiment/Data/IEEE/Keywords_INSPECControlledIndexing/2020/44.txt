@@ -1,0 +1,1 @@
+adaptive control; backpropagation; closed loop systems; compensation; control system synthesis; micromanipulators; neurocontrollers; nonlinear control systems; path planning; position control; radial basis function networks; variable structure systems

@@ -1,0 +1,1 @@
+acceleration control; quadratic programming; redundant manipulators; variational techniques; velocity control

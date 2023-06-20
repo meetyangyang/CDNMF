@@ -1,0 +1,1 @@
+curved surface recognition; one-dimensional tactile data; 3D object recognition; linear tactile data; lookup table; principal curvatures; robot hand; touch sensing capability; surface discretization point; local search; closed-form surface recognition; triangular mesh; home item recognition; dexterous manipulation

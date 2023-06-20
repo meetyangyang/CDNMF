@@ -1,0 +1,1 @@
+Deep neural network (DNN); discriminative representations; fault detection; nonlinear process monitoring

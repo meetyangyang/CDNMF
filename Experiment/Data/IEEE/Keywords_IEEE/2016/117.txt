@@ -1,0 +1,1 @@
+Job shop scheduling; Casting; Electric breakdown; Optimal scheduling; Heuristic algorithms; Schedules

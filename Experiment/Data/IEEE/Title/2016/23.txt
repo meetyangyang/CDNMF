@@ -1,0 +1,1 @@
+Stochastic Extended LQR for Optimization-Based Motion Planning Under Uncertainty

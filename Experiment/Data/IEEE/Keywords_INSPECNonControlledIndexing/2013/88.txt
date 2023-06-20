@@ -1,0 +1,1 @@
+thin layer SOI-FET; stress sensing; accelerometer; double clamped beam; silicon-on-insulator; drain current; adjustable sensitivity; strain gauge; pressure sensors; cantilever force sensor; displacement sensor; temperature -60 C to 200 C

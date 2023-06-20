@@ -1,0 +1,1 @@
+Multiscale Neighborhood Normalization-Based Multiple Dynamic PCA Monitoring Method for Batch Processes With Frequent Operations

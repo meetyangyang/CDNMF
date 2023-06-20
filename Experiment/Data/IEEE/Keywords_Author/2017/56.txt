@@ -1,0 +1,1 @@
+Data fusion; degradation modeling; degradation signal; health index; prognostics; signal-to-noise ratio (SNR)

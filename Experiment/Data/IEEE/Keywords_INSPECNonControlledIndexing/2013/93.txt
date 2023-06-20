@@ -1,0 +1,1 @@
+optimization approach; Petri net controller design; automated manufacturing systems; sensors; actuators; feedback control; integer programming formulation; manufacturing-oriented net model; deadlock-prone supervisors; sufficient condition; necessary condition

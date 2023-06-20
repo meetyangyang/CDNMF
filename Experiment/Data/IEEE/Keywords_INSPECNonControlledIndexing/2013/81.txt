@@ -1,0 +1,1 @@
+correlated alarm detection; binary data similarity coefiicients; statistical analysis; Sorgenfrei coefficient; correlation delay distribution

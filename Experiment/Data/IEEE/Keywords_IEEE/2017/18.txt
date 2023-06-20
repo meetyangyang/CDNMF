@@ -1,0 +1,1 @@
+Monitoring; Process control; Data models; Control charts; Numerical models; Vibrations; Artificial neural networks

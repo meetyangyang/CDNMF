@@ -1,0 +1,1 @@
+active disturbance rejection control; cost optimal control; dynamic scheduling; linear systems; Monte Carlo methods; open loop systems; optimisation; robots; switching systems (control)

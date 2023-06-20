@@ -1,0 +1,1 @@
+clothing; deformation; pose estimation; radial basis function networks; shape recognition

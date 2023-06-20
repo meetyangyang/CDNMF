@@ -1,0 +1,1 @@
+metadata inference method; limited semantic information; building automation systems; data analytics; zone-level metadata; indoor temperature set point; airflow set point; radiator valve position; air handling units; office buildings; common zone-level BAS point types; metadata normalization; smart building solutions; numerical information; zone-level sensors; plant-level data

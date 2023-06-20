@@ -1,0 +1,1 @@
+Autonomous mobile robot; localization and navigation; progressive Bayesian classifier; Markov localization

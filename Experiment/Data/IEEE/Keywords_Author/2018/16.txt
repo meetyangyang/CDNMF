@@ -1,0 +1,1 @@
+Automated coverage path planning (CPP); automated nondestructive evaluation (NDE); automated robotic inspection; computer-aided drawing (CAD)/computer-aided manufacturing (CAM)-based path planning

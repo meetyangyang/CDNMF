@@ -1,0 +1,1 @@
+fault diagnosis; reconstruction-based contribution plot; fault detection; decision fusion; Bayesian inference; block division; process decomposition strategy; block score extraction; multiblock principal component analysis; multiblock PCA algorithm; decentralized process monitoring scheme

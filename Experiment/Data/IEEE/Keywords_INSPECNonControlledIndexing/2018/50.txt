@@ -1,0 +1,1 @@
+motion plan; atomic components; assembly problem; interlocking parts; rigid-body motions; planar structure disassembling; planar structure assembling; divisible components; 2D polygonal parts; lower bound; upper bound

@@ -1,0 +1,1 @@
+heuristic scheduling; Petri nets; greedy algorithms; bar rolling; batch production process; steel production systems; rolling process; rolling transition; rolling operation; mixed-integer linear program; NP-hardness; variable neighborhood descent method; industrial production process scheduling; wire rod rolling

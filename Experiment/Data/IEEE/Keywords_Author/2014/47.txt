@@ -1,0 +1,1 @@
+Class averages; cross correlation (CC) algorithm; image alignment; single-particle electron microscopy (EM)

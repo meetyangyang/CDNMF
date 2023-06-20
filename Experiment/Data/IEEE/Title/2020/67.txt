@@ -1,0 +1,1 @@
+An Artificially Weighted Spanning Tree Coverage Algorithm for Decentralized Flying Robots

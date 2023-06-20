@@ -1,0 +1,1 @@
+CAD; control engineering computing; industrial robots; inference mechanisms; knowledge representation languages; ontologies (artificial intelligence); optimal control; production engineering computing; PROLOG; robot programming; robotic assembly

@@ -1,0 +1,1 @@
+Robots; Robotic assembly; Layout; Shape; Robot kinematics

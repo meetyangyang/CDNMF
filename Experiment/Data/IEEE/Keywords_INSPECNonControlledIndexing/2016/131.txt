@@ -1,0 +1,1 @@
+comprehensive monitoring; nonlinear processes; concurrent kernel projection to latent structures; CKPLS; concurrent kernel PLS; fault detection; quality-residual subspaces; covarying subspaces; process-principal subspaces; process-residual subspaces; quality-principal subspaces; quality variables; process variables; Tennessee Eastman process

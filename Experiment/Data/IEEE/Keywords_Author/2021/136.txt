@@ -1,0 +1,1 @@
+Digital implementation; fractional-order (FO) calculus; high-speed nonraster sequential scanning; resonant controller (RC)

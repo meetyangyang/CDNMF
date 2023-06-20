@@ -1,0 +1,1 @@
+energy-centered and QoS-aware services selection algorithm; Internet of Things; IoT; quality of service; EQSA algorithm; lexicographic optimization strategy; QoS constraints relaxation technique; energy consumption reduction; candidate service; selection time; energy efficiency; composition lifetime

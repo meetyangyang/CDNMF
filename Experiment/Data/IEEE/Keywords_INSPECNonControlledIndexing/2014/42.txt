@@ -1,0 +1,1 @@
+deadlock prevention; legal reachability spaces; integer linear programming; legal markings; Petri nets; flexible manufacturing systems; optimal supervisory control

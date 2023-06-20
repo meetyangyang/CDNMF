@@ -1,0 +1,1 @@
+human-robot interaction; industrial manipulators; mobile robots; path planning; robot vision; robotic assembly

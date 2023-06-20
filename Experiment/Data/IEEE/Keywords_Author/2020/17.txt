@@ -1,0 +1,1 @@
+Heterogeneous vehicles; heuristic algorithm; package delivery; precedence constraints; task assignment; topological sorting

@@ -1,0 +1,1 @@
+optimal energy consumption schedules; MDP; stamping system; FMS scheduling problems; modified dynamic programming algorithm; flexible manufacturing systems; Petri net models; route vector; small-size scheduling problems; energy optimization; resource sharing; route flexibility; complex scheduling problem; large-size FMS; processing time vector; deadlock-prone FMS

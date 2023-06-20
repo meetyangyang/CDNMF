@@ -1,0 +1,1 @@
+Instruments; Robots; Grippers; Containers; Cameras; Machine vision; Image edge detection

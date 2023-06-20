@@ -1,0 +1,1 @@
+bisimulation equivalence; discrete event systems; finite state machines; observability

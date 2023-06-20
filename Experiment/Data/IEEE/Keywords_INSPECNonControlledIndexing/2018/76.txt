@@ -1,0 +1,1 @@
+network topology; preplanned path; swarm robots; self-adaptive collective motion algorithms; one-hop neighbor information; guidance force; self-adaptive control

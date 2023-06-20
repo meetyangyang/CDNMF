@@ -1,0 +1,1 @@
+online control synthesis; full event observation; offline control synthesis; partial event observation; automaton modeling normal mode; multiple faulty modes; discrete event systems; safety; fault tolerant control

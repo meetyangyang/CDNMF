@@ -1,0 +1,1 @@
+Two Simple Deadlock Prevention Policies for <formula formulatype=\inline\><tex Notation=\TeX\>${\\rm S}^{3}{\\rm PR}$</tex></formula> Based on Key-Resource/Operation-Place Pairs

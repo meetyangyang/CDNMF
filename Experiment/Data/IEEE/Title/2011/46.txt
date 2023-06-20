@@ -1,0 +1,1 @@
+Output-Sensitive Computation of Force-Closure Grasps of a Semi-Algebraic Object

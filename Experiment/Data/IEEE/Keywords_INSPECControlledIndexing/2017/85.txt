@@ -1,0 +1,1 @@
+adaptive control; approximation theory; discrete time systems; fault tolerant control; learning systems; MIMO systems; neurocontrollers; nonlinear control systems; stability

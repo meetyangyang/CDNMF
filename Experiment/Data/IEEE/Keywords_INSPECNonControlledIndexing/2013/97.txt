@@ -1,0 +1,1 @@
+RFID reader scheduling; reliable identification; moving tags; RFID systems; reader-to-reader interference; anticollision algorithm; frame slotted aloha; FSA; interfering readers; central controller; constant motion; interrogation region; multiplexed FSA frames; mathematical model; dynamic system theory

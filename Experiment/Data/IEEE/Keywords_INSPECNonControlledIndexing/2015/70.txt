@@ -1,0 +1,1 @@
+robust environmental sound recognition system; fast noise suppression approach; home automation; fast subspace-based noise suppression module; sound classification module; fast subspace approximation; feature extraction method; wavelet subspace; wavelet packet transform; multiclass support vector machine; probability product kernels

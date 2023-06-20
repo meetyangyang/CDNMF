@@ -1,0 +1,1 @@
+multiple robots; geometric constraint; planar point set coverage; path planning problem; industrial laser drilling system; collision avoidance constraint; splitting problem approach; ordering problem approach; parallel processing; traveling salesman problem; cardinality matching problem; greedy algorithm

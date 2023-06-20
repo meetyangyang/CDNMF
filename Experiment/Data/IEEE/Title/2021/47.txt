@@ -1,0 +1,1 @@
+Path-Based Sensors: Paths as Sensors;  Bayesian Updates;  and Shannon Information Gathering

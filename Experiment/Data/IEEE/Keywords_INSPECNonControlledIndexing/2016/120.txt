@@ -1,0 +1,1 @@
+CAWSAC; cost-aware workload scheduling and admission control; distributed cloud data centers; distributed CDC; CDC provider; revenue-based workload admission control method; cost-aware workload scheduling method; Internet service providers; trace-driven simulation; geographical bandwidth diversity

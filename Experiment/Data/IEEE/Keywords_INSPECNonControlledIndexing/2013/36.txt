@@ -1,0 +1,1 @@
+online fault detection; labeled Petri nets; centralized approach; distributed approach; online fault diagnosis; discrete event systems; integer linear programming problem; ILPP solutions; unobservable transitions model faults; nominal system behavior; centralized fault detection strategy; observable event; interacting PN modules

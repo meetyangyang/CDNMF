@@ -1,0 +1,1 @@
+Controlled random search; effective regular workspace; optimal design; parallel manipulators

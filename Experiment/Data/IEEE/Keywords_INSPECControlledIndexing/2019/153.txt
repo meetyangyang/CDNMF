@@ -1,0 +1,1 @@
+adaptive control; autoregressive moving average processes; autoregressive processes; closed loop systems; compensation; control nonlinearities; control system synthesis; feedforward; hysteresis; least squares approximations; Lyapunov methods; nonlinear control systems; PI control; piezoelectric actuators; position control; servomechanisms; stability

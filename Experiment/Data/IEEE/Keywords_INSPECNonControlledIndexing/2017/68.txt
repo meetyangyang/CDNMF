@@ -1,0 +1,1 @@
+job scheduling; serial batching scheduling problem; multiple jobs; second jobs; subsequent jobs; maximum batch size; completed job; optimal batching sequence; batching rules; cascading machines

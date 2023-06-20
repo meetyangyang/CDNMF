@@ -1,0 +1,1 @@
+An Unsupervised Approach for Automatic Activity Recognition Based on Hidden Markov Model Regression

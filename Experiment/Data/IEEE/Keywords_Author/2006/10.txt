@@ -1,0 +1,1 @@
+Distributed parameter systems; fiber draw process; Karhunen–Loeve (K–L) decomposition; K–L Galerkin method; model-based control; optical fibers

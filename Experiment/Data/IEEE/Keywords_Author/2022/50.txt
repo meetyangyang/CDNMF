@@ -1,0 +1,1 @@
+Approximation algorithm; electron beam inspection (EBI); mixed-integer linear programming (MILP); partial covering optimization; wafer defect inspection

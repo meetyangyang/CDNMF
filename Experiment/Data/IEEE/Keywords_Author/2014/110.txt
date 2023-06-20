@@ -1,0 +1,1 @@
+Activity cycle diagram (ACD); parameterized ACD (P-ACD); activity transition table; flexible manufacturing system (FMS); incremental modeling procedure

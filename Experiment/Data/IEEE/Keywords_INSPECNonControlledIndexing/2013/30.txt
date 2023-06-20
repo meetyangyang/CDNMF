@@ -1,0 +1,1 @@
+coordinated iterative learning control schemes; overspeed protection; D-type ILC scheme; train trajectory tracking algorithm; high-speed railways; multiple trains; traction-braking force constraint; asymptotic convergence; train speed; train position; safe headway control

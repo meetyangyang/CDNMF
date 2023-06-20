@@ -1,0 +1,1 @@
+intelligent energy management network; surrogate object-communication model; three layered network architecture; intelligent energy service architecture; building management system functions; facility management system; distributed intelligent management; data processing; building automation; BACnet protocol

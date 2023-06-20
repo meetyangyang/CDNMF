@@ -1,0 +1,1 @@
+Equations; Leg; Jacobian matrices; Assembly; Frequency; Damping; Fasteners; Kinetic energy; Shape; Stability analysis

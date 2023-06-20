@@ -1,0 +1,1 @@
+compensation technique; badly damped vibration; multiaxes PEAs; feedforward control approach; two-degree-of-freedom piezoelectric actuator; hysteresis nonlinearity; creep nonlinearity; feedback control; positioning systems; dexterous precise positioning systems automation; multiaxes piezoelectric actuators cross couplings; hysteresis multivariable compensation

@@ -1,0 +1,1 @@
+smooth path planning; obstacle-avoiding b-spline path; autonomous mining vehicle; path traversal; fourwheel four-gear articulated vehicle; mine wall environment; polygonal chain; quartic uniform B-spline curves; curvature variation; safety margin distance; high speed path; traveling; ore loading; ore unloading

@@ -1,0 +1,1 @@
+three dimensional rigid body dynamics; multiple unilateral contacts; explicit time stepping method; Gauss Seidel iterative methods; differential kinematic analysis; differential inclusion process; velocity based time stepping formulation; Signorini conditions; Coulomb friction law; linear complementary techniques; acceleration based method; contact forces

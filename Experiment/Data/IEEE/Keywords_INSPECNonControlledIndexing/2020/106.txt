@@ -1,0 +1,1 @@
+6-DoF robot; calibration setup; flat plate; sharp tool-tip; nonlinear optimization problem; distance constraints; maximum tool position error; simultaneous calibration; planarity; calibration method; kinematic parameters; SCALAR; 2D laser range finder; Levenberg-Marquardt algorithm

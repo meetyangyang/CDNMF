@@ -1,0 +1,1 @@
+actuators; belts; control engineering computing; conveyors; feedback; image processing; manipulators; robot vision

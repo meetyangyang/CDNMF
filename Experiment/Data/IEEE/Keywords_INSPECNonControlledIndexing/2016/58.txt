@@ -1,0 +1,1 @@
+postal delivery; U-DSS; logistic services; smart cities; waste collection services; general vehicle assignment; routing optimization problem; time constraints; capacity constraints; vehicle routing; two-phase heuristic algorithm; clustering strategy; traveling salesman problem; mixed integer linear programming; PD services; WC services

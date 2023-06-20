@@ -1,0 +1,1 @@
+Bouc-Wen modeling; inverse multiplicative structure; hysteresis nonlinearity; piezoelectric actuators; piezoelectric materials; inverse multiplicative scheme; compensator; Bouc-Wen set of equations

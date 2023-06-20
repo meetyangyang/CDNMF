@@ -1,0 +1,1 @@
+behavior models; functional models; autonomous system supervision; intelligent system supervision; graphical approaches; bond graph tool; supervisory interface; finite automaton; operating mode; service availability; BG elements; fault detection algorithms; fault isolation algorithms; structural properties; causal properties

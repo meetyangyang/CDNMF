@@ -1,0 +1,1 @@
+semantic object labeling; soft-object recognition; dynamic programming segmentation; automated robotic system; semantic maps generation; inventory; retail environments; labeled maps; metric map; shelf boundaries; distance-optimal tour; point cloud; soft-object assignment algorithm; virtual map; automated path planning; navigation; mobile robots; dynamic human environments

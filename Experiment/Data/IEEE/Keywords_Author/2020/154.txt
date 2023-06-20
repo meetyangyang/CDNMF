@@ -1,0 +1,1 @@
+Deconvolution; Gaussian process regression (GPR); geometric accuracy; machine learning; physics-informed learning; shape deviation modeling; transfer function

@@ -1,0 +1,1 @@
+collision avoidance; length measurement; mobile robots; sensors

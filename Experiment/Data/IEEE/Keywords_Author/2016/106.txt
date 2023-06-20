@@ -1,0 +1,1 @@
+Affordance; autonomous agent; grasping; machine learning; object detection; pose estimation

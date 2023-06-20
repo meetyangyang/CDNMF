@@ -1,0 +1,1 @@
+Approximating the Performance of a Batch Service Queue Using the <formula formulatype=\inline\><tex Notation=\TeX\>${\\rm M/M}^{\\rm k}/1$</tex></formula> Model

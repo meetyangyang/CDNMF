@@ -1,0 +1,1 @@
+geometric distribution reader anticollision protocol; RFID dense reader environment; dense passive radio frequency identification systems; reader-to-tag collision; reader-to-reader collision; identified tags; GDRA; centralized scheduler; SIFT geometric probability distribution function; dense reader environment; EPCglobal standard; ETSI EN 302 208 regulation; real RFID systems

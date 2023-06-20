@@ -1,0 +1,1 @@
+Beat effect; chatter detection; machining chatter; variable-scale entropy

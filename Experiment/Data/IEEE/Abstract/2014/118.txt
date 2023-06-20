@@ -1,0 +1,1 @@
+Because high-dimensional wafer bin maps (WBMs) cause various features;  it is difficult to search the similarity among WBMs via conventional pattern recognition methods. This study develops a novel morphology-based support vector machine for defective wafer detection. The experimental results demonstrate its usefulness in yield improvements on precision and computation cost. 

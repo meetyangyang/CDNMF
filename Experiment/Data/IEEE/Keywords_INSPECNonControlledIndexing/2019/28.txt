@@ -1,0 +1,1 @@
+sensitivity analysis; kinematic parameters; prior kinematic models; shaft tendons; general model; flexible shaft; systematical interval-based framework; modeling uncertainties; soft continuum robots; pose characterization; measurement uncertainty; kinematic mechanics parameters; interval arithmetic; model parameters

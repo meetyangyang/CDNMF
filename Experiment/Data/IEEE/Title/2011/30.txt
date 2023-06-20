@@ -1,0 +1,1 @@
+Fast Intersection-Free Offset Surface Generation From Freeform Models With Triangular Meshes

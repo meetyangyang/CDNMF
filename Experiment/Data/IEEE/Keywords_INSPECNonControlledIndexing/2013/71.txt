@@ -1,0 +1,1 @@
+automated formal verification; baggage handling systems; airports; error-free implementation; routing strategies; compositional approach; MHS; assume-guarantee reasoning theory; subsystem proofs; scalability; material handling systems

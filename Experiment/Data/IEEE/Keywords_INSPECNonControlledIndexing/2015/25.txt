@@ -1,0 +1,1 @@
+RoboEarth semantic mapping system; cloud enabled knowledge-based approach; Web services; cloud services; intelligent robot; ontology; SLAM map; scene geometry; object locations; object model subdatabase; semantic reasoning; software as a service; mobile robot

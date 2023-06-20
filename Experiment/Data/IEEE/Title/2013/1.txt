@@ -1,0 +1,1 @@
+Virtual Battery: A Battery Simulation Framework for Electric Vehicles

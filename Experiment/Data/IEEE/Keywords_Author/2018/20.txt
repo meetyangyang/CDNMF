@@ -1,0 +1,1 @@
+Calibration disk; elliptic fitting; noise tolerant; robot-sensor calibration

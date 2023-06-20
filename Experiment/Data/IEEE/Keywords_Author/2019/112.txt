@@ -1,0 +1,1 @@
+Constrained optimization; minimum energy; motion planning; obstacle avoidance; quadratic programming (QP)

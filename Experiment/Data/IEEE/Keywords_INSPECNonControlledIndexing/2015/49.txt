@@ -1,0 +1,1 @@
+particle swarm optimization-based source seeking; source-seeking problem; emitted signal distribution; on-board sensor measurements; robot swarm; electromagnetic source; PSO; population-based stochastic optimization technique; mobile robots; collision avoidance strategies

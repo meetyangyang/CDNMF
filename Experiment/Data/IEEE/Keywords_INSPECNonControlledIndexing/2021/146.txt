@@ -1,0 +1,1 @@
+direct-decoupling closed-loop control method; roll-to-roll web printing system; upstream register control; downstream register errors; register precision; R2R printing systems; complex coupling system; tension fluctuation; mechanical model; Lyapunov stability theorem; DDPD; first-order compensation terms; electronic line shafts; systematic analysis

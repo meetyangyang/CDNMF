@@ -1,0 +1,1 @@
+Resource management; Schedules; Routing; Quantum computing; Algorithm design and analysis; Job shop scheduling; Dynamic scheduling

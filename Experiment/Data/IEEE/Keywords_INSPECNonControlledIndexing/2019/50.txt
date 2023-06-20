@@ -1,0 +1,1 @@
+rehabilitation robots; high-precision trajectory tracking tasks; ESGP-NMPC; unknown nonlinear systems; control signal sequences; control strategy; pneumatic muscle actuators; time-varying characteristics; model predictive control method; PMA; echo state Gaussian process; nonlinear model predictive control; asymptotical stability

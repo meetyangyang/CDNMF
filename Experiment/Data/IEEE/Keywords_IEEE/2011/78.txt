@@ -1,0 +1,1 @@
+Grippers; Force control; Actuators; Piezoelectric actuators; Position control; Mathematical model; Microassembly

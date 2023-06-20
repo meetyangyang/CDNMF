@@ -1,0 +1,1 @@
+centroidal Voronoi configuration; automated multiagent search; sensors; uncertainty density distribution function; sequential deploy and search strategy; globally asymptotic; optimal deployment

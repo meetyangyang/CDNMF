@@ -1,0 +1,1 @@
+seamless fusion; indoor environments; plane-edge-SLAM system; constraint analysis; camera motion estimation; probabilistic plane fitting algorithm; plane model; estimated plane parameters; existing plane fitting methods; robust localization; novel simultaneous localization; edge features; indoor scenes

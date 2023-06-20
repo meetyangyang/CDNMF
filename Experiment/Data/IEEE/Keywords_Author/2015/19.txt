@@ -1,0 +1,1 @@
+Automated cell inspection; cell deformation analysis; frame-straddling camera; high-speed vision; lab-on-a-chip (LOC); multiobject feature extraction

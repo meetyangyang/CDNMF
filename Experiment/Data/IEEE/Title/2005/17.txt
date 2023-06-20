@@ -1,0 +1,1 @@
+Multi-degree cyclic scheduling of two robots in a no-wait flowshop

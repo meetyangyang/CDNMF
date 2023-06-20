@@ -1,0 +1,1 @@
+programmable logic controllers; learning time delay Mealy machine; LearnLib library; custom learning method; PLC software

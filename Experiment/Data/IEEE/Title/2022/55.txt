@@ -1,0 +1,1 @@
+Condition-Based Monitoring in Variable Machine Running Conditions Using Low-Level Knowledge Transfer With DNN

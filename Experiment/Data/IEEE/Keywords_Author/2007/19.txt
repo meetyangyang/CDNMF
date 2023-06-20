@@ -1,0 +1,1 @@
+Data bases; discrete event systems (DES); finite state machines; logical control; rule-based systems

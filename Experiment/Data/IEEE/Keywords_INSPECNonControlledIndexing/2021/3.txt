@@ -1,0 +1,1 @@
+GP; active learning methods; D-optimal weighted active learning algorithm; composite fuselage; Gaussian process; machine learning domain; iterative data selection algorithm; information acquisition; improving model performance; training samples

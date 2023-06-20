@@ -1,0 +1,1 @@
+Cloud computing; energy efficiency; model predictive control (MPC); quality-aware placement; security; virtual machine placement

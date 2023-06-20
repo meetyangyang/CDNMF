@@ -1,0 +1,1 @@
+optimal sensor placement; sensor location; sensor coverage metric; sensor coverage optimality metric; spatial network coverage; sensor influence wave; spatial network topology; spatial weight maps; spatial region; sensor placement optimization; spatial integration; road network geometries

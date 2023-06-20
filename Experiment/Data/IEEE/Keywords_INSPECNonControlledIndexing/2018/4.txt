@@ -1,0 +1,1 @@
+relative global image motion; frequency spectral information; visual signal; high-resolution piezo-positioning platform; SEM vacuum chamber; image-guided nanopositioning scheme; micronanoobjects; scanning electron microscope; teleoperation; automatic control; positioning platform movements

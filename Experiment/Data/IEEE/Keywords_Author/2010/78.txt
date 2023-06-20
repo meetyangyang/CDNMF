@@ -1,0 +1,1 @@
+Max-Plus algebra; networked automation systems; response time evaluation; switched Ethernet networks; timed events graph

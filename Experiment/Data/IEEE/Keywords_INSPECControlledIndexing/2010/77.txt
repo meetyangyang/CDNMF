@@ -1,0 +1,1 @@
+asymptotic stability; delays; discrete time systems; gain control; H∞ control; linear matrix inequalities; time-varying systems

@@ -1,0 +1,1 @@
+Anticollision; framed ALOHA; radio-frequency identification (RFID); tag estimate

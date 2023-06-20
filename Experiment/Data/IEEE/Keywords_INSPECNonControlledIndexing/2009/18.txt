@@ -1,0 +1,1 @@
+dynamic calibration; multiple camera; 3D space; 2D image plane; epipolar-plane constraint; sensitivity analysis; measurement error

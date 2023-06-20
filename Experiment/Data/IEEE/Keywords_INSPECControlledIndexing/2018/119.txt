@@ -1,0 +1,1 @@
+adaptive control; closed loop systems; control engineering computing; control system synthesis; feedback; Lyapunov methods; quadratic programming; road safety; road vehicles; vehicle dynamics; velocity control

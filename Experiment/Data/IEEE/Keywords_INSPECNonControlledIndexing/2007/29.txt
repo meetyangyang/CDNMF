@@ -1,0 +1,1 @@
+multiple PTZ cameras calibration; camera positioning; camera orientation; multiple pan-tilt-zoom cameras; back-projected world coordinates; 3D space vectors; sensitivity analysis; measurement errors; homography matrix

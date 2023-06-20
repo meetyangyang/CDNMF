@@ -1,0 +1,1 @@
+Automatic Sweep Scan Path Planning for Five-Axis Free-Form Surface Inspection Based on Hybrid Swept Area Potential Field

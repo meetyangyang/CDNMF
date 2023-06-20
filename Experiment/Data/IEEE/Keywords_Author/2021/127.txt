@@ -1,0 +1,1 @@
+Disassembly sequence; intelligent algorithm; multiobjective; multiresource constraints; Petri nets (PNs)

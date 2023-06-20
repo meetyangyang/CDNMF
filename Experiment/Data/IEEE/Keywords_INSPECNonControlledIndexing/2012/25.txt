@@ -1,0 +1,1 @@
+supply chain networks; analytical performance modeling approach; SCN model; parametric decomposition method; demand information upstream flow; material downstream flow; inventory points; sequential solution procedure; supplier stage; retailer stage; backorder distribution; probability calculations; inventory management

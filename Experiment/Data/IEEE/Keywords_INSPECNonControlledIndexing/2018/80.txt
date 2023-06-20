@@ -1,0 +1,1 @@
+hybrid systems; mode detection problem; system faults; structural fault detection and isolation; structural diagnosis approach; analytic redundancy methods; hybrid minimal structurally overdetermined sets; HMSO selection problem; binary integer linear programming optimization problem; computational costs

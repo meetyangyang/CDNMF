@@ -1,0 +1,1 @@
+Attitude determination; attitude quaternion; eigenvalue problem; pseudoinverse matrix; vector observations; wahba’s problem

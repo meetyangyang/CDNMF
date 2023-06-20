@@ -1,0 +1,1 @@
+Ethernet-based communication network; cost-effective hot-standby redundancy; PACSystems Profinet system redundancy; real-time Ethernet protocols; Ethernet communication interface; programmable logic controllers; redundant sensors; communication modules; redundant communication links; industrial computer systems

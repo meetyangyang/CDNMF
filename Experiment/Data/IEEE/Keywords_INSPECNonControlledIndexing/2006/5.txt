@@ -1,0 +1,1 @@
+SPC monitoring system; cycle-based waveform signals; manufacturing process; process monitoring; process diagnosis methodology; statistical process control; process measurements; Haar wavelet transform; process mean shift; stamping process; automatic sensing; spot welding process; decision-making technique; multivariate control charts

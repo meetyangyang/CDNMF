@@ -1,0 +1,1 @@
+We design an on-chip hardware accelerator for automated diagnosis and personalized healthcare by predicting biological protein folding. The simulation results based on the lattice protein model can well guide the practitioners to design a more convenient and reliable product quickly detecting the biomarker;  such as the deviation from the protein's native state. 

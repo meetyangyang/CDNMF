@@ -1,0 +1,1 @@
+RCTL: New Temporal Logic for Improved Formal Verification of Reconfigurable Discrete-Event Systems

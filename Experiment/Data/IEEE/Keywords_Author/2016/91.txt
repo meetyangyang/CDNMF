@@ -1,0 +1,1 @@
+Actuator saturations and faults; adaptive control; attitude tracking; fast terminal sliding mode control (FTSMC); finite-time control

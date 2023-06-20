@@ -1,0 +1,1 @@
+performance assessment; univariate alarm system design; FAR; MAR; AAD; false alarm rate; missed alarm rate; averaged alarm delay; alarm generation mechanism; trip point; alarm on-off delay; performance index; probability density function; univariate process variable; mean change detection

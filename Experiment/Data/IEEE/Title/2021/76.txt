@@ -1,0 +1,1 @@
+Visibility-Based Persistent Monitoring of Piecewise Linear Features on a Terrain Using Multiple Aerial and Ground Robots

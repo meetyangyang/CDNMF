@@ -1,0 +1,1 @@
+Automatic assessment of nanostructure quality is essential for scale-up nanomanufacturing;  but current characterization of nanostructures based on SEM or transmission electron microscopy (TEM) is labor and computation intensive. This paper develops methods to quantify nanostructure local variability and detect defects with minimum metrology efforts. 

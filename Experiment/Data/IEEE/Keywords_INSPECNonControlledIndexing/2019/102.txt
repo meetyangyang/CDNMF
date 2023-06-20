@@ -1,0 +1,1 @@
+software system; software runtime behavior analysis; software behavioral model; software event log; extended process discovery techniques; open source process mining toolkit ProM; software execution data; automatic discovery; hierarchical software event log; method calling relation detection; hierarchical Petri net; synthetic software event logs

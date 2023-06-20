@@ -1,0 +1,1 @@
+combinatorial NP-hard problem; optimal solutions; suboptimal bin packing; bin covering; optimization problems; item values; equivalence classes; recycling; packaging; food processing; general-purpose MILP-solvers

@@ -1,0 +1,1 @@
+analytic calculus; networked automation system; client server system; timed event graph; linear Max-Plus equation; real-time systems; shared resource; response time; formal evaluation; Ethernet network

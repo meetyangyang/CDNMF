@@ -1,0 +1,1 @@
+penalty function; two-level hybrid shop floor control system; subordinate controllers; supervisory level performance; subordinate agents; disturbance agent; supervisory agent; math programming formulations; job shop problem; supervisory level rescheduling; manufacturing scheduling problems; transportation sector; health-care sector; defense sector

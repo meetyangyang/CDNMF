@@ -1,0 +1,1 @@
+reduced guard symbolic computation; supervisory control; industrial application; tractable logic condition; binary decision diagram; deterministic finite automata

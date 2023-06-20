@@ -1,0 +1,1 @@
+control charts; discrete wavelet transforms; fault diagnosis; Hilbert transforms; moving average processes; rolling bearings; signal detection; statistical analysis; vibrational signal processing

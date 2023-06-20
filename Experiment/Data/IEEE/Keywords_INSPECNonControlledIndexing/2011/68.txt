@@ -1,0 +1,1 @@
+selfassessment-based decision making scheme; multiagent cooperative search; search problem; dynamical networked environment; information structures; negotiation scheme; information exchange; selfassessment cycles; communication range; algorithm completenes; search time

@@ -1,0 +1,1 @@
+Model predictive control (MPC); real-time control; robotics; trajectory generation; trajectory optimization

@@ -1,0 +1,1 @@
+control system synthesis; friction; Lyapunov methods; manipulator dynamics; nonlinear control systems; observers; robust control

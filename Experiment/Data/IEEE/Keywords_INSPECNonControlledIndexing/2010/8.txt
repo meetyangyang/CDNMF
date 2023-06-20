@@ -1,0 +1,1 @@
+wireless sensor networks; robust calibration procedure; clustered wireless sensor networks; ad-hoc sensor network; linear calibration model; corruptions; communication failures; least-trimmed squares; statistical packages; sensor network calibration

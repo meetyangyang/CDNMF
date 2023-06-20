@@ -1,0 +1,1 @@
+A Minimal POE-Based Model for Robotic Kinematic Calibration With Only Position Measurements

@@ -1,0 +1,1 @@
+Dual constrained single machine sequencing to minimize total weighted completion time

@@ -1,0 +1,1 @@
+Convolutional network; interstory drift ratio (IDR); machine learning; structural health monitoring (SHM)

@@ -1,0 +1,1 @@
+actuators; adaptive control; closed loop systems; control system synthesis; feedback; intelligent robots; Lyapunov methods; manipulator dynamics; mobile robots; motion control; neurocontrollers; optimal control; optimisation; path planning; robot kinematics; robot vision; robust control; time-varying systems; velocity control; warehouse automation

@@ -1,0 +1,1 @@
+Batch-processing scheduling; buffer size; green scheduling algorithm; hybrid flow shop scheduling; multiobjective differential evolution (DE) algorithm; robotic cell; smart manufacturing system

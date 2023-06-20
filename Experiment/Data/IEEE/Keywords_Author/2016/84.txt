@@ -1,0 +1,1 @@
+Membrane algorithm; optimized feedforward decoupling PD control; register; roll-to-roll (R2R) web printing system; volatility of control signal

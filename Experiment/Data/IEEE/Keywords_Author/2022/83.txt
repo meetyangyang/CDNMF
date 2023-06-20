@@ -1,0 +1,1 @@
+Discrete event systems (DESs); recovery procedure; supervisory control theory (SCT); synchronizing automata

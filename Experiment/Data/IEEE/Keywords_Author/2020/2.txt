@@ -1,0 +1,1 @@
+Curvature-bounded path; homotopic method; length-targeted path planning; obstacle avoidance

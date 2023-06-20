@@ -1,0 +1,1 @@
+Design by contract; formal verification; manufacturing automation software; programmable logic controller (PLC); software requirements and specifications; software reusability; software verification and validation

@@ -1,0 +1,1 @@
+dexterous manipulators; manipulator dynamics; mechanical contact; optimisation; tree searching

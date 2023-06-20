@@ -1,0 +1,1 @@
+left ventricular boundary; cine magnetic resonance images; cardiology; automatic threshold selection; boundary extraction; deformation flow tracking; convex shape modeling; PDE optical flow method; complete short-axis cine MRI datasets; segmenting LV borders; user friendly interface software

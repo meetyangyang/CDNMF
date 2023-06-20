@@ -1,0 +1,1 @@
+RFID protocol; radiofrequency identification; EPCglobal UHF class-1 generation-2 system; dynamic frame slotted aloha; DFSA; anticollision problem; tag backlog; frame length; tag estimator; backlog estimation; estimation error; warehouse management; supply chain management; RFID interrogators; single-chip microprocessor

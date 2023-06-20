@@ -1,0 +1,1 @@
+generic deviation-based approach; tolerance synthesis method; generic model; manufactured parts; tolerance specifications; generalized coordinate system; small displacement torsors; constrained nonlinear optimization process; assemblability; functional requirements; manufacturing model deviation-based cost; working module

@@ -1,0 +1,1 @@
+A Unified Distance Function Framework for Workpiece Fixturing Modeling and Analysis

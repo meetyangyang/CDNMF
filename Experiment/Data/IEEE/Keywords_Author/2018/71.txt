@@ -1,0 +1,1 @@
+Collaborative filtering; constrained user behavior; multinomial manifold; Riemannian optimization

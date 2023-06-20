@@ -1,0 +1,1 @@
+accelerometers; field effect transistors; pressure sensors; silicon-on-insulator; strain gauges; stress measurement

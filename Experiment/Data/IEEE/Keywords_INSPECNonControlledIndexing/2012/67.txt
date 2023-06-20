@@ -1,0 +1,1 @@
+vision-based tactile sensing; fluid-type touchpad; CCD camera; LED lights; transparent acrylic plate; elastic membrane; translucent red water; traveling light; shape-irregularity estimation; red-green-blue values; RGB values; reflection coefficient; geometrical parameters; touchpad surface; approximation error reduction

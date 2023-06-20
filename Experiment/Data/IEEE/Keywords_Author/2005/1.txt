@@ -1,0 +1,1 @@
+Automatic test system (ATS); condition monitoring; distributed system; object orientation; system integration; turbine machinery

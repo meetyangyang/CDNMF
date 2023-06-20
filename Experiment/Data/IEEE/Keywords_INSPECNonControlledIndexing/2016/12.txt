@@ -1,0 +1,1 @@
+finite production run-based serial line; Bernoulli machine; manufacturing system; small-to-medium-size production; transient regime; steady-state analysis; finite buffer; Bernoulli reliability model; system-theoretic property; computationally efficient algorithm; monotonicity property; reversibility property; lighting equipment assembly plant

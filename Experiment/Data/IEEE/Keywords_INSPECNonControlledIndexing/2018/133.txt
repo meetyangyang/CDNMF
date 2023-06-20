@@ -1,0 +1,1 @@
+adaptive antiswing control strategy; system parameters; linearized crane dynamics; open-loop controllers; double-pendulum cranes; industrial cranes; nonlinear antiswing control; double-pendulum swing angles; double-pendulum swing effects; crane systems

@@ -1,0 +1,1 @@
+capacity reservation; critical resource cancellation; contracted time slot; regular time slot; average cost Markov decision process; customer waiting time; optimal control; discounted cost problem; local optimization algorithm; shared critical resource; contract design

@@ -1,0 +1,1 @@
+long-term scheduling; cascaded hydro energy systems; annual water consumption; low carbon energy production; planning horizon; water resource; stochastic system dynamics; nonlinear marginal cost; coupled hydraulic constraints; finite horizon constrained Markov decision process

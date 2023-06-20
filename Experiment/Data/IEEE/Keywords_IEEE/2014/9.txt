@@ -1,0 +1,1 @@
+System recovery; Resource management; Heuristic algorithms; Vectors; Algorithm design and analysis; Data structures; Availability

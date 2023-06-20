@@ -1,0 +1,1 @@
+Optimization of Total Energy Consumption in Flexible Manufacturing Systems Using Weighted P-Timed Petri Nets and Dynamic Programming

@@ -1,0 +1,1 @@
+Gesture recognition; Cameras; Lighting; Vision sensors; Neuromorphics; Robustness; Heuristic algorithms

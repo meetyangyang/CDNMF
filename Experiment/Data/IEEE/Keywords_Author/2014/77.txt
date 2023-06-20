@@ -1,0 +1,1 @@
+Cellular manufacturing; cell formation; parts scheduling in cells; Lagrangian relaxation decomposition; scatter search approach

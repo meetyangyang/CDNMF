@@ -1,0 +1,1 @@
+Build orientation; generic algorithm; orthogonal layered manufacturing  (LM); process planning; volume decomposition

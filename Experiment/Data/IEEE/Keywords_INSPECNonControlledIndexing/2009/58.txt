@@ -1,0 +1,1 @@
+learned human behavior model; smart home; augmented environment; 3D video tracking system; speech activity detector; audio streams; head set microphones; ambient sound detector; noise detection; individual role detector; statistical models; hidden Markov model; situation recognition

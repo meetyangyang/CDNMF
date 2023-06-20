@@ -1,0 +1,1 @@
+assembly scheduling problem; tree-structure precedence constraint; Lagrangian relaxation approach; ASP; work center; mixed integer linear programming formulation; heuristic method; randomized list scheduling algorithm; bill-of-material; shared manufacturing facility; job shop scheduling problem; LR approach

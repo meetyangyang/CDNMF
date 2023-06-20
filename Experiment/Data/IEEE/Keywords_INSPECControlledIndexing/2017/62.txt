@@ -1,0 +1,1 @@
+active disturbance rejection control; control system synthesis; delays; optimal control; optimisation; PI control; robust control; stability; three-term control; uncertain systems

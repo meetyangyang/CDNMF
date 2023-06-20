@@ -1,0 +1,1 @@
+process module failure; single-arm cluster tools; wafer residency time constraints; semiconductor manufacturing; scheduling; Petri net model; failure response policies; wafer fabrication; polynomials

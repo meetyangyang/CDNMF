@@ -1,0 +1,1 @@
+ice load; nonlinear model predictive controller; commercial vessel maneuvering software; UKF; ice-infested environments; finite-horizon optimal control based approach; dynamic vessel positioning; unscented Kalman filter-based nonlinear observer; vessel state estimation; disturbance rejection; NMPC-based controller

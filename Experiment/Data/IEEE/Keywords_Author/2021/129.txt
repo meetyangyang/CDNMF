@@ -1,0 +1,1 @@
+Defect detection; iterative tensor voting; inhomogeneous texture

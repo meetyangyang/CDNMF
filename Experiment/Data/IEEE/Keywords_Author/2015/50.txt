@@ -1,0 +1,1 @@
+Auction algorithms; distributed algorithms; generalized assignment; multi-agent coordination; multirobot task allocation; task deadline

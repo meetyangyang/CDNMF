@@ -1,0 +1,1 @@
+Adaptive Fault-Tolerant Tracking Control for MIMO Discrete-Time Systems via Reinforcement Learning Algorithm With Less Learning Parameters

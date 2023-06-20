@@ -1,0 +1,1 @@
+Heuristic algorithm; mixed integer linear programming; one-loop pallet system; optimal and robust control; tension force model

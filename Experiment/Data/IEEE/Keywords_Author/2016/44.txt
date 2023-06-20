@@ -1,0 +1,1 @@
+Constrained application protocol (CoAP); datagram transport layer security (DTLS); Internet of things; scalability; keys; security; 6LoWPAN

@@ -1,0 +1,1 @@
+support vector regression; nonparametric modeling technique; complex nonlinear systems; l1 norm minimization; autoregression approach; moving average approach; innovative nonlinear dynamical system identification approach; linear programming SVM-ARMA2K; model sparsity; representative dynamical engine model; generalization capability

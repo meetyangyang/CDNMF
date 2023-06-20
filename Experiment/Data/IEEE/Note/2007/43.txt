@@ -1,0 +1,1 @@
+We present a data-based procedure to localize flaws in large production lines: using the results of final quality inspections and information about which machines processed which batches, we are able to identify machines which cause low yield.

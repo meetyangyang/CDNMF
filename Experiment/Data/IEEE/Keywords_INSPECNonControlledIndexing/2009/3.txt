@@ -1,0 +1,1 @@
+Q-algorithm; ISO 18000-6C protocol; passive radio-frequency identification; EPC Gen2 protocol; medium access control algorithm; Slotted Aloha multiuser channel access algorithm; air interface protocol

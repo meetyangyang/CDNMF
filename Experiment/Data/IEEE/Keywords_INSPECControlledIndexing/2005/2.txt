@@ -1,0 +1,1 @@
+friction; many-body problems; iterative methods; mechanical contact; mechanical engineering computing

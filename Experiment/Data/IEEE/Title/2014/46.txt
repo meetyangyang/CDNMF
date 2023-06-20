@@ -1,0 +1,1 @@
+Estimating Part Pose Statistics With Application to Industrial Parts Feeding and Shape Design: New Metrics;  Algorithms;  Simulation Experiments and Datasets

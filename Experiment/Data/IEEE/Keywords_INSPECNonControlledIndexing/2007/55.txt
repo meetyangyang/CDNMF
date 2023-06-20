@@ -1,0 +1,1 @@
+Petri-net approach; modular supervision; conflict resolution; semiconductor manufacturing systems; human operations; destructive failure; human-in-the-loop systems; supervisory framework; modular technique; intersection mechanism; rapid thermal process; state-space explosion problem; large-scale systems

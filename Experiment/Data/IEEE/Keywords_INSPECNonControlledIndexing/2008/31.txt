@@ -1,0 +1,1 @@
+single-machine earliness-tardiness problem; machine idle time; hybrid approach; branch-and-bound technique; scheduling problem; nonregular objective function; partial dynamic programming dominance

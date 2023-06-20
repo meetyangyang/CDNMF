@@ -1,0 +1,1 @@
+Computation tree logic (CTL); discrete-event system (DES); model checking; Petri net; reconfigurable CTL (RCTL); reconfigurable timed net condition event system (R-TNCES); reconfiguration

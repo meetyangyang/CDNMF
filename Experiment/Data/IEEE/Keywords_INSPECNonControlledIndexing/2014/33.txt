@@ -1,0 +1,1 @@
+adaptive sensor allocation strategy; process monitoring; diagnosis; Bayesian network; multivariate process control; distributed sensor networks; DSN; optimal sensor allocation strategy; process control applications; sensor layout; max-min criterion; BN model; hot forming process; cap alignment process; fault scenarios

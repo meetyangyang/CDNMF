@@ -1,0 +1,1 @@
+stochastic process; online time-based algorithm; optimal control parameters; machine tool; control policy; switching policy; online policy; manufacturing equipment; machine state control; machining processes; energy-efficiency state control

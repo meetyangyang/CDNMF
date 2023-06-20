@@ -1,0 +1,1 @@
+Dynamic pricing; inventory/production; Markov decision process

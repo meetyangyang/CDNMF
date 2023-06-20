@@ -1,0 +1,1 @@
+Planning Smooth and Obstacle-Avoiding B-Spline Paths for Autonomous Mining Vehicles

@@ -1,0 +1,1 @@
+Robotic aircraft have been widely implemented to improve safety, efficiency, and productivity (e.g., agriculture, law enforcement, building inspections, and so on). As a part of its autonomous navigation system, this review aims to address several aspects of VI navigation systems both from data fusion and technological perspectives.

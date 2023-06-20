@@ -1,0 +1,1 @@
+Activity of daily living (ADL); activity discovery (AD); activity recognition (AR); normalized likelihood; probabilistic finite-state automata (PFA); smart home

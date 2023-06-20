@@ -1,0 +1,1 @@
+Lagrangian relaxation convergence; production scheduling; flexible manufacturing system; machine idleness avoidance; set-up times penalty minimization; manufacturing scheduling problem; NP-hard problem; constraint programming; primal cost convergence; extended subgradient information; dual cost convergence; subgradient method; step size rule

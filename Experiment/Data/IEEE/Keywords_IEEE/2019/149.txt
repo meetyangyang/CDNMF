@@ -1,0 +1,1 @@
+Registers; Printing; Mathematical model; Printing machinery; Heuristic algorithms; Control systems; Analytical models

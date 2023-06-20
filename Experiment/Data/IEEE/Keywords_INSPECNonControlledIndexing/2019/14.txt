@@ -1,0 +1,1 @@
+Parkinson's disease; electronic devices; at-home testing device; internet-based measurement; PD vocal symptoms; unified PD rating scale; UPDRS; data shortage; telemonitoring application; patient-specific model parameters; blind transfer; negative transfer; positive TL method; AHTD vocal measurement; parameter transfer method; positive transfer learning approach

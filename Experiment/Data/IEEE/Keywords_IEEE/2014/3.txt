@@ -1,0 +1,1 @@
+Computational modeling; Automata; Synchronization; Analytical models; Indexes; Vectors; Supervisory control

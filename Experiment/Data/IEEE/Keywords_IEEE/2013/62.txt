@@ -1,0 +1,1 @@
+Synchronization; Joints; Kinematics; Aerospace electronics; Tracking; Manipulator dynamics

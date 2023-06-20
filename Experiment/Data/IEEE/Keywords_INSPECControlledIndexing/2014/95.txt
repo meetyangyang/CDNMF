@@ -1,0 +1,1 @@
+actuators; aerospace testing; autonomous aerial vehicles; control nonlinearities; control system synthesis; gain control; Global Positioning System; H2 control; H∞ control; linear matrix inequalities; pole assignment; robot vision; robust control; suboptimal control; three-term control

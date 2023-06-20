@@ -1,0 +1,1 @@
+secrecy quantification; partially observed stochastic discrete event systems; cryptography; system behaviors; Jensen-Shannon divergence-based measure; JSD-based measure; secrecy loss; statistical difference; secret versus cover; side-channel attack

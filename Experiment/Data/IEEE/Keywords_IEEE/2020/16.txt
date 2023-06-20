@@ -1,0 +1,1 @@
+Fault diagnosis; Time series analysis; Monitoring; Analytical models; Support vector machines; Reactive power; Matrix decomposition

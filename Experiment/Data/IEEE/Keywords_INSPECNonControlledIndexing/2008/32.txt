@@ -1,0 +1,1 @@
+transmission devices automatic inspection; acoustic data; intelligent inspection system; discrimination process; defective-nondefective products; feature extraction; neuroclassifier training; learning vector quantization; genetic algorithm; floating point; quality evaluation rule; self-organizing feature map; intelligent evaluation system; vibrometer signal processing

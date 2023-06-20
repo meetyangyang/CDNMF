@@ -1,0 +1,1 @@
+data point; simple nonlinear system; kernel regression models; virtual sensors; nonlinear processes; data-driven regression methods; kernel function; self-learning kernel regression model; special kernel space; regression behavior; projected input variables; objective function; input space nonlinearity

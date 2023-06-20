@@ -1,0 +1,1 @@
+Column generation (CG); gossip algorithm; home healthcare (HHC); vehicle routing problem

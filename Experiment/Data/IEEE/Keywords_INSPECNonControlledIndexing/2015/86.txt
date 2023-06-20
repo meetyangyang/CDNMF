@@ -1,0 +1,1 @@
+RFID protocols; CDMA; standard EPC Gen-2; radio frequency identification; ubiquitous wireless technology; passive tags; active tags; standard communication protocol; transmission collisions; wireless channel; dynamic framed slotted ALOHA technique; code division multiple access; Markov chain systems

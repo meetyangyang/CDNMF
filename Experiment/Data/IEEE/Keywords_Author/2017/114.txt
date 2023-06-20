@@ -1,0 +1,1 @@
+Bacterial foraging algorithm (BFA); electromyography (EMG); ensemble empirical mode decomposition (EEMD); fatigue feature extraction; Gaussian support vector classifier machine (GSVCM)

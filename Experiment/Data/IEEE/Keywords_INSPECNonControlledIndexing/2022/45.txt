@@ -1,0 +1,1 @@
+target spike trains; multineuron spike trains; average pairwise spike train distance; multineuron Victor-Purpura spike train distance; spike train kernel-based methods; direct spike train similarity comparison; spike train fusion methods; tactile roughness discrimination task; neurobotic systems; neuromorphic implementation; biomimetic tactile sensing; k-nearest neighbors

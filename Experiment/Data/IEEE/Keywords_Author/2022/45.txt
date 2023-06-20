@@ -1,0 +1,1 @@
+k-nearest neighbors (kNNs); multineuron spike train distance; spiking neural networks (SNNs); surface roughness categorization; tactile sensing

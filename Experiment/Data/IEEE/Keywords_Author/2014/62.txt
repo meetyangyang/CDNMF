@@ -1,0 +1,1 @@
+Constraint-handing strategy; electric smelting furnaces; load scheduling; multiobjective particle swarm optimization

@@ -1,0 +1,1 @@
+CAD; collision avoidance; computational geometry; layered manufacturing; mesh generation; object-oriented methods; process planning; production engineering computing; rapid prototyping (industrial); solid modelling

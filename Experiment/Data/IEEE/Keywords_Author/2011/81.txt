@@ -1,0 +1,1 @@
+Adaptive-optimal-control (AOC); automatic train regulation (ATR); energy saving; metro; optimization; reinforcement learning

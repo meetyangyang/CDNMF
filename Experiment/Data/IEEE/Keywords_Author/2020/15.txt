@@ -1,0 +1,1 @@
+Automotive vehicles; dynamic segment; end-to-end delay (EED); Flexray; slot multiplexing (SM)

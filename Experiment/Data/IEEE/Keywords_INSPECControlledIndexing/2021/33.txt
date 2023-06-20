@@ -1,0 +1,1 @@
+biomechanics; brain-computer interfaces; discrete wavelet transforms; electroencephalography; feature extraction; feedback; gait analysis; medical control systems; medical signal processing; prosthetics; signal classification; support vector machines

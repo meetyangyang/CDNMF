@@ -1,0 +1,1 @@
+data mining; decision support systems; medical information systems; optimisation; planning; scheduling; surgery

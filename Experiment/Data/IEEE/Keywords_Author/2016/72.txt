@@ -1,0 +1,1 @@
+Nondominated genetic algorithm; parallel robots; robot design optimization; wearable ankle rehabilitation robot

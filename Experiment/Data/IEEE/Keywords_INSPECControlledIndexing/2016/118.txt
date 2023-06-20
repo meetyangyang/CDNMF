@@ -1,0 +1,1 @@
+automobile industry; collision avoidance; iterative methods; multi-robot systems; optimisation; planning; scheduling; travelling salesman problems; tree searching; welding

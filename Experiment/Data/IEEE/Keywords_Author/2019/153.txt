@@ -1,0 +1,1 @@
+Autoregressive moving average; fast tool servo (FTS); flexure; hysteresis; nanopositioning control

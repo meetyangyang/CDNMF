@@ -1,0 +1,1 @@
+fault coupling; measurement noises; energy consumption; AHU; coupled statistical process control techniques; state transition matrices; dynamic hidden Markov models; measurement dynamics; false alarm rates; failure modes; heating-ventilation and air conditioning system; fault propagation impacts; HVAC air-handling systems; fault diagnosis

@@ -1,0 +1,1 @@
+cameras; feature extraction; geometry; handicapped aids; image sequences; indoor navigation; Kalman filters; mobile robots; nonlinear filters; object detection; object tracking; path planning; pose estimation; robot vision; service robots

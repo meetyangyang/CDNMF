@@ -1,0 +1,1 @@
+Bayesian inference-based distance (BID); condition slices; Gaussian mixture model (GMM); slow feature analysis (SFA); temporal analytics; transient process; wide-range nonstationarity

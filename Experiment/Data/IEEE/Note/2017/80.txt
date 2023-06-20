@@ -1,0 +1,1 @@
+Accurate dynamic positioning (DP) ofvessels in the presence of environmental disturbances is veryimportant for Arctic explorations. This paper proposes a tightlycoupled approach to estimate the unknown forces acting on avessel and the vessel states. Also, an optimum control-basedsolution is proposed for robust DP.

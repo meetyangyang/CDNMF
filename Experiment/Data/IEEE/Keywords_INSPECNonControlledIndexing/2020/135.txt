@@ -1,0 +1,1 @@
+fixed-charge capacitated multicommodity network design problems; flow-concentrated cell; dynamic multicommodity flow problem; connectivity constraints; cell-based neighborhood search; delivery point; capacity constraints; automated guided vehicle systems; guide path design; cell-based local search heuristics

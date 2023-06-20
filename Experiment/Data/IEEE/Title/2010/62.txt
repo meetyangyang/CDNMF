@@ -1,0 +1,1 @@
+A New ANFIS for Parameter Prediction With Numeric and Categorical Inputs

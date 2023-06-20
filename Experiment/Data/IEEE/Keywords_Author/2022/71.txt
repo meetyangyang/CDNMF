@@ -1,0 +1,1 @@
+Autonomous vehicles; eco-driving; input constraint; optimal control; state constraint; vehicle-to-infrastructure (V2I) communication

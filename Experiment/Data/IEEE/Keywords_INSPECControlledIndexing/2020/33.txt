@@ -1,0 +1,1 @@
+covariance matrices; Gaussian distribution; learning (artificial intelligence); maximum likelihood estimation; optimisation; regression analysis; signal sampling

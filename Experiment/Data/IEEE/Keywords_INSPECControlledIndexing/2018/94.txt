@@ -1,0 +1,1 @@
+image sensors; mobile robots; path planning; position control; robot vision; SLAM (robots)

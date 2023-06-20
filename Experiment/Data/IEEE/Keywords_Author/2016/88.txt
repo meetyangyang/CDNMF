@@ -1,0 +1,1 @@
+Collaborative filtering; incremental model; matrix factorization; recommender system; scheme; static model

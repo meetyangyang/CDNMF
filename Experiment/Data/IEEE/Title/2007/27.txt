@@ -1,0 +1,1 @@
+Fast Nesting of 2-D Sheet Parts With Arbitrary Shapes Using a Greedy Method and Semi-Discrete Representations

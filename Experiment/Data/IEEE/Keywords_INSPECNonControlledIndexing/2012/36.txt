@@ -1,0 +1,1 @@
+distributed PLC control system redesign methodology; IEC 61499 function block architecture; programmable control technology; event-driven architecture; redesigning application; mapping rules; IEC 61131-3 PLC; object-oriented conversion; object-oriented reuse approach; class-oriented approach; source PLC code; data handling; airport baggage handling system; redesign process

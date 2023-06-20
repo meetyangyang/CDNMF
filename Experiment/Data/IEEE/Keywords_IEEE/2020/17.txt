@@ -1,0 +1,1 @@
+Drones; Task analysis; Sorting; Routing; Heuristic algorithms; Genetic algorithms; Job shop scheduling

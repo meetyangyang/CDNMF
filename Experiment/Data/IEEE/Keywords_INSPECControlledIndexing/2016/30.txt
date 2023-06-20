@@ -1,0 +1,1 @@
+biomedical optical imaging; cancer; endoscopes; feature extraction; image classification; image texture; medical image processing; support vector machines; tumours

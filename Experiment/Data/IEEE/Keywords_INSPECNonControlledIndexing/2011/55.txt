@@ -1,0 +1,1 @@
+realtime dispatching heuristic approach; two machine batching problem; time window constraints; binary integer programming; flow shop problem; scheduling; iteration; semiconductor manufacturing process; best fit method; job reservation transactions

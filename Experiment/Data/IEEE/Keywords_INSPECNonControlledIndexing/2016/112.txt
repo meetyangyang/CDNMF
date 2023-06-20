@@ -1,0 +1,1 @@
+early frame break policy; ALOHA-based RFID system; radio frequency identification; dynamic frame slotted ALOHA throughput; DFSA throughput; slot-by-slot estimation approach; SbS estimation approach; RFID supply chain application; fast tag identification; read tags; near optimal tag identification; low computational burden

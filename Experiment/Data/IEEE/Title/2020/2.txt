@@ -1,0 +1,1 @@
+Curvature-Bounded Lengthening and Shortening for Restricted Vehicle Path Planning

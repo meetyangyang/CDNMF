@@ -1,0 +1,1 @@
+Service robots; Path planning; Parallel robots; Multidimensional systems; Drilling; Collision avoidance; Orbital robotics; Parallel processing; Traveling salesman problems; Space exploration

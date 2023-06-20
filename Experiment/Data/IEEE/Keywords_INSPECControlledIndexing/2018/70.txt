@@ -1,0 +1,1 @@
+feature extraction; gait analysis; Gaussian processes; medical robotics; mobile robots; neural nets; regression analysis

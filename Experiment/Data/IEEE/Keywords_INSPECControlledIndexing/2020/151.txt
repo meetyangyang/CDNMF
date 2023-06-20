@@ -1,0 +1,1 @@
+autonomous underwater vehicles; fuzzy control; grippers; manipulators; mobile robots; motion control; position control; propulsion; remotely operated vehicles; stereo image processing; underwater vehicles

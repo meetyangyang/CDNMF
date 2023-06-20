@@ -1,0 +1,1 @@
+Expectation–maximization (EM) algorithm; hidden Markov model (HMM); human stability; multiple regression; signal segmentation; stabilometric data

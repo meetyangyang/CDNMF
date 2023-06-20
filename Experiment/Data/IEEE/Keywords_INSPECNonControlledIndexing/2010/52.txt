@@ -1,0 +1,1 @@
+Petri net decomposition approach; optimization; route planning problems; AGV systems; automated guided vehicles; semiconductor fabrication bays; shortest path algorithm

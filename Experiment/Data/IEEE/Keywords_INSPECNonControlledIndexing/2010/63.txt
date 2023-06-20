@@ -1,0 +1,1 @@
+facility location; maximal covering location problem; banking facility; nested partitions algorithm; heuristic-based extension; optimization

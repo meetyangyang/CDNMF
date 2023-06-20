@@ -1,0 +1,1 @@
+This paper presents an e-textile system with embedded e-TAGs and a fall risk assessment algorithm using local dynamicstability. By identifying the individuals with higher risk of falling, it is possible to prevent and/or reduce the injuries associated with fall accidents.

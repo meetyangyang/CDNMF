@@ -1,0 +1,1 @@
+active databases; control system CAD; discrete event systems; expert systems; finite state machines; flexible manufacturing systems; IEC standards; object-oriented programming; process control; production engineering computing; software engineering

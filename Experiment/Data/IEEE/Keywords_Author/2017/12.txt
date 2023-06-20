@@ -1,0 +1,1 @@
+Dynamic decision making; operation process rebuilding (OPR); opportunistic maintenance (OM); predictive maintenance (PdM); variable maintenance time window (VMTW)

@@ -1,0 +1,1 @@
+distributed particle swarm optimization algorithm; centralized PSO algorithm; consensus-based bundle algorithm; distributed task allocation algorithms; urban search and rescue problems; modified centralized algorithm based on particle swarm optimization; MCPSO; market auction mechanism; genetic algorithms

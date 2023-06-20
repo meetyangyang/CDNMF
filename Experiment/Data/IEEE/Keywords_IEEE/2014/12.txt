@@ -1,0 +1,1 @@
+Vectors; Petri nets; Automata; Discrete-event systems; Labeling; Fault diagnosis; Circuit faults

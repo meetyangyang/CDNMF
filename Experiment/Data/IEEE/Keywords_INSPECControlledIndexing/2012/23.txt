@@ -1,0 +1,1 @@
+adaptive control; flexible manipulators; fuzzy control; gradient methods; learning systems; least squares approximations; nonlinear control systems; PD control; position control; recursive estimation; regression analysis

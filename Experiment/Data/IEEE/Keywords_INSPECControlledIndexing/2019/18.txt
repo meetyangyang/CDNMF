@@ -1,0 +1,1 @@
+autonomous aerial vehicles; collision avoidance; computational geometry; distributed control; linear systems; matrix algebra; mobile robots; multi-agent systems; multi-robot systems; Riccati equations; time-varying systems; topology

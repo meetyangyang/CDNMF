@@ -1,0 +1,1 @@
+formal specification; formal verification; industrial control logic components; component-based programming; reusable automation components; temporal logic; control logic

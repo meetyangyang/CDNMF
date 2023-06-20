@@ -1,0 +1,1 @@
+CAD; computational complexity; industrial manipulators; intelligent robots; maintenance engineering; path planning; robot vision

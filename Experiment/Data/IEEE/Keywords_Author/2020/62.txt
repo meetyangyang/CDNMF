@@ -1,0 +1,1 @@
+Encoding and decoding mechanism; iterative learning control (ILC); random data dropouts; uniform quantizer

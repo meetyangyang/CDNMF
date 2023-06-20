@@ -1,0 +1,1 @@
+census signal temporal logic inference; multiagent group behavior analysis; inner logic STL formula; outer logic STL formula; inference algorithm; outer logic CensusSTL formula; census trajectories

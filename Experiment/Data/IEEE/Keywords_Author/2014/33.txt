@@ -1,0 +1,1 @@
+Adaptive sensor allocation strategy; Bayesian network (BN); max–min criterion; process monitoring and diagnosis

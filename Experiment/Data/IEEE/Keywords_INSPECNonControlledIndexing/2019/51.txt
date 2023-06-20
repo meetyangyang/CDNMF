@@ -1,0 +1,1 @@
+active target tracking; self-triggered communications; multirobot teams; decentralized target tracking; decentralized control strategies; optimal formation; robots exchange information; decentralized strategies; self-triggered communication strategy; particular robot; mobile target; decentralized Kalman filter; neighboring robots

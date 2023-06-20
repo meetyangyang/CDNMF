@@ -1,0 +1,1 @@
+global redundancy resolution; continuous pseudoinversion; forward kinematic map; kinematic redundancy resolution; redundant robots; workspace dimensions; workspace visualization; teleoperation; dimensionality reduction; motion planning; sampling-based approximation technique

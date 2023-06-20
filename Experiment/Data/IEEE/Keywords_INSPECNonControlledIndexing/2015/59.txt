@@ -1,0 +1,1 @@
+symbolic computation; binary decision diagrams; RAS; DAP; resource allocation systems; maximally permissive deadlock avoidance policy; BDD-based approach

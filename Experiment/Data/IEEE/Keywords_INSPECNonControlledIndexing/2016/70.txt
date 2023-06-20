@@ -1,0 +1,1 @@
+LTL-based planning; linear temporal logic; motion monitoring; motion planning; mobile robots; exponential probability density functions; finite state descriptions; product automata; graph searches; temporal logic control; computational complexity

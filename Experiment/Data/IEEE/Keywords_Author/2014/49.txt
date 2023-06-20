@@ -1,0 +1,1 @@
+Multiobjective genetic algorithm; scheduling; thin-film transistor-liquid crystal display (TFT-LCD); TOPSIS; variable neighborhood descent

@@ -1,0 +1,1 @@
+Active contours; AdaBoost; machine vision; welding automation; weld pool tracking

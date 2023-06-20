@@ -1,0 +1,1 @@
+compensation; damping; dexterous manipulators; feedback; feedforward; hysteresis; multivariable control systems; piezoelectric actuators; position control

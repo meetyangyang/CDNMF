@@ -1,0 +1,1 @@
+bills of materials; integer programming; optimisation; production planning; quadratic programming; search problems

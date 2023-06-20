@@ -1,0 +1,1 @@
+Communication; cooperative transportation; distributed optimization; mobile robots; model predictive control (MPC); swarm optimization

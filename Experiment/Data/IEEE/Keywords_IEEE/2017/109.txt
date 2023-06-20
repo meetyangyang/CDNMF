@@ -1,0 +1,1 @@
+Inference algorithms; Heuristic algorithms; Hidden Markov models; Prediction algorithms; Artificial neural networks; Dynamics; Adaptation models

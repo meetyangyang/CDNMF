@@ -1,0 +1,1 @@
+Fuzzy predicate Petri nets (FPPN); fuzzy semantic; horn clause; Petri nets; service composition; service-oriented architecture

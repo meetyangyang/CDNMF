@@ -1,0 +1,1 @@
+Fuzzy logic system (FLS); multiple peg-in-hole; prediction learning; reinforcement learning (RL); robotic assembly

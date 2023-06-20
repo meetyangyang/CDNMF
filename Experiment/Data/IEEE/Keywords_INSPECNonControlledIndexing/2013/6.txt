@@ -1,0 +1,1 @@
+high-level scheduling; energy optimal trajectory scheduling; energy consumption reduction; manufacturing industry; robotic system scheduling; dynamic programming; optimization problem; six-link manipulator; cell manufacturing; energy optimal dynamic time scaling; linear time scaling; cycle time

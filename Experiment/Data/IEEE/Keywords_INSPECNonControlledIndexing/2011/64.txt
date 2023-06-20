@@ -1,0 +1,1 @@
+system-level physics-based simulation; biomimetic robot; robotic systems; snake-inspired robot; Drexel snake robot; rectilinear motion; test control algorithms; path planning; slippage; contact; friction; closed-form equation; computer-aided design; robot kinematics; robot dynamics; virtual models; mobility patterns; nonobvious secondary phenomena

@@ -1,0 +1,1 @@
+algebraic synthesis; timed supervisor; automated manufacturing systems; Petri nets; general mutual exclusion constraints; Ramadge-Wonham supervisory control technique; linear marking constraints; global time information; polynomial time; generalized linear constraints

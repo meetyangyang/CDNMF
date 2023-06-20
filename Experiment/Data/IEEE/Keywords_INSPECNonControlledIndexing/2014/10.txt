@@ -1,0 +1,1 @@
+experiment testing; synchronized Petri nets; finite-state machines; synchronizing sequence computation; automata; net structure

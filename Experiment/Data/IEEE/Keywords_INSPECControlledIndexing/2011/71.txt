@@ -1,0 +1,1 @@
+condition monitoring; correlation theory; electric sensing devices; failure analysis; fault diagnosis; functional analysis; nonparametric statistics; principal component analysis; regression analysis; signal reconstruction; time-varying channels

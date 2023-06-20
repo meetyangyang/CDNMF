@@ -1,0 +1,1 @@
+Hidden Markov models; Probabilistic logic; Monitoring; Smart homes; Activity recognition; Ambient assisted living

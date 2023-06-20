@@ -1,0 +1,1 @@
+Path Generation Using <formula formulatype=\inline\> <tex Notation=\TeX\>${\\mbi \\eta}^4$</tex></formula>-Splines for a Truck and Trailer Vehicle

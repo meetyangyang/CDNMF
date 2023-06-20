@@ -1,0 +1,1 @@
+robotic cleaning; nonplanar surfaces; robotic arms; kinematic constraints; depth-first branch-and-bound search; numerical simulations; KUKA robots; automated planning algorithms

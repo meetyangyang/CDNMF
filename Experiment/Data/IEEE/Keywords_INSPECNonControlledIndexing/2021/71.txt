@@ -1,0 +1,1 @@
+SCADA systems; equipment faults; RA; replay cyberattacks; industrial control systems; controller fault; plant fault; power plants; rotating machinery setup; sensitivity analysis; mathematical formalisms; Supervisory control and data acquisition system; nonlinear system

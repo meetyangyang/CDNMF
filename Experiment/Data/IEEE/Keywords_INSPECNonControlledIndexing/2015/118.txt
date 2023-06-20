@@ -1,0 +1,1 @@
+fault detectability maximization; fault isolability maximization; analytical redundancy relation; ARR; optimization problem; MI set; LCDP algorithm; low complexity dynamic programming algorithm; sensor placement approach; minimal isolation set

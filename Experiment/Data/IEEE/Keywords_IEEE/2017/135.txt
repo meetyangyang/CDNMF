@@ -1,0 +1,1 @@
+Robots; Job shop scheduling; Grippers; Collision avoidance; Resource management; Throughput

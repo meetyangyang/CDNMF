@@ -1,0 +1,1 @@
+COVID-19; personal protective equipment (PPE) production; order assignment and scheduling; multi-objective optimization; logic-based Benders decomposition

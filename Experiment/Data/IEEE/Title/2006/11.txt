@@ -1,0 +1,1 @@
+A real-time PCR analyzer compatible with high-throughput automated processing of 2-/spl mu/L reactions in glass capillaries

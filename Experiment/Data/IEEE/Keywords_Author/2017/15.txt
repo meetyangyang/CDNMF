@@ -1,0 +1,1 @@
+Bernoulli reliability model; finite buffers; match degree (MD); production rate (PR); selective assembly system; unreliable machines

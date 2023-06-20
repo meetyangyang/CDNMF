@@ -1,0 +1,1 @@
+Climbing robot; localization; mobile sensor; nondestructive inspection (NDI); path planning

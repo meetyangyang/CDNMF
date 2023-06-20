@@ -1,0 +1,1 @@
+Branch-and-bound method; grasping; optimization; required external force set

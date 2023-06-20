@@ -1,0 +1,1 @@
+Autonomous and automated sensing and control systems; cyber-physical systems; distributed query processing; distributed storage; routing algorithm; wireless sensor networks

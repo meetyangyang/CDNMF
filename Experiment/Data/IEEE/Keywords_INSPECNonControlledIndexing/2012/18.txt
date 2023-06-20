@@ -1,0 +1,1 @@
+workflow nets; multiagent cooperation; formal framework; robotic cooperation; Petri nets; concurrency handling; goal reachability; mathematical cooperation operator; cooperation problems; algebraic representations; robotic navigation problems; mobile agents

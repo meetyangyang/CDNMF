@@ -1,0 +1,1 @@
+dual-arm robot; robotic manipulation planner; human-robot collaborative assembly; autonomous system; subtask distribution; human-in-the-loop robotic system; human collaborator; constraint-based incremental manipulation planning method; pick-and-place task

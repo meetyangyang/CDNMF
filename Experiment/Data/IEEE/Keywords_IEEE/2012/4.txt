@@ -1,0 +1,1 @@
+Transportation; Cost function; Lot sizing; Polynomials; Mathematical model; Dynamic programming

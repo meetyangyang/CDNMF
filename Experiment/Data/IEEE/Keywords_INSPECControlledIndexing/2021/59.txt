@@ -1,0 +1,1 @@
+adaptive control; closed loop systems; control system synthesis; distributed power generation; dynamic programming; feedback; frequency control; power generation control; power grids; robust control; smart power grids

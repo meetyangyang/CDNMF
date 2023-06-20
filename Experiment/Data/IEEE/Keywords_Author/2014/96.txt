@@ -1,0 +1,1 @@
+Matroids; linear matroid; set covering problem; sensor networks; degree of redundancy; cogirth; girth; NP-hard

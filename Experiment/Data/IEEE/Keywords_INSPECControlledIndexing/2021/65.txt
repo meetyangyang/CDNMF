@@ -1,0 +1,1 @@
+autonomous aerial vehicles; endoscopes; image motion analysis; mobile robots; motion estimation; object tracking; patient rehabilitation; robot vision; SLAM (robots); stereo image processing; surgery

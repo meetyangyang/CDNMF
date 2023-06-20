@@ -1,0 +1,1 @@
+adaptive control; cameras; closed loop systems; control system synthesis; mobile robots; motion control; robot vision; tracking; trajectory control

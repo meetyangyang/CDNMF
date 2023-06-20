@@ -1,0 +1,1 @@
+Global condition index; kinematic analysis; optimal design; parallel manipulators; regular workspace share; Schönflies motion; singularity; type synthesis; workspace

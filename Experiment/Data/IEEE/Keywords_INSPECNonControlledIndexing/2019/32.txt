@@ -1,0 +1,1 @@
+sensor fusion algorithms; sensor data; multimodule system; image-guided interventions; image-guided surgical trial; tracking algorithms; robust fusion algorithm; multiple monocular modules; sensor fusion approach; sensor fusion-based surgical instrument tracking system; optical tracking system; image-guide surgery; surgical instruments; surgical site

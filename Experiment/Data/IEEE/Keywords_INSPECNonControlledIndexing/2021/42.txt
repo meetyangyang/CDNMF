@@ -1,0 +1,1 @@
+design-time optimization; label maps; sensing components; fixed parameter tractable problem; planning problems; sensing hardware; formal models; cost minimization problem; algorithmic design problem; NP hard problem; minimal robot design; robot actuation; polynomial time solvable problem; autonomous robots

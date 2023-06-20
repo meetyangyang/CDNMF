@@ -1,0 +1,1 @@
+proxy measurements; indoor environments; constitutive models; coupled partial differential equation-ordinary differential equation system; spatial features; sensor fusion; multiple environmental parameters; air return; air supply vents; SbP; traditional fixed schedule ventilation strategy; occupancy detection; environmental sensing; sensing by proxy

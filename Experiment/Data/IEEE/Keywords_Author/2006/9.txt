@@ -1,0 +1,1 @@
+Computational fluid dynamics; distributed-parameter dynamic model; draw process; numerical heat transfer; optical fibers

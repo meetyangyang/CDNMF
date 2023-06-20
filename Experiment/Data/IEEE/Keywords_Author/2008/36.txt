@@ -1,0 +1,1 @@
+Clamping planning; contact forces; elastic deformation; fixture; force closure

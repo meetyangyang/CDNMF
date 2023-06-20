@@ -1,0 +1,1 @@
+branch-and-bound algorithm; block relocation problem; container relocation problem; optimization problem; optimal operation sequence; container yard; objective function; necessary relocation minimization; exact algorithm; retrieval priorities; block retrieval order; lower bound; numerical analysis

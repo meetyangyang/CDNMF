@@ -1,0 +1,1 @@
+self-adaptive learning particle swarm optimization; SLPSO; deadline constrained task scheduling; hybrid IaaS cloud; Infrastructure as a service; multiplexing; quality-of-service; QoS; resource allocation framework; external clouds; ECs; integer programming; IP model

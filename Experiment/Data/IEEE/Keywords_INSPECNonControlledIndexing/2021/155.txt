@@ -1,0 +1,1 @@
+random sampling; multivariate probabilistic model; black-box operation optimization problems; large-scale nonlinear optimization problems; estimation of distribution algorithm; filtering scheme; learning strategy; dataset modeling; population-based stochastic search technique; nonlinear continuous optimization; EDA; estimation error matrix; sampling process

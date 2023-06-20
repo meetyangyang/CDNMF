@@ -1,0 +1,1 @@
+Dynamic programming (DP); flexible manufacturing systems (FMSs); reachability graph (RG); scheduling; total energy consumption

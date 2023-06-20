@@ -1,0 +1,1 @@
+group elevator scheduling optimization; transportation efficiency; mid rise buildings; high rise buildings; advance traffic information; passenger-to-car assignment; single car dispatching; door action control method; hybrid nested partitions; genetic algorithm

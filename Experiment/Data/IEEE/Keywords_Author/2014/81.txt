@@ -1,0 +1,1 @@
+Automated optical inspection (AOI); Bayesian networks; Peter–Clark Bayesian network (PC-BN); solder-joint defect; solder-joint inspection; tree-augmented Naïve Bayesian network (TAN-BN)

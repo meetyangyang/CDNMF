@@ -1,0 +1,1 @@
+trajectory optimization; parameter estimation; experimental trajectory design; optimization algorithm; condition number; least squares identification method; nonlinear system; objective function; robot-controlled suspended mass

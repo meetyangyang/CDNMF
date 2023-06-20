@@ -1,0 +1,1 @@
+policy iteration algorithm; robust control online design; continuous-time nonlinear systems; uncertainties; optimal control problem; cost function; Hamilton-Jacobi-Bellman equation; HJB equation; critic neural network; closed-loop system; neural-network-based HJB solution

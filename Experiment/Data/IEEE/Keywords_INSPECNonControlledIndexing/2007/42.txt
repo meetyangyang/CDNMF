@@ -1,0 +1,1 @@
+state-based specification language; discrete-event control design; translation algorithm; propositional linear-time temporal-logic; deterministic finite automata; finitary control design; discrete-event systems; computability; readable control specification; discrete-event control synthesis

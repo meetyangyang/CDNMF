@@ -1,0 +1,1 @@
+This paper analyzes the motion planning of a custom-built all position autonomous mobile welding robot. It proposes a novel motion planning method that allows the robot to complete fillet seam welding while the vehicle turns around the right angle seam simultaneously. The global optimal solution is obtained through model modification. 

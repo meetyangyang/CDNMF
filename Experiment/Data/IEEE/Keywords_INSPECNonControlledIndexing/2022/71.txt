@@ -1,0 +1,1 @@
+signalized intersection; optimal speed profile; short travel time; energy consumption; traffic light information; vehicle-to-infrastructure communication; eco-driving problem; optimal control problem; free-flow mode; optimal eco-driving algorithm; human-driven vehicles; traffic signal phase; red traffic signal; autonomous vehicle test; nonstop crossing

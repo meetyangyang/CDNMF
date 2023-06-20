@@ -1,0 +1,1 @@
+Autonomous driving; information fusion; semantic segmentation; thermal images; urban scenes

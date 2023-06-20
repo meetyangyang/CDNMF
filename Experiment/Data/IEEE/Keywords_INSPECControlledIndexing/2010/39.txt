@@ -1,0 +1,1 @@
+fuzzy logic; genetic algorithms; goods distribution; integer programming; logistics; search problems; supply chain management; transportation; tree searching; vehicles

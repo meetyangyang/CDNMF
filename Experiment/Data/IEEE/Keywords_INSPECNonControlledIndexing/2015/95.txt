@@ -1,0 +1,1 @@
+polynomial algorithm; concurrent systems; Petri nets; ordinary differential equations; message passing mechanism; performance evaluation; ODE; state measures; performance analysis; response time estimation; throughput estimation; efficiency estimation; continuous-time Markov chains; IBM business system

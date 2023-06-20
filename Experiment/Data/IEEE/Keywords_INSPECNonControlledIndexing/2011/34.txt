@@ -1,0 +1,1 @@
+suboptimal siphon-based control model; FBM-based control model; S3PR; siphon-based deadlock control; flexible manufacturing system; first-met bad marking method; formal theory; discrete-event systems; Petri nets

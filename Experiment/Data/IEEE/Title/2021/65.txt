@@ -1,0 +1,1 @@
+S-VIT: Stereo Visual-Inertial Tracking of Lower Limb for Physiotherapy Rehabilitation in Context of Comprehensive Evaluation of SLAM Systems

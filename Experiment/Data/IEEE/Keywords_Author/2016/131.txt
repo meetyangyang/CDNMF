@@ -1,0 +1,1 @@
+Concurrent kernel projection to latent structures (CKPLS); nonlinear process monitoring; process-relevant fault detection; quality-relevant fault detection

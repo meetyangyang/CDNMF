@@ -1,0 +1,1 @@
+Nonlinear Motion Control of Complicated Dual Rotary Crane Systems Without Velocity Feedback: Design;  Analysis;  and Hardware Experiments

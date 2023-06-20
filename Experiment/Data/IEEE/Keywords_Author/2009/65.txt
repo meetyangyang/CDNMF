@@ -1,0 +1,1 @@
+CAD/CAM; degree of freedom (DOF); tolerance semantics; tolerance zone

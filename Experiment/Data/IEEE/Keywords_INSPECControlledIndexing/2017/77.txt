@@ -1,0 +1,1 @@
+adaptive control; collision avoidance; human-robot interaction; learning (artificial intelligence); learning systems; mobile robots; navigation; optimisation; self-adjusting systems; service robots

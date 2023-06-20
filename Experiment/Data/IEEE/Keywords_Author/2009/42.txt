@@ -1,0 +1,1 @@
+Blossoming; NURBS multiplication; sliding windows algorithm

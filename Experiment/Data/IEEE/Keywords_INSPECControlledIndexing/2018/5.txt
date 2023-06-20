@@ -1,0 +1,1 @@
+actuators; adaptive control; closed loop systems; control system synthesis; elasticity; force control; legged locomotion; springs (mechanical); stability

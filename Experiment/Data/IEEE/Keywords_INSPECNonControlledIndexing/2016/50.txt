@@ -1,0 +1,1 @@
+nonlinear process monitoring; regression method; reconstruction method; nonlinear regression algorithm; output-relevant variation extraction; fault direction; fault magnitude; principal component; fault diagnosis; kernel partial least-squares; KPLS method comparison; continuous annealing process; fault detection

@@ -1,0 +1,1 @@
+hybrid nested partitions; mathematical programming; large-scale discrete optimization problems; heuristics-metaheuristics methods; local pickup problem; delivery problem; discrete facility location problem

@@ -1,0 +1,1 @@
+type synthesis; kinematic analysis; optimal design; spatial four degree-of-freedom Schonflies-motion parallel manipulators; serial subchain; topology; pick-and-place operations; 4-PRPaR parallel manipulator; inverse kinematics; forward kinematics; manipulability performance; multiobjective optimization problem; global condition index; multiple optimal solutions

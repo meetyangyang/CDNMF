@@ -1,0 +1,1 @@
+Consistent subneighborhood; feature preserving; mesh denoising; multiscale tensor voting; piecewise moving least squares (pMLS)

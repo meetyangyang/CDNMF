@@ -1,0 +1,1 @@
+Degradation modeling; exact Bayesian inference; multiple-change-point (CP) model; prognostics; remaining useful life (RUL) prediction

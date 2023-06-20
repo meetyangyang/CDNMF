@@ -1,0 +1,1 @@
+Adaptive dynamic programming (ADP); heterogeneous corridors; macroscopic pedestrian dynamics; optimal feedback control; pedestrian flow

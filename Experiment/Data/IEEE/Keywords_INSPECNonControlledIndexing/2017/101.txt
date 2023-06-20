@@ -1,0 +1,1 @@
+real-time access control; patient service; outpatient clinic; limited health care services; real-time admission control policy; expected total disutility minimization; continuous-time Markov decision process; finite horizon; myopic optimal policy; switching curve; Pediatric Department; Peking University Third Hospital; scheduling policies

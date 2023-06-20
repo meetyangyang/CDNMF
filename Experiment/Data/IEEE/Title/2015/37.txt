@@ -1,0 +1,1 @@
+Towards Occlusion-Free Surgical Instrument Tracking: A Modular Monocular Approach and an Agile Calibration Method

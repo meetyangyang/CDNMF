@@ -1,0 +1,1 @@
+Development of holonic information coordination systems with failure-recovery considerations

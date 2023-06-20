@@ -1,0 +1,1 @@
+Hazard detection; information entropy; information gathering; mutual information; path planning; paths as sensors; recursive estimation; robots; target search; unmanned autonomous vehicles

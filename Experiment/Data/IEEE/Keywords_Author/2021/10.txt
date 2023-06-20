@@ -1,0 +1,1 @@
+Bernoulli serial production line; bottleneck; improved aggregation method (IAM); performance analysis

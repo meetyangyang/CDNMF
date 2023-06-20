@@ -1,0 +1,1 @@
+Kinematics; Sensors; Calibration; Magnetometers; Tracking; Motion segmentation; Kalman filters

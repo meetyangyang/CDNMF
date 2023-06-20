@@ -1,0 +1,1 @@
+Centralized task allocation; distributed task allocation; particle swarm optimization (PSO); search and rescue

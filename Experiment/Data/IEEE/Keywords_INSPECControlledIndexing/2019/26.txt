@@ -1,0 +1,1 @@
+collision avoidance; grippers; linear quadratic control; medical robotics; path planning; position control; robot vision; surgery

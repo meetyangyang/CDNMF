@@ -1,0 +1,1 @@
+Adaptive reputation model (ARM); Bayesian linear regression; dynamic sliding window; time lag; unfair rating

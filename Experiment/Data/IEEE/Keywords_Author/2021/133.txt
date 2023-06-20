@@ -1,0 +1,1 @@
+Fabric defect detection; low-rank representation; patterned fabric; plain fabric; sparse matrix

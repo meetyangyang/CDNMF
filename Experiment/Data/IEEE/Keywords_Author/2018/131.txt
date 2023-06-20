@@ -1,0 +1,1 @@
+Bezier curve; convex optimization; form variation; free-form deformation (FFD); geometric dimensioning and tolerancing (GD&T); geometric tolerance; geometric variation; shape/profile tolerance

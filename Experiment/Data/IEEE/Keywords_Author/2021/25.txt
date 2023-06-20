@@ -1,0 +1,1 @@
+Adaptive algorithm; maximum dorsiflexion (MDF) detection; robotic transtibial prosthesis; time-variant detection model

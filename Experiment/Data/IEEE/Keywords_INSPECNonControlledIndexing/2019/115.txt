@@ -1,0 +1,1 @@
+optimized multiagent routing; guidepath-based transport systems; heuristic algorithm; quantum computing; combinatorial optimization theory; traffic management problem; computational efficiency; makespan minimization; traffic safety; automated unit-load material handling systems; ionized atoms transport; local-search framework; combinatorial scheduling

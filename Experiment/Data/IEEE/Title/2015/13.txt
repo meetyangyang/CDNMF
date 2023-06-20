@@ -1,0 +1,1 @@
+Structured Linearization of Discrete Mechanical Systems for Analysis and Optimal Control

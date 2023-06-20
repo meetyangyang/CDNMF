@@ -1,0 +1,1 @@
+welding robot; human knowledge; remotely-controlled approach; UR-5 industrial robot arm; 3D weld pool surface sensing system; motion tracking; Leap sensor; predictive control; speed control

@@ -1,0 +1,1 @@
+audio signal processing; cepstral analysis; frame based representation; home automation; independent component analysis; signal classification; support vector machines; wavelet transforms

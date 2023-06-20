@@ -1,0 +1,1 @@
+leader-follower consensus; nonlinear dynamics; actuator fault; fault tolerant consensus; closed-loop multivehicle wirelessly networked uncertain systems; distributed discontinuous communication protocols; neighboring vehicles; Lyapunov sense; dwell time; intermittent communication rate; topology; spanning tree root; collision avoidance; formulation control problems

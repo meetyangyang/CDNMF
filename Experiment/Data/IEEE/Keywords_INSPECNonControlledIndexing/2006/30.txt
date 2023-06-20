@@ -1,0 +1,1 @@
+supervisory control; production systems; multiple resource failure; deadlock-free resource allocation; reduced system; flexible manufacturing systems; automated manufacturing systems; ladder logic control code; mathematical models; Petri nets; machines failure; tools failure; deadlock avoidance; fault tolerance

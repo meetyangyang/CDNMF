@@ -1,0 +1,1 @@
+Discrete-event system specification (DEVS); finite-vertex reachability graph; time abstraction; verification

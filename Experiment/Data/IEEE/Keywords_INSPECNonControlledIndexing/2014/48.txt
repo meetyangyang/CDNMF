@@ -1,0 +1,1 @@
+planned surgeon arrival times; random duration; total expected cost minimization; surgeon waiting; OR idling; OR overtime; multistage stochastic programming model; two-stage stochastic programming approximation; look-ahead strategies; perfect information-based lower bound; static scheduling; first come first serve; FCFS strategy; operating rooms; dynamic surgery assignment

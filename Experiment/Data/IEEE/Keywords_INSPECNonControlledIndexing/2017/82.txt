@@ -1,0 +1,1 @@
+visual-inertial navigation systems; aerial robotics; sensor fusion; small unmanned aerial vehicles; microaerial vehicles; MAV; optimum data fusion; advanced state estimation

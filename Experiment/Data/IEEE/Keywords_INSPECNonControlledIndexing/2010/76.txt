@@ -1,0 +1,1 @@
+ALOHA algorithms; radiofrequency identification; arbitration process; tag set size estimation; Poisson distribution; time slots; collision group based anticollision algorithms; dynamic frame slot; RFID

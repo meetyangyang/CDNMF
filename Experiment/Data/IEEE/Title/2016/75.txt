@@ -1,0 +1,1 @@
+A Resource-Oriented;  Decentralized Auction Algorithm for Multirobot Task Allocation

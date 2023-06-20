@@ -1,0 +1,1 @@
+multiple-mode observer design; switched linear systems; state estimation; average dwell time switching; ADT switching; continuous-time context; discrete-time context; mode-dependent Luenberger-type observers; sufficient conditions; linear matrix inequalities; electronic circuits

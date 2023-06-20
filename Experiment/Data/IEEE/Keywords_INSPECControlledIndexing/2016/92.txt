@@ -1,0 +1,1 @@
+assembling; calibration; force sensors; industrial manipulators; Jacobian matrices; position control

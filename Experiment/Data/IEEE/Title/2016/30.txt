@@ -1,0 +1,1 @@
+Improved Bag of Feature for Automatic Polyp Detection in Wireless Capsule Endoscopy Images

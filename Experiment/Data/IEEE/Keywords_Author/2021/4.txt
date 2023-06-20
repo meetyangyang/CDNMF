@@ -1,0 +1,1 @@
+Energy control; Gaussian mixture model (GMM); idle time prediction; manufacturing system; neural network

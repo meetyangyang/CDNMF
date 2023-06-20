@@ -1,0 +1,1 @@
+linear classifier; noncompliance prediction; learned SVM model; automated evaluation; piping layout; autonomous framework; marine industry; offshore industry; linear support vector machine; piping and instrumentation diagram; P&ID

@@ -1,0 +1,1 @@
+asynchronous generators; feedback; linearisation techniques; nonlinear control systems; power control; power generation control; power generation economics; predictive control; wind power plants

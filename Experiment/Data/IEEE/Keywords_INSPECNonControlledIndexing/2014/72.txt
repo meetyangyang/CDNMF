@@ -1,0 +1,1 @@
+robust model predictive control; RMPC; saturations; packet dropouts; networked flotation processes; polytopic uncertainties; sampling discretization process; occurrence probabilities; time-varying system; convex optimization problem; direct control layer; set-point control layer; optimization layer; output information compensation

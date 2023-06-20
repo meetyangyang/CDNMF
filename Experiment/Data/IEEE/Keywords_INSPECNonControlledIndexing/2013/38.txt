@@ -1,0 +1,1 @@
+latent nestling method formalization; hybrid systems; LNM; differential character; continuous character; continuous dynamical variable; lubrication system; wind turbine gearbox; colored Petri net formalism; hybrid Petri nets; cooling system; fault diagnosis

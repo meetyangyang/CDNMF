@@ -1,0 +1,1 @@
+Layout; Vehicle dynamics; Heuristic algorithms; Routing; Search problems; Mathematical model; Autonomous vehicles

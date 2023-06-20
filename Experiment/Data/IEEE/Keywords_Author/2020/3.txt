@@ -1,0 +1,1 @@
+Agent; collaboration; group multirole assignment (GMRA); group role assignment (GRA); role; tree-structured task allocation (TSTA)

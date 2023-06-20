@@ -1,0 +1,1 @@
+coal mining process; inertial navigation system; odometry; Kalman filter; heading angle drift; cutting cycle; external sensors; longwall shearer positioning; dynamic precise positioning method

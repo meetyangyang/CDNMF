@@ -1,0 +1,1 @@
+data analysis; fault diagnosis; Gaussian noise; materials handling; pattern classification; process monitoring

@@ -1,0 +1,1 @@
+Reconfigurable architectures; Hardware; Testing; Automatic test pattern generation; Embedded systems

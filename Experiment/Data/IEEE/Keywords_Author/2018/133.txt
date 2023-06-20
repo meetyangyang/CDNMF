@@ -1,0 +1,1 @@
+Control systems; double-pendulum cranes; Lyapunov techniques; swing suppression

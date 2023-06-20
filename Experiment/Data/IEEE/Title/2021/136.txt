@@ -1,0 +1,1 @@
+Tracking Control of Nanopositioning Stages Using Parallel Resonant Controllers for High-Speed Nonraster Sequential Scanning

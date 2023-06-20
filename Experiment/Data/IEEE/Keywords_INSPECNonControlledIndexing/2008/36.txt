@@ -1,0 +1,1 @@
+clamping planning; workpiece-fixture systems; contact force; workpiece displacement; clamping force; workpiece quality; elastic contact model; elastic deformation; exterior penalty function method; unconstrained nonlinear programming; Levenberg-Marquardt method

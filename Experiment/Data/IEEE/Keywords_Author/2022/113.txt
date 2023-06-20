@@ -1,0 +1,1 @@
+Convolutional neural network (CNN); fuzzy control logic; human–robot collaboration (HRC); industrial robot; motion planning; multimodal perception system; safety standards; workspace monitoring

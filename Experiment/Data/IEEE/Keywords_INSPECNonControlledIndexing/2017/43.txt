@@ -1,0 +1,1 @@
+black-box identification method; automated discrete-event manufacturing systems; programmable logic controller; closed-loop system; PLC; input/output signal vectors; I/O signal vectors; passive identification approach; industrial DES; interpreted Petri net models; I/O sequence; nonobservable part; polynomial-time algorithms; IPN model

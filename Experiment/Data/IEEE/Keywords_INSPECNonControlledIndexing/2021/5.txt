@@ -1,0 +1,1 @@
+off-line training phase; algorithm SARSA; self-adaptive parameter control scheme; CS algorithm; knowledge base; KCSA; knowledge-based cuckoo search algorithm; complex manufacturing systems; mating operational; flexible job shop problem; arbitrary directed acyclic graph; reliable performance schedule; high-performance schedule; scheduling field; scheduling information

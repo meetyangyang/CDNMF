@@ -1,0 +1,1 @@
+Anticollision; direct-sequence code division multiple access (DS-CDMA); radio frequency identification (RFID); transmitter-only tag

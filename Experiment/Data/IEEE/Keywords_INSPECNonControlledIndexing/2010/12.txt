@@ -1,0 +1,1 @@
+human operator skill evaluation; partly automated mobile working machines; productivity; task sequence recognition; hidden Markov model; skill metrics; task resource consumption; task completion frequency; task difficulty; planning ability; decision making ability

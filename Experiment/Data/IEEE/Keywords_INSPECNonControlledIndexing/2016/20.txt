@@ -1,0 +1,1 @@
+redundancy; multilayer fault detection; Kalman filter; fault tolerant control; steering mechanism; safety design; fault tolerant capability; S-curve precision docking; USA; Bus revenue service; automated steering control system

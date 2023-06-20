@@ -1,0 +1,1 @@
+Coordination Motion Control in the Task Space for Parallel Manipulators With Actuation Redundancy

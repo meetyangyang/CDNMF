@@ -1,0 +1,1 @@
+ball grid arrays; cameras; computer vision; feature extraction; height measurement; image matching; image texture; inspection; packaging; photographic lenses; production engineering computing; solders; stereo image processing

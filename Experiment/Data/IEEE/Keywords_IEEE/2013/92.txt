@@ -1,0 +1,1 @@
+Job shop scheduling; Bills of materials; Manufacturing; Linear programming; Parallel machines

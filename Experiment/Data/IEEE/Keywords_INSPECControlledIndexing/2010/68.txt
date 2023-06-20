@@ -1,0 +1,1 @@
+elasticity; finite element analysis; shafts; splines (mechanical components); statistical analysis; torque; variational techniques

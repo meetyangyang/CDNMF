@@ -1,0 +1,1 @@
+critical components; state degradation monitoring; on-board sensor; unit reliability; sensor-based prognostic information; prognostics-based ranking algorithm; stochastic degradation model; computer science database ranking algorithm; residual life distribution; exponential degradation model; preference relationship; threshold algorithm

@@ -1,0 +1,1 @@
+Nonparametric Activity Recognition System in Smart Homes Based on Heterogeneous Sensor Data

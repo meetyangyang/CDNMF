@@ -1,0 +1,1 @@
+Application specific processors; Process planning; Job shop scheduling; Decision making; Processor scheduling; Machine shops; Machining; Merging; Strategic planning; Runtime

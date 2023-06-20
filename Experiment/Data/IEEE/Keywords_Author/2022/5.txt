@@ -1,0 +1,1 @@
+Demand response (DR); distributed energy resources (DERs); electric vehicle (EVs); mixed-integer linear programming (MILP); model predictive control (MPC); reinforcement learning; residential community; thermostatically controlled loads (TCLs)

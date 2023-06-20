@@ -1,0 +1,1 @@
+steel slab yards; double-load capability; mixed-integer linear programming model; pointer-based discrete differential evolution algorithm; one-crane subproblem; double-load crane scheduling problem; two-phase model-based heuristic; steel industry

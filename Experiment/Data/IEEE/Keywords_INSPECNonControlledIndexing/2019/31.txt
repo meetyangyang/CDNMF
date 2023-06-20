@@ -1,0 +1,1 @@
+degradation signal; prognostics; smart maintenance decision-making; Bayesian multiple-change-point modeling framework; offline modeling stage; RUL prediction; parametric regression; stochastic process; online monitoring method; Bayesian inference; partial Monte Carlo strategy; recursive updating algorithm; fixed-support-size strategy

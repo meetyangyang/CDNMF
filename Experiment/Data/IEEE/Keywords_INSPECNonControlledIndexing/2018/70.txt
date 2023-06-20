@@ -1,0 +1,1 @@
+predicted gait features; sharing lower limb exoskeleton robot; individualized gait pattern generation method; gait sequences; sharing technology; wearer gait patterns; gait feature extraction; Gaussian process regression; automatic relevance determination; mapping relationships; autoencoder neural network; scaling process; SLEX robot

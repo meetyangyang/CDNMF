@@ -1,0 +1,1 @@
+robotic grasping; multilevel convolutional neural networks; parallel gripper; multifingered dexterous hand; multilevel CNNs; object grasping; finger position distribution; grasping experiments; four-fingered dexterous hand; optimal grasping detection; open grasping data; robustness; UR5 robot arm; RGB-D images; environmental conditions

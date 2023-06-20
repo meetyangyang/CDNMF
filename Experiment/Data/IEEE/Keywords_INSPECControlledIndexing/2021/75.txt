@@ -1,0 +1,1 @@
+Gaussian distribution; image registration; iterative methods; maximum likelihood estimation; medical image processing; medical robotics; optimisation; probability; surgery

@@ -1,0 +1,1 @@
+local modular control; discrete-event systems; supervisory control theory; closed-loop behavior; manufacturing system; approximations theory

@@ -1,0 +1,1 @@
+heuristic algorithm; customer order scheduling problem; total weighted completion time; quadratic formulation; mixed-integer linear programming model; linearization technique; special structure; problem size; final linearized formulation; hybrid nested partitions algorithm; large-scale problems; reasonable computational time; completion time minimization

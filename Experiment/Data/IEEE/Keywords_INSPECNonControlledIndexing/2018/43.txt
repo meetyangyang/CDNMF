@@ -1,0 +1,1 @@
+dual-stream convolutional neural network; color images; depth images; pose regression problem; deep neural network architecture; RGB-D images; dual-stream CNN; dual-stream architecture; deep learning method; indoor relocalization problems; large-scale indoor relocalization; image encoding methods

@@ -1,0 +1,1 @@
+filter-reduction algorithm; concise planning; plan graph; policy graph; NP-hard problem; NP-complete problems; arbitrary combinatorial filter; transition graph; I-states; nondeterminism; partial-observability

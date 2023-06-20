@@ -1,0 +1,1 @@
+multipin positioning system; high-resolution 3D profiles; pin-arrays; high-fidelity pins; CAD extracted data; array-addressing; latching positioning hardware; pin-position feedback; platen motion strategy; shape memory alloy actuators; sequential control; surface-smoothing interpolators; staircase effect

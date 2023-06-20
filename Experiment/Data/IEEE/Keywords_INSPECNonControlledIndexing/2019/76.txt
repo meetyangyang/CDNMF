@@ -1,0 +1,1 @@
+computer vision applications; color space; automatic camera adjustments; color camouflage; RGB-D camera; active visual sensors; color images; active perception; RGB-D data-based background modeling method; object segmentation; foreground segmentation; public RGB-D data set

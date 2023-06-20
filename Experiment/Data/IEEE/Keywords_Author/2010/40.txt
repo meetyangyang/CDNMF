@@ -1,0 +1,1 @@
+Boolean function; multiobjective; probability of false accept; probability of false reject; sensor threshold levels

@@ -1,0 +1,1 @@
+Cost function; Predictive control; Stability analysis; Optimal control; Closed loop systems; Large-scale systems

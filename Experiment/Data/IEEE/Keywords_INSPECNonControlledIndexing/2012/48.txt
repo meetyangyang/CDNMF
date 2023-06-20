@@ -1,0 +1,1 @@
+coalition-based approach; task allocation problem; heterogeneous multiple mobile robots; resource constraints; online assignment; offline assignment; sequential coalition method; holistic coalition method; global optimization; multirobot applications; robot group utility maximization; task allocation solution optimization; optimal multirobot task allocation

@@ -1,0 +1,1 @@
+Attention-based; gesture recognition; gated recurrent unit (GRU) neural networks; health monitoring; intelligent wearable device

@@ -1,0 +1,1 @@
+Anticollision algorithm; EPCglobal; framed ALOHA; normalized throughput; radio-frequency identification (RFID)

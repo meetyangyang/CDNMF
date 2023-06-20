@@ -1,0 +1,1 @@
+Variance Minimization Hedging Analysis Based on a Time-Varying Markovian DCC-GARCH Model

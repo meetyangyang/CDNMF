@@ -1,0 +1,1 @@
+Optimization; Robot sensing systems; Object recognition; Task analysis; Vision sensors; Artificial neural networks; Grasping

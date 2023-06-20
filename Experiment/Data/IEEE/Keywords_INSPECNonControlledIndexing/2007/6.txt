@@ -1,0 +1,1 @@
+grasping optimization; optimal grasp points; arbitrary-shaped grasped object; contact forces; robotic hand; force-closure grasp; frame-invariant problem; external force; branch-and-bound method

@@ -1,0 +1,1 @@
+minimal time control sequences; timed Petri nets; reachability graph; model predictive control; perturbation rejection; forbidden marking avoidance; track trajectories; MPC

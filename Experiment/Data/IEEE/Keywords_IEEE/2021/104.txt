@@ -1,0 +1,1 @@
+Monitoring; Covariance matrices; Feature extraction; Gaussian mixture model; Eigenvalues and eigenfunctions

@@ -1,0 +1,1 @@
+Control parameterization and time discretization (CPTD); fault-tolerant formation control (FTFC); genetic algorithm (GA); optimal formation reconfiguration; particle swarm optimization (PSO); wheeled mobile robots (WMRs)

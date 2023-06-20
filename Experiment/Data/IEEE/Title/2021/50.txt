@@ -1,0 +1,1 @@
+FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion

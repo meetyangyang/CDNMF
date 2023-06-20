@@ -1,0 +1,1 @@
+computer graphics; robotics; collision detection; contact force optimization; 6-dimensional wrench space; 6-D wrench space; nonlinear friction cone; geometry-based ray-shooting algorithms; convex sets; grasping; convex object distance computation; high-dimensional space

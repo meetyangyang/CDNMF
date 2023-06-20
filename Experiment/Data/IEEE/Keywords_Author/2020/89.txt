@@ -1,0 +1,1 @@
+Distributed cloud data centers (DCDCs); Savitzky–Golay (SG) filter; stochastic configuration networks (SCNs); task time-series prediction; wavelet decomposition

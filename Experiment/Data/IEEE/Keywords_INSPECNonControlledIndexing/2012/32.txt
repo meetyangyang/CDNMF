@@ -1,0 +1,1 @@
+simulation-based policy improvement; discrete event dynamic system; noisy performance evaluation; action candidate; action selection; probability; simulation-based policy optimization; optimal computing budget allocation; equal allocation; proportional-to-variance allocation; academic toy example; engine maintenance policy optimization problem; finite computing budget

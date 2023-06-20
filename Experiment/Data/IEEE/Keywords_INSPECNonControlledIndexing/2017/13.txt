@@ -1,0 +1,1 @@
+WCE abnormality detection; adaptive locality constrained linear coding; wireless capsule endoscopy; digestive tract; WCE images classification; feature learning stage; bleeding image; polyp image; ulcer image; normal WCE image; K -means clustering; saliency and adaptive locality-constrained linear coding algorithm; SALLC algorithm

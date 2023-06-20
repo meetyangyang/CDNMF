@@ -1,0 +1,1 @@
+Optimal Integration of Supervised Tensor Decomposition and Ensemble Learning for In Situ Quality Evaluation in Friction Stir Blind Riveting

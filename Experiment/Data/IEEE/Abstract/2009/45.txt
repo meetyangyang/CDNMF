@@ -1,0 +1,1 @@
+This paper shows how to generate a finite-vertex graph;  called a reachability graph for discrete-event system specification (DEVS) network. The reachability graph is isomorphic to a given original DEVS network in terms of behavior but the number of vertices as well as the number of edges of the reachability graph are finite. 

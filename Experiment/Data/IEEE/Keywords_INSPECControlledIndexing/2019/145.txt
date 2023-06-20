@@ -1,0 +1,1 @@
+adaptive control; asymptotic stability; compensation; control system analysis; control system synthesis; cranes; feedback; friction; mechatronics; motion control; nonlinear control systems; position control

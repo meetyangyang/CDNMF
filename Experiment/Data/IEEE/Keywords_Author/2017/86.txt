@@ -1,0 +1,1 @@
+${\\bf AX}={\\bf YB}$ ; hand-eye calibration; kinematic base frame calibration; position measurement

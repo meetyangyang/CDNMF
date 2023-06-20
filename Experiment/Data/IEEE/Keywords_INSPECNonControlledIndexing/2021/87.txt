@@ -1,0 +1,1 @@
+structure dictionary learning-based multimode process monitoring; industrial systems; operation mode; complex industrial processes; continuous stirred tank heater process; industrial aluminum electrolysis process; raw materials; numerical simulation; state of-the-art methods; fault detection; data classification; control strategy; Al

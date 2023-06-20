@@ -1,0 +1,1 @@
+translation-invariant multiscale energy; PCA; batch process monitoring; semiconductor manufacturing; massive production plants; multiway methods; parameter estimation; fault detection; root cause analysis; translation-invariant wavelet decomposition; time series; time-frequency domain

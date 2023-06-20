@@ -1,0 +1,1 @@
+PLC software structure suitability; flexible manufacturing processes; programmable logic controllers; software design methodologies; Enterprise Controls; step-based ladder logic

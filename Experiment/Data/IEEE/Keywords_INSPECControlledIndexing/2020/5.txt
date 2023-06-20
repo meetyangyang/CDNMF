@@ -1,0 +1,1 @@
+condition monitoring; data analysis; failure analysis; fault diagnosis; feedforward neural nets; jet engines; maintenance engineering; mechanical engineering computing; nonparametric statistics; particle filtering (numerical methods); reliability; remaining life assessment; state-space methods

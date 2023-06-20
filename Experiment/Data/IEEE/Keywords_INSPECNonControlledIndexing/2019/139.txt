@@ -1,0 +1,1 @@
+normal state-tree structures; supervisory control theory; SCT; discrete-event system; maximally permissive supervisor; state explosion problem; normal STS framework; observability; supremal observable subpredicate; observable subpredicates; weakly controllable subpredicate; supervisory control problem; iterative algorithm

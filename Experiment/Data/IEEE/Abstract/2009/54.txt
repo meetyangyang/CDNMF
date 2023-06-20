@@ -1,0 +1,1 @@
+In previous work;  an acceptable transformation of an unacceptable specification on a Petri net can be implemented through a set of mathematical programming formulations. However;  such a method becomes invalid when no solution exists in practice. In this paper;  we reestablish these formulations and show their correctness. 

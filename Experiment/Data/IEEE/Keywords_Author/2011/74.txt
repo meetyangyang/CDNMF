@@ -1,0 +1,1 @@
+Discrete parameter simulation optimization; long-run average cost objective; simultaneous perturbation stochastic approximation; smoothed functional algorithm

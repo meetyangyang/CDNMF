@@ -1,0 +1,1 @@
+two-level hierarchical hybrid control; smart power system; large power systems; security problems; stability problems; economical efficiency problems; component units; upper level control strategies; lower level continuous controllers; logic control commands; discrete event system; energy management strategies

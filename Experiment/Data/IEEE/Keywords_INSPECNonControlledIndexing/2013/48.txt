@@ -1,0 +1,1 @@
+interval analysis; kinematic errors; serial manipulators; exponential formula product; robotic manipulators; end-effector pose deviation; sampling-based Monte Carlo methods; forward kinematics map; manipulator design; end-effector error distribution

@@ -1,0 +1,1 @@
+Adaptive control; flexible-link manipulator; reinforcement learning; tip trajectory tracking

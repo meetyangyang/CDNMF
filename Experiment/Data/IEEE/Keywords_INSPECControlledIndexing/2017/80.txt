@@ -1,0 +1,1 @@
+active disturbance rejection control; infinite horizon; Kalman filters; marine vehicles; nonlinear control systems; observers; optimal control; position control; predictive control

@@ -1,0 +1,1 @@
+active disturbance rejection control; closed loop systems; coke; control system synthesis; fractionation; level control; nonlinear dynamical systems; petrochemicals; predictive control; servomechanisms; state-space methods

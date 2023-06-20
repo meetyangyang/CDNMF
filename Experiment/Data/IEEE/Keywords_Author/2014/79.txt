@@ -1,0 +1,1 @@
+Between-mode dynamic process; lazy learning (LL); modified receptor density algorithm (MRDA); multiple operation modes; nonlinear; support vector data description (SVDD)

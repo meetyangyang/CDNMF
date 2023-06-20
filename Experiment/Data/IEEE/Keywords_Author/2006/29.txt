@@ -1,0 +1,1 @@
+Computer numerical control (CNC); function blocks; interoperability; Standard for the Exchange of Product data for Numerical Control (STEP-NC)

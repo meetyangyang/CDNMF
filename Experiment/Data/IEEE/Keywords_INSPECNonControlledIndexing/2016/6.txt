@@ -1,0 +1,1 @@
+human decision-making; behavioral data; softmax selection; softmax decision-making models; maximum-likelihood parameter estimation problem; ML parameter estimation problem; linear objective functions; sufficient conditions; convergence; ML estimator; asymptotic distribution; nonlinear objective functions; stochastic upper credible limit model; UCL model

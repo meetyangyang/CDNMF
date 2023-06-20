@@ -1,0 +1,1 @@
+Resource management; Learning automata; Optimization; Stochastic processes; Convergence; Pursuit algorithms; Probability

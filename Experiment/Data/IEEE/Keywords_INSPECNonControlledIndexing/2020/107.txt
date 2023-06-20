@@ -1,0 +1,1 @@
+swarm standard deviations; proportional-derivative controllers; planar orientation control; torque maximization; long aspect-ratio rod; canonical position distributions; pivoted rod; global input swarm; hardware robots

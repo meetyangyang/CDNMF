@@ -1,0 +1,1 @@
+accelerometers; Bayes methods; feature extraction; gesture recognition; home automation; inertial systems; learning (artificial intelligence); principal component analysis; signal classification

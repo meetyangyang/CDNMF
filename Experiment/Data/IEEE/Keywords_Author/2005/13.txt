@@ -1,0 +1,1 @@
+Adaptive critic designs; fault diagnosis; fault tolerant control (FTC); multiple models; neural networks

@@ -1,0 +1,1 @@
+Training; Accuracy; Adaptation models; Computational modeling; Vectors; Scalability; Predictive models

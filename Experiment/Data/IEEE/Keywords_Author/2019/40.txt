@@ -1,0 +1,1 @@
+Bat algorithm; cost minimization; distributed computing; green data centers; hybrid metaheuristic optimization; simulated annealing (SA); task scheduling

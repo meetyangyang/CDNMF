@@ -1,0 +1,1 @@
+predictive haptic feedback; obstacle avoidance; model predictive control; safe-collision-free vehicle trajectory; shared control approach; haptic steering feedback; feedback mirrors; controller objectives; prediction horizon; in-vehicle driver command; visual cues; haptic cues; response time; time-to-collision reduction; TTC

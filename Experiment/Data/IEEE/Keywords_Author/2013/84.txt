@@ -1,0 +1,1 @@
+Hybrid evolutionary algorithm; integrated planning and decomposing; interactive partition; multiobjective gradient-based operator; production indicators optimization; rolling horizon-based two-level decomposing strategy

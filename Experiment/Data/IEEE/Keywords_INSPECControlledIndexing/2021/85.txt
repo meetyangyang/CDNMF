@@ -1,0 +1,1 @@
+calibration; edge detection; micromanipulators; motion control; robot vision

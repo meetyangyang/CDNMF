@@ -1,0 +1,1 @@
+closed loop systems; compensation; control engineering computing; control nonlinearities; feedback; finite element analysis; manipulator kinematics; matrix algebra; micromanipulators; particle swarm optimisation; piezoelectric actuators; position control; program diagnostics; three-term control

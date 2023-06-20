@@ -1,0 +1,1 @@
+distributed leader-assistive localization method; heterogeneous multirobotic system; MRS; inter-robot observations; leader robots; finite-range sensing; cubature Kalman filter; global pose measurement; noise covariances

@@ -1,0 +1,1 @@
+body sensor networks; embedded systems; middleware; object-oriented programming; open systems; program diagnostics; signal processing; software portability; wearable computers

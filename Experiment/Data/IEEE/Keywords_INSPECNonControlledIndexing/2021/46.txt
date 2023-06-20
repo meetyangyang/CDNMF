@@ -1,0 +1,1 @@
+online partial conditional plan synthesis; safe-reachability objectives; partially observable Markov decision processes; robotic domains; Boolean objective; replanning probability; POMDP; robot tasks; symbolic constraints; satisfiability modulo theories solver; SMTs; computational efficiency; failure rate; cached plans

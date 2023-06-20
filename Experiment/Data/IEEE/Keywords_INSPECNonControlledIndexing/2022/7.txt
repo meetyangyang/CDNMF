@@ -1,0 +1,1 @@
+MPC-based rescheduling; mobility demand; model predictive control; Dutch railway network; automatic train control systems; railway traffic operations; closed-loop control; rolling stock constraints; feedback control actions; automatic train supervision module; semiheuristic control; distributed optimization; mixed integer linear programming

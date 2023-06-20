@@ -1,0 +1,1 @@
+Case-based reasoning (CBR); fuzzy inference; grinding circuit; grinding production rate; intelligent optimal-setting control; neural network (NN); product particle size

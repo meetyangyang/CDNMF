@@ -1,0 +1,1 @@
+algorithmic differentiation; high-fidelity building energy simulation model calibration; thermal-hygric process well-established physical laws; building heating cooling lighting; ventilation energy use; model calibration procedure; Monte Carlo simulation framework; statistics-based random sampling method; differential sensitivity analysis method; object-oriented program

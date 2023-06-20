@@ -1,0 +1,1 @@
+nondeterministic discrete event systems; simulation equivalence; supervisory control; nondeterministic automata; controlled system; nondeterministic specification; branching-time logic; equivalence specifications; language equivalence; range control problems; state-controllable-similar; necessary and sufficient condition; similarity enforcing supervisor

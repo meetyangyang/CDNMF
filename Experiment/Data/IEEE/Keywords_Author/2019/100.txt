@@ -1,0 +1,1 @@
+Automatic test pattern generation (ATPG); embedded system; fault collapsing; optimized test and validation; reconfiguration; scan

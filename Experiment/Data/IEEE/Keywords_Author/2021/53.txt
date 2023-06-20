@@ -1,0 +1,1 @@
+Behavioral correctness verification; business privacy preservation; cross-organizational workflow; discrete event systems; Petri nets; task synchronization pattern

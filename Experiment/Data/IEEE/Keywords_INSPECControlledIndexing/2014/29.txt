@@ -1,0 +1,1 @@
+expectation-maximisation algorithm; gesture recognition; gradient methods; hidden Markov models; image classification; parameter estimation; probability; time series; variational techniques; video signal processing

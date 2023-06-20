@@ -1,0 +1,1 @@
+AdaGT: An Adaptive Group Testing Method for Improving Efficiency and Sensitivity of Large-Scale Screening Against COVID-19

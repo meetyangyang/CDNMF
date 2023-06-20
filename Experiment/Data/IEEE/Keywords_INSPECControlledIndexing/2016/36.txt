@@ -1,0 +1,1 @@
+bridges (structures); condition monitoring; crack detection; curve fitting; image classification; image segmentation; learning (artificial intelligence); structural engineering computing

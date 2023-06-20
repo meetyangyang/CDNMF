@@ -1,0 +1,1 @@
+dynamic Bayesian network; DBN; fault diagnosis methodology; intermittent faults; transient fault; electronic systems; electronic products; dynamic degradation process; Markov chains; Genius modular redundancy control system

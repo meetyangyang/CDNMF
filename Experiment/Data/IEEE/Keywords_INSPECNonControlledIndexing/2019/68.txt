@@ -1,0 +1,1 @@
+unmanned surface vessels; USV; path-following control laws; integral sliding-mode method; approximate lumped unknown dynamics; path-following guidance-control system; finite-time PLOS-based integral sliding-mode adaptive neural path; finite-time predictor line-of-sight; LOS-based guidance law

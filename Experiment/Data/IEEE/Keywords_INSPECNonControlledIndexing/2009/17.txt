@@ -1,0 +1,1 @@
+brightness-based image selection; edge detection; image enhancement separation algorithm; low-resolution metal transfer image; gas metal arc welding machine; rapid metal transfer process; high-speed vision system; feedback control; image processing; real-time monitoring; double-electrode GMAW; droplet feedback information extraction; bilinear interpolation

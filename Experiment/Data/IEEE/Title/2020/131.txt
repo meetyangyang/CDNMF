@@ -1,0 +1,1 @@
+Synchronous Diagnosis of Discrete-Event Systems

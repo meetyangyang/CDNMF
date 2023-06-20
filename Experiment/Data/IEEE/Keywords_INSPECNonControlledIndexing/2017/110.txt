@@ -1,0 +1,1 @@
+surface conditions; 3D environments; autonomous exploration; mobile climbing robot; exploration strategy; nearest neighbors exploration approach; NNEA; sensor position evaluations; steel bridge inspection; ferromagnetic bridge structure; manipulator robot

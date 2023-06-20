@@ -1,0 +1,1 @@
+Conjunctive and Disjunctive Architectures for Decentralized Prognosis of Failures in Discrete-Event Systems

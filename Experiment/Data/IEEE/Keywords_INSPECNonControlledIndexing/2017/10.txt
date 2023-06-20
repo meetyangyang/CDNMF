@@ -1,0 +1,1 @@
+reconfigurable WSN; reconfigurable wireless sensor network; RWSN RWiN; unified modeling language; UML; zone-based architecture; communication protocol; design complexity; temporal constraint; TRMSim-WSN environment; UPPAAL environment

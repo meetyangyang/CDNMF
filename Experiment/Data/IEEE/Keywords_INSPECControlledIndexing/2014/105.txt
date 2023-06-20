@@ -1,0 +1,1 @@
+audio signal processing; feature extraction; home automation; iterative methods; principal component analysis; signal classification; support vector machines

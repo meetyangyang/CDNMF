@@ -1,0 +1,1 @@
+belief networks; fault diagnosis; integrated circuit testing; Markov processes; microcontrollers; programmable controllers; redundancy

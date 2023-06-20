@@ -1,0 +1,1 @@
+Anti-collision; frame length optimization; radio-frequency identification (RFID); signal recovery

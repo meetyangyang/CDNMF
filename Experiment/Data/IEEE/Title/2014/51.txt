@@ -1,0 +1,1 @@
+Energy-Responsive Aggregate Context for Energy Saving in a Multi-Resident Environment

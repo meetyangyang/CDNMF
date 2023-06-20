@@ -1,0 +1,1 @@
+low-carbon electricity system; full stochastic scheduling; renewable generation; operating reserve; frequency response; mixed integer linear programming formulation; energy production; underfrequency load shedding; value of lost load; load curtailment cost reduction; ancillary services; wind generation

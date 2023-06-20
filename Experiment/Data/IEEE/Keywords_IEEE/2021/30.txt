@@ -1,0 +1,1 @@
+Gesture recognition; Hidden Markov models; Neural networks; Feature extraction; Computational modeling; Monitoring; Cameras

@@ -1,0 +1,1 @@
+Simulation and Experimental Verification of Weighted Velocity and Acceleration Minimization for Robotic Redundancy Resolution

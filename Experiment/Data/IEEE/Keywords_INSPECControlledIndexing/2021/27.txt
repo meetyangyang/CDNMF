@@ -1,0 +1,1 @@
+Bayes methods; decision making; embedded systems; learning (artificial intelligence); legged locomotion; medical robotics; neurocontrollers; probability; prosthetics; robot vision; sensor fusion; wearable robots

@@ -1,0 +1,1 @@
+time-aware multiapplication task scheduling; green data center; global users; GDC providers; green energy facilities; temporal variation; delay bounds; service rates; profit maximization problem; hybrid chaotic particle swarm optimization; simulated annealing

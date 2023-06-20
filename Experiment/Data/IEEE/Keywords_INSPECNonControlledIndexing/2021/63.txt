@@ -1,0 +1,1 @@
+standalone RFID-based mobile robot navigation method; standalone radio frequency identification-based mobile robot navigation method; single passive UHF RFID tag; RFID phase difference; RFID-tagged object; commercial off-the-shelf RFID devices; navigation task; UHF radio frequency identification; location sensor; COTS; particle filter; position information extraction

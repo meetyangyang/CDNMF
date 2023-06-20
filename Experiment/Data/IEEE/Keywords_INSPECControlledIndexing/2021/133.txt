@@ -1,0 +1,1 @@
+automatic optical inspection; computer vision; fabrics; feature extraction; flaw detection; image representation; image texture; inspection; iterative methods; matrix algebra; minimisation; optimisation; production engineering computing; quality control; singular value decomposition; textile industry; weaving

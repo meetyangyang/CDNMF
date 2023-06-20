@@ -1,0 +1,1 @@
+batch production systems; flow shop scheduling; genetic algorithms; job shop scheduling; production planning; single machine scheduling

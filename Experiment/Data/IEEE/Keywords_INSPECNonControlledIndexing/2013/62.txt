@@ -1,0 +1,1 @@
+coordination motion control; parallel manipulators; actuation redundancy; multiple kinematic chains; synchronization error; end-effector; task space coordination controller; coordination controller design; asymptotic convergence; tracking error; Barbalats lemma; trajectory tracking; augmented PD controller; APD controller

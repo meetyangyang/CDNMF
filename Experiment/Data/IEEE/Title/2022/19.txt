@@ -1,0 +1,1 @@
+Dual-Loop Optimal Control of a Robot Manipulator and Its Application in Warehouse Automation

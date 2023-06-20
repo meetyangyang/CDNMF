@@ -1,0 +1,1 @@
+Distributed Model Predictive Control for Reconfigurable Systems With Network Connection

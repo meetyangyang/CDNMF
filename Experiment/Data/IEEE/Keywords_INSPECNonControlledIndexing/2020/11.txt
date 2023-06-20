@@ -1,0 +1,1 @@
+cloud workflows; cloud computing; cloud workflow scheduling; MOELS; multiobjective evolutionary algorithm; scheduling sequence; cloud datacenter; MOHEFT; multiobjective heterogeneous earliest finish time; evolutionary multiobjective scheduling; multiobjective evolutionary list scheduling; EMS-C; evolutionary multiobjective scheduling for cloud

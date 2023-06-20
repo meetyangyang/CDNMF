@@ -1,0 +1,1 @@
+neural network degradation model; residual life distribution; prognostic condition monitoring; condition-based sensory signals; failure time distribution; Bayesian approach; reliability-based benchmark; statistical-based benchmark

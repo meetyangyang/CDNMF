@@ -1,0 +1,1 @@
+fault prognosis; HVAC air-handling systems; remaining useful life; RUL; maintenance costs; hidden semiMarkov model; physics-based models; component capacities; state-transition points; operational cost; mapping matrices; failure modes; heating-ventilation-air conditioning systems; breakdowns prevention

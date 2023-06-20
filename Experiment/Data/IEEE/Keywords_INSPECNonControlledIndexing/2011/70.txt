@@ -1,0 +1,1 @@
+machine resource allocation; multiagent flowshop; adaptive auction; flowshop scheduling problem; iterated combinatorial auction mechanism; bid generation; price adjustment procedure; centralized auctioneer; variable step-size procedure; adaptive PID control theory; microeconomics; integer programming model

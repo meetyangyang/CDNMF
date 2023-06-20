@@ -1,0 +1,1 @@
+dynamic programming; energy consumption; flexible manufacturing systems; Petri nets; reachability analysis; scheduling

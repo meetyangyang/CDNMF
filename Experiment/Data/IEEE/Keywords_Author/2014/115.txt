@@ -1,0 +1,1 @@
+Field robotics; mining and construction automation; object identification; point cloud data processing

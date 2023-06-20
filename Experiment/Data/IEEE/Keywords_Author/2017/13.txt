@@ -1,0 +1,1 @@
+Adaptive coding bases; patch saliency; saliency and adaptive locality-constrained linear coding (SALLC) algorithm; wireless capsule endoscopy (WCE) image classification

@@ -1,0 +1,1 @@
+feature extraction; image classification; image colour analysis; inspection; manipulators; robot vision; service robots; support vector machines

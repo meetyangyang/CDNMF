@@ -1,0 +1,1 @@
+Gating technique (GT); Lagrange multiplier method (LMM); optical tracking system (OTS); prior knowledge; prior knowledge feedforward neural network (PKFNN)

@@ -1,0 +1,1 @@
+Direct search method; quantile; simulation optimization; stochastic Nelder–Mead simplex method

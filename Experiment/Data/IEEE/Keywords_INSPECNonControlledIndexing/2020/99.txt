@@ -1,0 +1,1 @@
+multivariate signals; multivariate systems; sequential Bayesian partitioning approach; covariance model; recursive updating method; steady-state testing; fault detection; process monitoring; univariate signals; online steady-state detection method; process control

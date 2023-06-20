@@ -1,0 +1,1 @@
+autonomous docking capability; nondocked robots; nonholonomic mobile robots; front-docked robots; docking condition; virtual robot environment; formation control; robot dynamics; robust control methodology; agricultural robotics; robust control method; heterogeneous multiple mobile robots; formation keeping; formation switching; multiple mobile robots; collision avoidance

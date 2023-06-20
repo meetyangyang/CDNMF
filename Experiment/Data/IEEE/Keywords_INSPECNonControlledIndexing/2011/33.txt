@@ -1,0 +1,1 @@
+least cost transition firing sequence estimation; labeled Petri nets; nonnegative cost; acyclic subnet; recursive algorithm; manufacturing systems; transportation systems; communication systems; market penetration; fault diagnosis; event estimation problems; sequence estimation planning

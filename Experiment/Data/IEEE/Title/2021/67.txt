@@ -1,0 +1,1 @@
+Trajectory Planning and Tracking Strategy Applied to an Unmanned Ground Vehicle in the Presence of Obstacles

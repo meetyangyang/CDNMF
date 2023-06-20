@@ -1,0 +1,1 @@
+assembling; continuum mechanics; Jacobian matrices; springs (mechanical)

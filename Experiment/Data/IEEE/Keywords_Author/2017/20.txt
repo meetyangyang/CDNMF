@@ -1,0 +1,1 @@
+Adaptive sliding mode control (ASMC); nanopositioning; piezoelectric actuators; precision motion control; uncertainty and disturbance estimation (UDE)

@@ -1,0 +1,1 @@
+sensor-based online process monitoring; robust sparse representation classification method; nonGaussian noise; actual wearable sensor data; online sensor data classification; data analysis; manual material handling process monitoring; fault detection

@@ -1,0 +1,1 @@
+Throughput of dynamic frame slotted ALOHA (DFSA) in radio frequency identification (RFID) systems depends on the tags quantity estimate. This paper shows how to apply the slot-by-slot (SbS) estimate approach;  along with the policy for the early frame-break. Simulation results show noticeable throughput improvements. 

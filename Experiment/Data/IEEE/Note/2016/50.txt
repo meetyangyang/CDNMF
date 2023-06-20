@@ -1,0 +1,1 @@
+We introduce an approach to monitorthe nonlinear process based on the regression and reconstructionmethod. Compared with the existing method, the most importantadvantage of the proposed method is that a bridge across inputand output is built to monitor the whole process. And also,the proposed method balances both fault detection and faultreconstruction.

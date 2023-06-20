@@ -1,0 +1,1 @@
+structure property; optimal policies; joint replacement maintenance problem; safety-critical components; practical asset maintenance project; Markov decision process; curse of dimensionality; shortest-remaining-lifetime-first rule; neuro-dynamic programming

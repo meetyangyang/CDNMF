@@ -1,0 +1,1 @@
+Electromyography; Electrodes; Sensors; Feature extraction; Legged locomotion; Muscles; Data acquisition

@@ -1,0 +1,1 @@
+Lighting; Pulse width modulation; Light emitting diodes; Real-time systems; Energy consumption; Lighting control

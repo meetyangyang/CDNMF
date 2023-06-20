@@ -1,0 +1,1 @@
+relative value function approximation; capacitated reentrant line scheduling problem; workstation processing; buffering capacity; material flow; deadlock-free operations; neurodynamic programming theory; contemporary manufacturing environments; scheduling logic; flexibly automated production systems; formal systems theory

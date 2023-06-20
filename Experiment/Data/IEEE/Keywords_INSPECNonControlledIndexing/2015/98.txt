@@ -1,0 +1,1 @@
+memetic algorithms; multiobjective flexible job shop scheduling problem; MO-FJSP; Pareto optimal solution; chromosome encoding/decoding scheme; genetic operator; nondominated sorting genetic algorithm II; NSGA-II; search algorithm; offspring population; selection mechanism; hierarchical strategy; alternative acceptance rule; genetic search; local search

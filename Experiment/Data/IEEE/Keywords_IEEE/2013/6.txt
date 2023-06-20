@@ -1,0 +1,1 @@
+Trajectory; Robots; Cost function; Optimal scheduling; Energy consumption; Job shop scheduling

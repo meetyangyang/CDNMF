@@ -1,0 +1,1 @@
+actuators; adaptive control; asymptotic stability; closed loop systems; control system synthesis; Gaussian processes; gradient methods; Lyapunov methods; medical robotics; nonlinear control systems; optimisation; patient rehabilitation; pneumatic actuators; predictive control; robust control

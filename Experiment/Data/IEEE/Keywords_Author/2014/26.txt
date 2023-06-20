@@ -1,0 +1,1 @@
+Lambertian diffused reflectance; red;  green;  blue-depth (RGB-D); surface-type classification

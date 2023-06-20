@@ -1,0 +1,1 @@
+A Dynamic Region-of-Interest Vision Tracking System Applied to the Real-Time Wing Kinematic Analysis of Tethered <emphasis emphasistype=\italic\>Drosophila</emphasis>

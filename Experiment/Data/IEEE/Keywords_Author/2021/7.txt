@@ -1,0 +1,1 @@
+Approximate dynamic programming (ADP); gantry scheduling; Markov decision process (MDP); planning and learning; Q-learning

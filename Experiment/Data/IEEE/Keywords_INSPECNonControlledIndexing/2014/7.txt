@@ -1,0 +1,1 @@
+freeway traffic modeling; freeway traffic control; first-order hybrid Petri net framework; FOHPN framework; hybrid Petri net formalism; freeway traffic flow dynamics; transition firing speed; stationary flow-density relationship; online optimal control coordination; speed limits; flow density maximization; modular modeling approach; North-East freeway; Italy

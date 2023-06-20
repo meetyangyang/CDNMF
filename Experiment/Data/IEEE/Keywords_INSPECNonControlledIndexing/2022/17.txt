@@ -1,0 +1,1 @@
+robotic cellular manufacturing system scheduling; timed Petri net; admissible heuristic function; system scheduling; reachable state graphs; intelligent search algorithms; RCM systems; multiple resource copies; discrete-event dynamic systems; RCM scheduling problem; A* search; timed PN evolution

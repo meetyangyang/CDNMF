@@ -1,0 +1,1 @@
+iterative deepening A* algorithm; container relocation problem; branch and bound algorithm; lower bound measure; lower bound heuristics

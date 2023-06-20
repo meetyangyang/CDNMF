@@ -1,0 +1,1 @@
+Classification; convolutional neural network (CNN); flexure; grasping; gripper; variable stiffness; vision; weight imprinting

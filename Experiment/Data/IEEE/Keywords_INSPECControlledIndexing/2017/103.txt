@@ -1,0 +1,1 @@
+algebra; automata theory; control system synthesis; decentralised control; discrete event systems; distributed control; linear systems; optimal control; state feedback

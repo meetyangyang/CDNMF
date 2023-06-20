@@ -1,0 +1,1 @@
+Data streaming; fuzzy logic control; resource scheduling and allocation; virtualization

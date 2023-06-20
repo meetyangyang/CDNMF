@@ -1,0 +1,1 @@
+automated warehouse systems; automated storage and retrieval subsystem; crane; picking area; carousels; conveyors; buffers; discrete event system; Petri net formalism; hybrid Petri nets; colored Petri nets; control oriented simulation tool

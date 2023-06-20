@@ -1,0 +1,1 @@
+An Improved Bouc–Wen Model Based on Equitorque Discretization for a Load-Dependent Nonlinear Stiffness Actuator

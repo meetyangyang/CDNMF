@@ -1,0 +1,1 @@
+optimal sample allocation strategy; partition-based random search; PRS algorithm; global optimization; solution space; subsets partitioining; promising subset selection; probability; maximization; minimization; extreme value-based prospectiveness criterion; asymptotically optimal solution; OSAS; iteration

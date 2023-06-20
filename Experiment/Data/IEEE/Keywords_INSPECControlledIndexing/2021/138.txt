@@ -1,0 +1,1 @@
+autonomous aerial vehicles; collision avoidance; control engineering computing; decentralised control; disasters; feedback; haptic interfaces; mobile robots; multi-robot systems; position control; telerobotics

@@ -1,0 +1,1 @@
+high-bandwidth control; piezo-actuated nanopositioning stage; inner-loop delayed position feedback controller; Inner-Loop DPF controller; generalized Runge-Kutta method; GRKM; active damping; high-gain proportional-integral controller; high-gain PI controller; hysteresis nonlinearity; stability

@@ -1,0 +1,1 @@
+Gaussian processes; indoor radio; mobile computing; optimisation; particle filtering (numerical methods); path planning; pose estimation; position control; regression analysis; SLAM (robots); smart phones; wireless LAN

@@ -1,0 +1,1 @@
+Scheduling algorithm; Dynamic programming; Job shop scheduling; Processor scheduling; Single machine scheduling; Upper bound; Optimization methods; Hardware; Production; Manufacturing

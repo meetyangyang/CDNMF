@@ -1,0 +1,1 @@
+decentralized optimal control; distributed interdependent automata with priority structure; distributed discrete-event system; coupled automata; centralized synthesis; computational effort; state-feedback form; distributed DES; subsystem dependency; linear structure; treelike structure; subsystem controller synthesis; local controller; algebraic computation; goal state

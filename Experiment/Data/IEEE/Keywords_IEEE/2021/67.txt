@@ -1,0 +1,1 @@
+Trajectory; Planning; Predictive control; Unmanned vehicles; Trajectory tracking; Collision avoidance

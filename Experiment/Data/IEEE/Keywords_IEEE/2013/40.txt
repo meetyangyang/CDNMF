@@ -1,0 +1,1 @@
+Finite impulse response filter; Linear programming; Alarm systems; Delay; Industries; Optimization; Accuracy

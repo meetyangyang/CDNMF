@@ -1,0 +1,1 @@
+General assembly line; line-side buffer assignment problem (LBAP); longest processing time (LPT) algorithm; material handling; NP-hard

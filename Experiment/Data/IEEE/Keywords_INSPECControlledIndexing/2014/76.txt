@@ -1,0 +1,1 @@
+ant colony optimisation; computational complexity; goods distribution; minimax techniques; search problems; vehicle routing

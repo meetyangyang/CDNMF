@@ -1,0 +1,1 @@
+Cost-Effective Hot-Standby Redundancy With Synchronization Using EtherCAT and Real-Time Ethernet Protocols

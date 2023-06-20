@@ -1,0 +1,1 @@
+steelmaking continuous casting process; SCC scheduling; refining; steel production; iron production; productivity; production cost reduction; Lagrangian relaxation; polynomial dynamic programming; Lagrangian dual problem; Brannlund level control strategy; zigzagging phenomena

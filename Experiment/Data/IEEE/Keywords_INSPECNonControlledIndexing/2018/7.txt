@@ -1,0 +1,1 @@
+functional nanodevices; multiple nanowire manipulation; multiple nanowire steering; microfluidic device; controlled orientations; fluid suspension; multiple-nanowire motion control; electric fields; two-stage motion planning algorithm; controlled electrophoretic forces

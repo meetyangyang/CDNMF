@@ -1,0 +1,1 @@
+bin packing; combinatorial mathematics; computational complexity; equivalence classes; integer programming; linear programming

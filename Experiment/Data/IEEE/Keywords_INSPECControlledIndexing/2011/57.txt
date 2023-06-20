@@ -1,0 +1,1 @@
+actuators; aircraft manufacture; end effectors; manipulator dynamics; mobile robots; permanent magnets; plates (structures); position control; prototypes; time optimal control

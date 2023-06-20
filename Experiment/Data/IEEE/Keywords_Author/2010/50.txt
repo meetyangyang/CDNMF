@@ -1,0 +1,1 @@
+Capacitated multi-item lot sizing; Dantzig–Wolfe decomposition; nested partitions; column generation; relax-and-fix

@@ -1,0 +1,1 @@
+flexible demand assignment problem; unmanned aerial vehicles; multiresource generalized assignment problem; MRGAP; UAV assignment problem; CPLEX

@@ -1,0 +1,1 @@
+adaptive control; control system synthesis; delays; error compensation; Lyapunov methods; quadratic programming; regression analysis; robust control; self-adjusting systems; sensitivity analysis; stochastic systems; support vector machines

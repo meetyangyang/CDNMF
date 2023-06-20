@@ -1,0 +1,1 @@
+constrained motion tracking control; piezo-actuated flexure based four bar mechanisms; micro manipulation; nano manipulation; motion trajectories; force conversion function; hysteresis effect; lumped parameter dynamic model; piezoelectric actuator; stability analysis; closed loop system; force sensing

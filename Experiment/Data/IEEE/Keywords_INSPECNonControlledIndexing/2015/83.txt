@@ -1,0 +1,1 @@
+HVAC operation; comfort requirements; innovative event-based approach; Lagrangian relaxation framework; day-ahead energy cost; HVAC optimization problem; time-dependent uncertainties; optimal policy; nonstationary policy space; time-dependent variables; extended state variables; Q-learning method; Q-factors; event-action pairs; energy savings

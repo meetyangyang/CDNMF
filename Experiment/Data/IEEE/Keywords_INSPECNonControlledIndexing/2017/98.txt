@@ -1,0 +1,1 @@
+optimal planning; plant flexibility; demand uncertainty; flexible manufacturing systems; demand shortfall; service level; nonhomogeneous capacities; demand distributions; closed-form bounds; sensitivity analyses; setup time reductions; downtime reductions; cycle time reductions; product launch; product correlation; system flexibility

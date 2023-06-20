@@ -1,0 +1,1 @@
+robot hands; single rigid object; manipulation planning algorithm; initial stable placement; goal stable placement; certificate; bimanual manipulation query; certified-complete bimanual manipulation planner; robot arms; closed-chain constraint; motion planning

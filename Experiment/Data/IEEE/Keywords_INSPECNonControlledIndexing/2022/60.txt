@@ -1,0 +1,1 @@
+3-d deformation; soft object; tendon-driven continuum robot; robot body; arbitrary shape; constrained environment; dynamic estimator; approximate the Jacobian matrix; deformed output; visual predictive controller; robot states

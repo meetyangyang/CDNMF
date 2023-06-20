@@ -1,0 +1,1 @@
+mobile robot navigation; self-contained direction sensing radio frequency identification; RFID reader; dual-directional antenna; automated target acquisition; indoor environment; direction-of-arrival estimation; target transponder; direction correction algorithm; mobile robot docking; office environment; received signal strength; RFID direction finding

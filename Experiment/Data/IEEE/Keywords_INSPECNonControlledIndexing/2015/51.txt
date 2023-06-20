@@ -1,0 +1,1 @@
+approximation algorithm; exact algorithm; NP-hard problem; multirobot task allocation; resource contention modeling; assignment algorithms

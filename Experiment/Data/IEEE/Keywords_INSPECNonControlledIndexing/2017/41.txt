@@ -1,0 +1,1 @@
+energy optimization; peak power optimization; time-bounded robot trajectories; EU project; AREUS; energy consumption; industrial robots; cost functions; ac-operated robot cells; dc-operated robot cells; path preservation; cycle time; KUKA robots

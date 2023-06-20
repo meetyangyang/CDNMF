@@ -1,0 +1,1 @@
+dynamic low-power reconfiguration; real-time systems; periodic task; probabilistic task; hard-soft deadline; power consumption; software-agent-based architecture; intelligent agent; temporal parameters; virtual processors; agent effectiveness

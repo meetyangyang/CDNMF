@@ -1,0 +1,1 @@
+open-loop precision grasping; underactuated hands; human manipulation strategy; underactuated finger design; grasping method; precision grasping; flip-and-pinch task; stable configuration; finger motions; repeatable quasistatic motion trajectory; open-loop kinematic playback; dexterous tasks

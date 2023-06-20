@@ -1,0 +1,1 @@
+branch and bound algorithm; cyclic scheduling; timed Petri nets; TPN; discrete event dynamic systems; automated manufacturing systems; identical firing sequence; timed event graph; TEG; linear programming; LP; cluster tools; robotic flow shops

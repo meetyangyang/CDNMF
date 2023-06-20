@@ -1,0 +1,1 @@
+Dynamic Low-Power Reconfiguration of Real-Time Systems With Periodic and Probabilistic Tasks

@@ -1,0 +1,1 @@
+Hybrid multi-objective scheme; joint-physical limits avoidance; obstacle avoidance; redundant robot manipulators; repetitive motion

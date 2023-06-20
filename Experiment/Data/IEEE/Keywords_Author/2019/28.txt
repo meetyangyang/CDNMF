@@ -1,0 +1,1 @@
+Continuum robotics; forward kinematics; interval analysis; static analysis

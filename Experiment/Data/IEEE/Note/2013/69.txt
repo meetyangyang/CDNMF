@@ -1,0 +1,1 @@
+Robustness is a pervasive problem in computational geometry. We have developed a general robustness library that is available at http://www.cs.miami.edu/~vjm/robust.

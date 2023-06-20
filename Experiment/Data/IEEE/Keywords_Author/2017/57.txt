@@ -1,0 +1,1 @@
+Backlash compensation; backlash-like hysteresis; cable-conduit mechanism; nonlinear adaptive control

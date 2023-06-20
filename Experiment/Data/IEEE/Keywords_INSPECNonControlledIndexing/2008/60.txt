@@ -1,0 +1,1 @@
+Petri net-based heuristic algorithm; oil refinery; discrete manufacturing; just-in-time scheduling; push production mode; crude oil operations; pull production; target refining schedule; production planning

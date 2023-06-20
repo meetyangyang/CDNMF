@@ -1,0 +1,1 @@
+Multiple-Change-Point Modeling and Exact Bayesian Inference of Degradation Signal for Prognostic Improvement

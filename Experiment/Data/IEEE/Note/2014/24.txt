@@ -1,0 +1,1 @@
+This paper presents computational toolsnecessary for automated cell micromanipulation using OpticalTweezers. Autonomy in optical manipulation enables us to realizea method for fast and accurate placement of microparticles. Themethod presented in this paper is especially useful for accuratelyplacing cells in an array for biological experiments.

@@ -1,0 +1,1 @@
+freedom concrete pump; hydraulic flow rate constraints; compliant constraints; multiple operation modes; mobile concrete pump; TCP control algorithm; efficient error-free operation; operating comfort; constrained quadratic optimization; tool-center-point control; hydraulic constraints; joint constraints; configuration control

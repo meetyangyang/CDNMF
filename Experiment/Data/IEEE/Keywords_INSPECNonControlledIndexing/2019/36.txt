@@ -1,0 +1,1 @@
+nonparametric activity recognition system; heterogeneous sensor data; medical resources; human labors; meaningful ADL; on-body sensors; smart home environment; ambient sensors; activity of daily living; aging in place; Internet of Things technologies; data integration

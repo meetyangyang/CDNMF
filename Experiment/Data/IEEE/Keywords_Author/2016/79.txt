@@ -1,0 +1,1 @@
+Coke oven; combustion process; differential evolution algorithm; dynamic modeling; just-in-time learning (JITL); variable-universe fuzzy logic (VUFL)

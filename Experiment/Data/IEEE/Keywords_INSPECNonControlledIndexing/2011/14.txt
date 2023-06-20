@@ -1,0 +1,1 @@
+multiresource shop scheduling; resource flexibility; resource blocking; job shop scheduling model; manufacturing system; shortest path approach; greedy heuristic approach

@@ -1,0 +1,1 @@
+planned autonomous underwater vehicle missions; temporal planning problems; time constraints; probability distributions; opportunistic planning problem; on-board replanning approach; AUV missions; pillar expection

@@ -1,0 +1,1 @@
+classifier correlation; region proposal network; small fruits; automatic detection; automatic yield estimation; fruit detection algorithm; detection advantage; single-level features; proposal candidates; multiple classifier fusion strategy; Faster R-CNN network; proposal localization; multiple classifiers

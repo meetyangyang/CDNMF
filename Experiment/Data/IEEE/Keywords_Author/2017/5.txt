@@ -1,0 +1,1 @@
+Companion robots; interacting multiple model (IMM); model mismatch; model predictive control (MPC); motion planning; motion prediction; unscented Kalman filter (UKF)

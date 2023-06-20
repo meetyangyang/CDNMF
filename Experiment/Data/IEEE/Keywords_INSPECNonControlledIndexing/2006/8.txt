@@ -1,0 +1,1 @@
+variational geometry; composite tolerances; product life; tolerance semantics; 3D computer-aided design systems; degree-of-freedom-based approach; CAD/CAM; tolerance information; computer-aided manufacturing; pattern of holes problem; Boolean intersection operation; engineering semantics; virtual assembly; virtual inspection

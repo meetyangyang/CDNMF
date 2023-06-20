@@ -1,0 +1,1 @@
+prioritized planning algorithms; trajectory coordination; multiple mobile robots; autonomous multirobot systems; coordinated trajectory; decentralized multirobot systems; revised prioritized planning; ORCA reactive technique; route planning; collision-free route planning

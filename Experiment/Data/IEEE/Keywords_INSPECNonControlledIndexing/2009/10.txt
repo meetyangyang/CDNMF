@@ -1,0 +1,1 @@
+interservice compatibility analysis; Web service composition; service oriented architecture; WS-BPEL; colored Petri net

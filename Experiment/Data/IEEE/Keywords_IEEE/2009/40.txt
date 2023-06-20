@@ -1,0 +1,1 @@
+Shape; Solid modeling; Boundary conditions; Linear systems; Computational efficiency; Computer science; Computer graphics; Matrix decomposition; Life members

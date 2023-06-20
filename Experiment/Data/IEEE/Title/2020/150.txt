@@ -1,0 +1,1 @@
+A Fine-Grained Adversarial Network Method for Cross-Domain Industrial Fault Diagnosis

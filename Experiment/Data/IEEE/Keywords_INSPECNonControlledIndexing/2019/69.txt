@@ -1,0 +1,1 @@
+scale variation issue; coarse-to-fine deep scheme; aspect ratio variation; UAV tracking; coarse-tracker; target object; fine-tracker; action spaces; bounding box; end-to-end reinforcement learning architecture; benchmark aerial data; coarse-to-fine UAV target tracking; deep reinforcement learning; unmanned aerial vehicle tracking task; aerial tracking

@@ -1,0 +1,1 @@
+parameter prediction; numeric input; categorical input; data mining; adaptive-network-based fuzzy inference system; firing-strength transform matrix; generation mechanism; fuzzy rules; premise part; consequent part; fuzzy c-means method; binary tree linear division method; trim-beam numbers; industrial textile scheduling process

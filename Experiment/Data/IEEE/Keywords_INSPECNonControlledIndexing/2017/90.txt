@@ -1,0 +1,1 @@
+learning Bayesian network structure; augment aircraft diagnostic reference model; fault detection and isolation scheme; expert-created reference model; Naive Bayes reasoner; expert-generated reference model; aircraft flight data mining method; knowledge engineering approach

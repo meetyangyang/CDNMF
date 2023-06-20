@@ -1,0 +1,1 @@
+Critical number of measurements; evaluation of mean time between failures (MTBF) and mean time to repair (MTTR); Industry 4.0; manufacturing systems; observation time; performance analysis; smart manufacturing

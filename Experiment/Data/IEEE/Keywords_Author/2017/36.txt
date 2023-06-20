@@ -1,0 +1,1 @@
+Battery management; global positioning system (GPS); hybrid electric vehicle (HEV); Petri net (PN); rule-based strategy (RbS); state of charge (SoC)

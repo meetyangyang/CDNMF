@@ -1,0 +1,1 @@
+texture defect detection; motif based patterned texture; wallpaper groups; decision boundary; rectangle motif shape; triangle motif shape; parallelogram motif shape; detection performance evaluation

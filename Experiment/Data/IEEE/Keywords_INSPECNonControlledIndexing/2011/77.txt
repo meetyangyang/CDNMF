@@ -1,0 +1,1 @@
+optimal image based Euclidean calibration; general scenes; projector based structured light systems; 3D scene geometry; scene multiple cameras; image based reprojection error

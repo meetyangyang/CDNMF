@@ -1,0 +1,1 @@
+compact strip production; strip combination problem; production constraint; artificial bee colony algorithm; hot rolling batch scheduling algorithm; evolutionary algorithm; search strategy; strip sequencing problem

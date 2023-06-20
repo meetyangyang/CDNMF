@@ -1,0 +1,1 @@
+Kinematic calibration; minimal model; position measurements; product of exponentials (POE)

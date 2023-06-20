@@ -1,0 +1,1 @@
+Collaborative robotics; framework; industrial Ethernet; middleware; multiaxis control; multirobot control; open robotics; real time

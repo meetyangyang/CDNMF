@@ -1,0 +1,1 @@
+Algorithm; case retrieving; case-based reasoning (CBR); constrained common subgraph; face adjacent graph (FAG); fixture design; graph matching; graph similarity; machining features; maximal common subgraph (MCS); tolerance

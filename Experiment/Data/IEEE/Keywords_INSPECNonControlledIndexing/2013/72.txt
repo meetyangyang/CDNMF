@@ -1,0 +1,1 @@
+robust control; cyclic pallet systems; system chain tension force; mixed integer linear optimization model; cycle production; time complexity; binary decision variables; part set schedule; heuristic search strategy; weighted profile fitting algorithm; optimal control; worst control; worst but safe control strategies; sustainable control

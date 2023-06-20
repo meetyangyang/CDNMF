@@ -1,0 +1,1 @@
+Biometric; bipedal walk; gait; HOAP2; hybrid automata; stability; vector field (VF)

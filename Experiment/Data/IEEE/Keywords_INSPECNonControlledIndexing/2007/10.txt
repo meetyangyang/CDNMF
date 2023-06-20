@@ -1,0 +1,1 @@
+production planning; production scheduling; three-stage manufacturing system; parallel flow shop; job shop; parallel production lines; single machine shop; batch production; dynamic batch splitting algorithm; dynamic batch amalgamating algorithm; heuristic algorithm; genetic algorithm

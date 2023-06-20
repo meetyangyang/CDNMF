@@ -1,0 +1,1 @@
+Dirichlet process Gaussian mixture models; real-time monitoring; chemical mechanical planarization; process anomalies; fault identification; fault online detection; DP-based statistical process control; semiconductor CMP test bed; DPGM models; sensor data; wireless vibration signals

@@ -1,0 +1,1 @@
+high-DOF trajectory planning; probabilistic collision detection; imperfect obstacle representations; robot trajectory; dynamic scenes; Gaussian distributions; collision probabilities; prediction algorithm; trajectory optimization; robot arms; human obstacles

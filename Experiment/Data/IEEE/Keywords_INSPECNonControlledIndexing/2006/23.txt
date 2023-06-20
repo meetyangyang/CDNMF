@@ -1,0 +1,1 @@
+2-DOF compliant parallel micromanipulator; 2D nanomanipulation; flexure joints; flexure hinges; pseudorigid-body model; architectural optimization; finite element analysis; position kinematic modeling; velocity kinematic modeling; statics analysis; piezoactuators; dexterity indices; kinematic optimization; 2D assembly; kinematic mathematical model

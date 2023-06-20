@@ -1,0 +1,1 @@
+Rapidly Exploring Random Tree algorithm; RRT path planning; robot aided optical manipulation; biological cell optical manipulation; cell transportation path planner; collision avoidance; optical tweezers; collision free path; static path planners; dynamic path planners; microparticle Brownian movement; cell based bioengineering applications

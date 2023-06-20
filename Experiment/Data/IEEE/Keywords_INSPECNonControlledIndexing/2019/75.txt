@@ -1,0 +1,1 @@
+reinforced nonlinear model; gas component perception; update-driven strategy; PLS; radial basis function neural network; back propagation neural network; RBFNN; radial basis function network; nonlinear principle components; feedforward neural networks; gas-fired plant data; partial least squares; residuals error matrices; gas-fired plant data set; coal-fired plant data set

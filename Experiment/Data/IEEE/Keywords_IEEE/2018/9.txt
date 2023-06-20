@@ -1,0 +1,1 @@
+Trajectory; Hip; Knee; Legged locomotion; Foot; Automata; Mathematical model

@@ -1,0 +1,1 @@
+two-level production plan decomposition; hybrid MOEA; mineral processing; multiobjective production planning decomposing problem; multiobjective 0-1 mixed integer nonlinear programming model; interactive partition; multiobjective gradient-based hybrid evolutionary multiobjective algorithm; IG-NSGA-II IG-SPEA2; evolutionary process

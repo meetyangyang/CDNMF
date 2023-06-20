@@ -1,0 +1,1 @@
+Observer-Based Robust Control of 6-DOF Parallel Electrical Manipulator With Fast Friction Estimation

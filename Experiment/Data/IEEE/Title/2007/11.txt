@@ -1,0 +1,1 @@
+A Small Model Theorem for Bisimilarity Control Under Partial Observation

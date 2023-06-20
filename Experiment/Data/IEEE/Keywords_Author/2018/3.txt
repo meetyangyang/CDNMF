@@ -1,0 +1,1 @@
+Coverage optimization; road networks; sensor networks; sensor placement; spatial monitoring

@@ -1,0 +1,1 @@
+binary decision diagrams; deterministic automata; finite automata; industrial control; SCADA systems; symbol manipulation

@@ -1,0 +1,1 @@
+propagative model; simultaneous impacts; design consequences; existence; uniqueness; energy conservation; momentum conservation; elastic impacts; perfectly plastic impacts; inelastic impacts; time-stepping algorithm; continuous energy; discrete momentum; billiard balls; two-dimensional legged robot

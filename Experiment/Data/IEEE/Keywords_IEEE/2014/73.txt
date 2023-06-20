@@ -1,0 +1,1 @@
+Genetic algorithms; Robot kinematics; Human-robot interaction; Resource management; Assembly systems; Scheduling algorithms

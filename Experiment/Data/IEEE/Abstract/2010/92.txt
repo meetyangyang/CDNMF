@@ -1,0 +1,1 @@
+Different approaches to implementation of hygiene compliance monitoring are presented. The architecture and operation of an embedded distributed system for hygiene compliance monitoring are described. The performance of the system does not depend on the number of monitored areas;  number of caregivers being monitored;  and no network infrastructure is required. 

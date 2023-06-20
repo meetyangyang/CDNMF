@@ -1,0 +1,1 @@
+Bayesian neural network (BNN); environmental context prediction; prosthesis; uncertainty quantification

@@ -1,0 +1,1 @@
+Image segmentation; machine vision; object recognition; object segmentation

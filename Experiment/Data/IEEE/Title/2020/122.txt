@@ -1,0 +1,1 @@
+A Machine Learning Framework for Real-Time Identification of Successful Snap-Fit Assemblies

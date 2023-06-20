@@ -1,0 +1,1 @@
+Automata; directed control; director; discrete event system; disturbance input; maximally permissive supervisor; nonblocking; sensor output; supervisor; supervisory control

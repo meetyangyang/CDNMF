@@ -1,0 +1,1 @@
+Initial registration; iterative closest point (ICP); large-scale stretch; singular value decomposition (SVD); 3D registration

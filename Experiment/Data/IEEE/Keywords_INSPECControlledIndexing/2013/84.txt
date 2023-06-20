@@ -1,0 +1,1 @@
+genetic algorithms; gradient methods; integer programming; mineral processing; nonlinear programming; production planning

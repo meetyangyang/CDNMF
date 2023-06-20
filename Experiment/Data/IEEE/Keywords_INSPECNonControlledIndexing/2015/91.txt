@@ -1,0 +1,1 @@
+customer order scheduling; unrelated parallel machines; total completion time minimization; product type splitting property; heuristics; computational efficiency

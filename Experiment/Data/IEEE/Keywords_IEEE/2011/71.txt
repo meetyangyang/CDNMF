@@ -1,0 +1,1 @@
+Condition monitoring; Robustness; Autoregressive processes; Data models; Artificial neural networks; Degradation; Principal component analysis

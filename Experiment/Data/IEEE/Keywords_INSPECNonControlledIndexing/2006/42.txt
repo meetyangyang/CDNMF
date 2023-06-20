@@ -1,0 +1,1 @@
+process-resource nets; acyclic process subnets; quasilive process subnets; serializable process subnets; reversible process subnets; Petri net markings; bounded-length fireable transition sequences; liveness analysis; reversibility analysis; resource allocation; modern technological systems; deadlock freedom; reachability analysis; structural analysis

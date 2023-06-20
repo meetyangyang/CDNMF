@@ -1,0 +1,1 @@
+position control; hybrid thermopiezoelectric microgripper; micromanipulation tasks; force control; microassembly; thermopiezoelectric actuator; high positioning resolution; thermal actuation; pick-and-release task

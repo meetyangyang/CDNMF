@@ -1,0 +1,1 @@
+reinforcement learning; robust scheduling; semiconductor manufacturing facilities; semiconductor manufacturers; multichip products; MCPs; sequence-dependent setups; scheduling problems; production requirements; MCP scheduling problem; setup change scheduling method; setup decisions; semiconductor manufacturing operations scheduling; reentrant production flows; neural network

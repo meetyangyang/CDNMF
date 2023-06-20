@@ -1,0 +1,1 @@
+Color-Coating Scheduling With a Multiobjective Evolutionary Algorithm Based on Decomposition and Dynamic Local Search

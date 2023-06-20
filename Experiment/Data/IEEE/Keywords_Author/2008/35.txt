@@ -1,0 +1,1 @@
+Concurrent engineering; design project scheduling; Lagrangian relaxation; surrogate optimization; task dependency and communication activities

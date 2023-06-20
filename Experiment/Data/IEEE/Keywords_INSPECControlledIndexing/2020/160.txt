@@ -1,0 +1,1 @@
+biological organs; cancer; convolutional neural nets; endoscopes; feature extraction; image recognition; image segmentation; learning (artificial intelligence); medical image processing; object detection

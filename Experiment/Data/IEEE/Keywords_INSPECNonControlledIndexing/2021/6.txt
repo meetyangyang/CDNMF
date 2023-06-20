@@ -1,0 +1,1 @@
+realistic industrial use-case; assembly line; human operator; optimal scheduling; human-robot collaborative assembly operations; time Petri nets; collaborative automation; industrial robots; human workers; possible variabilities; scheduling method; collaborative assembly tasks; assembly activities; output plan

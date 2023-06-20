@@ -1,0 +1,1 @@
+two-stage strategy; Bayes classifier; historical scheduling data; virtual machines; dynamic task scheduling algorithms; cloud resources; cloud computing; task execution cost; meeting task deadlines; dynamic cloud task scheduling; task scheduling performance; nonreasonable task allocation; concrete VM; practitioners-task scheduling

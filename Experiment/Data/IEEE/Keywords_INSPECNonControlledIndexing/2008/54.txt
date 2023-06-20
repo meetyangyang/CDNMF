@@ -1,0 +1,1 @@
+stochastic distribution networks design; Lagrangian relaxation; retailers; distribution centers; inventory management; economic order quantity policy; safety stock level; shipment; inventory costs; NP-hard optimization problem

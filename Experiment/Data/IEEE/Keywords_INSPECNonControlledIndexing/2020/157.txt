@@ -1,0 +1,1 @@
+transport systems; traffic scheduling problem; modeling abstraction; guidepath-based transport system; irreversible zone-controlled; open zone-controlled; traffic coordination; ZC-GBTS subclass; aforementioned MPC scheme; underlying ZC-GBTS; model predictive control scheme

@@ -1,0 +1,1 @@
+liveness enforcing supervisory policy; partially controlled ordinary PN; LESP; general free-choice PN structures; ordinary FCPN structures; partially controlled general free-choice Petri nets; decidability

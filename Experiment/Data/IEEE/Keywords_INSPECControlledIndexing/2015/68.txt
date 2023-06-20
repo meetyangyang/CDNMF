@@ -1,0 +1,1 @@
+data mining; finite automata; home computing; patient monitoring; sensor fusion

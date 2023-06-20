@@ -1,0 +1,1 @@
+multirobot motion planning; unlabeled discs; simple polygon; strongly NP-hard problem

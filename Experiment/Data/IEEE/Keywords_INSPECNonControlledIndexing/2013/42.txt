@@ -1,0 +1,1 @@
+online sensor activation; discrete event systems; external observer; k-step distinguishability; periodic detectability; state estimation; decision making; state information preservation

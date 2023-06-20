@@ -1,0 +1,1 @@
+production control; adaptive control; path planning; position control; end effectors; manipulator dynamics; manipulator kinematics; industrial manipulators

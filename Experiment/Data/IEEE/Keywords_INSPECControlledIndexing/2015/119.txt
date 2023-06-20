@@ -1,0 +1,1 @@
+cutting; expectation-maximisation algorithm; feature extraction; hidden Markov models; independent component analysis; iterative methods; least squares approximations; mechanical engineering computing; production engineering computing; signal processing; support vector machines; surface roughness; turning (machining); vibrations

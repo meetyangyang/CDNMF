@@ -1,0 +1,1 @@
+Fiducial registration error (FRE); paired-point rigid registration (PPRR); target localization error (TLE); target registration error (TRE); total target resgitration error (TTRE)

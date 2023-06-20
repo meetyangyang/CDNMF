@@ -1,0 +1,1 @@
+neural networks; 3D space; closed-loop controller; stable controllers; sliding-mode control approach; boundary effects; orientation-compensation model; adaptive-compensation scheme; magnetically driven helical microswimmers; stable closed-loop controls; 3D manipulation tasks; magnetic microswimmers; adaptive orientation compensation model; helical microswimmer

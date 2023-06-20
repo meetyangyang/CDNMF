@@ -1,0 +1,1 @@
+Petri nets; Fault diagnosis; Mathematical model; Fault detection; Discrete event systems; Distributed algorithms; Intelligent transportation systems; Software tools; Sensor systems; Context modeling

@@ -1,0 +1,1 @@
+path planning; package delivery; heterogeneous multirobot teams; task scheduling; cooperating vehicles; autonomous delivery; truck; quadrotor microaerial vehicle; NP-hard problem; generalized traveling salesman problem; heterogeneous delivery problem; static warehouses

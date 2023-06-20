@@ -1,0 +1,1 @@
+conflict-free scheduling; automated guided vehicles; Benders decomposition; real-large-scale industrial instance; open-source satisfiability module theories; constraint programming solver; general-purpose solvers; optimization algorithms; CP/SMT solvers; Swedish AGV company; control policies; manufacturing systems; conflict-free routing

@@ -1,0 +1,1 @@
+approximate dynamic programming policy; robotic surveillance; suboptimal decision algorithms; unattended ground sensor; UGS; robot services; Markov decision problem; ADP; linear programming; perimeter surveillance; controlled Markov chains; approximate value function

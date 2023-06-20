@@ -1,0 +1,1 @@
+Job shop scheduling; Schedules; Heuristic algorithms; Dynamic scheduling; Processor scheduling; Robots

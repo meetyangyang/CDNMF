@@ -1,0 +1,1 @@
+automatic bird species detection; crowd sourced videos; nature observation; automatic bird species filtering; camera motion; time series; interwing tip distance; motion segmented bird contours; salient extremity recognition; video capture; IWTD; wingbeat frequency; 3D space; Fast Fourier Transform; data acquisition

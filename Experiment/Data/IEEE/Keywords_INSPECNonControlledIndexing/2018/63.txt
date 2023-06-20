@@ -1,0 +1,1 @@
+mechanical structure configurations; material properties; flexure hinge shaft; grasping stiffness; structure-controlled principle; structure-controlled variable stiffness robotic gripper; gripper finger stiffness; gripping position control; undesired lateral buckling; normal leaf spring rotation; two-finger parallel gripper

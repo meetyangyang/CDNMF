@@ -1,0 +1,1 @@
+image texture; object detection; pose estimation; regression analysis; robot vision

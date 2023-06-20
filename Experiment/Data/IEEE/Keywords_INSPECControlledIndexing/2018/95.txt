@@ -1,0 +1,1 @@
+cartography; geographic information systems; learning (artificial intelligence); mobile computing; neural nets; text analysis; text detection

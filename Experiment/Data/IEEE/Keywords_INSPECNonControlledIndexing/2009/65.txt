@@ -1,0 +1,1 @@
+product design; product manufacturing; CAM; rigorous tolerance semantics; complicated tolerance specification; immovable-tolerance zone tolerance; translational-TZ tolerance; floatable-TZ tolerance; Boolean intersection operation; 3D CAD system

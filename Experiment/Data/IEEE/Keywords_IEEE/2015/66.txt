@@ -1,0 +1,1 @@
+Speech; Support vector machines; Transforms; Access control; Empirical mode decomposition; Speaker recognition

@@ -1,0 +1,1 @@
+deadlock characterization; structural liveness analysis; perfect activity circuit; sequential automated manufacturing system; Petri nets; integer linear program

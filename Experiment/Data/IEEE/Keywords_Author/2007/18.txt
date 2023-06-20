@@ -1,0 +1,1 @@
+Aligned phase angle; bearing diagnostics; machine monitoring; phase fluctuations

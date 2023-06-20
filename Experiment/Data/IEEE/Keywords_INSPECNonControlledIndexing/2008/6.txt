@@ -1,0 +1,1 @@
+integrated supervisory control; warehouse operational control; matrix-based approach; matrix-based discrete event control; control system; dynamic model; discrete event dynamics; stock-keeping units; deadlocks; matrix-based control

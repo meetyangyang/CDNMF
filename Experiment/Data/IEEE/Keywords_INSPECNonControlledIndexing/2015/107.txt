@@ -1,0 +1,1 @@
+real-time production scheduler; digital-print-service provider; dynamic incremental evolutionary algorithm; optimization objective; dispatching sequence; balance resource utilization; resource failure probability; discrete-event simulation; ontime delivery ratio

@@ -1,0 +1,1 @@
+custom-built all position autonomous mobile welding robot system; fillet seam welding; right angle seam; global optimal solution; optimal motion planning; model modification

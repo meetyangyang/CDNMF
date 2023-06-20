@@ -1,0 +1,1 @@
+Manipulators; Grasping; Planning; Trajectory; Grippers; Task analysis; Transportation

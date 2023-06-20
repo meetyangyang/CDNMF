@@ -1,0 +1,1 @@
+image denoising; least squares approximations; mesh generation; surface fitting; tensors

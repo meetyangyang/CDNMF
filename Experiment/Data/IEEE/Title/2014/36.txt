@@ -1,0 +1,1 @@
+A Feasible and Easy-to-Implement Anticollision Algorithm for the EPCglobal UHF Class-1 Generation-2 RFID Protocol

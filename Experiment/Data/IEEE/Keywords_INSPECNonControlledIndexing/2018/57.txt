@@ -1,0 +1,1 @@
+type-I failure mechanisms; series-machine system; type-II failure mechanisms; optimization; production line system; series machine efficiency

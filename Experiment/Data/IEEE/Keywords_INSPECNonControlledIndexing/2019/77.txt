@@ -1,0 +1,1 @@
+geometrically driven grasp methods; pregrasp stage; convolutional neural network; circuit board grasping tests; industrial manipulation; active learning-based grasp method; data-driven grasp methods; fixed motion estimation; closed-loop control; end effector; camera intrinsic parameters; hand-eye transformation; human interventions; interactive perception image

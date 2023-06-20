@@ -1,0 +1,1 @@
+Active LED marker (ALM); biologically inspired learning; biologically inspired signal processing; dynamic and active-pixel vision sensor (DAVIS); event-based neuromorphic vision; hand gesture recognition; illumination-robust system; wearable device

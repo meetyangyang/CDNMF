@@ -1,0 +1,1 @@
+Appointment system; congestion; embedded Markov chain; interday scheduling; patient cancellation

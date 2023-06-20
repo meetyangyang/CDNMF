@@ -1,0 +1,1 @@
+adaptive dispatching rule; semiconductor wafer fabrication facility; scheduling methods; ADR; nonbatch processing machines; backward propagation neural network; BPNN; particle swarm optimization; PSO algorithm; weighting parameters

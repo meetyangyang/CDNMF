@@ -1,0 +1,1 @@
+reactive motion planning; unmanned aerial surveillance; risk-sensitive area; unmanned aerial vehicles; UAV; PARCov planner; planner for autonomous risk-sensitive coverage; sensor data quality; detection risk reduction; quadcopter; optimal altitude

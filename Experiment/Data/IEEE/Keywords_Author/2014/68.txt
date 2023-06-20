@@ -1,0 +1,1 @@
+Case feature weighting; case-based reasoning (CBR); data-driven; fuzzy-similarity rough sets (FSRS); product quality estimation; soft-sensor modeling

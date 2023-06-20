@@ -1,0 +1,1 @@
+Object segmentation; Object recognition; Sensors; Image edge detection; Image segmentation; Machine vision

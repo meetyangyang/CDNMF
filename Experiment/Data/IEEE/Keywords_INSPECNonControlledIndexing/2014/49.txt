@@ -1,0 +1,1 @@
+multiobjective hybrid genetic algorithm; MO-HGA; TFT-LCD module assembly scheduling; thin-film transistor-liquid crystal display module assembly production; job-shop scheduling problem; module assembly shop floor; nonidentical parallel machines; variable neighborhood descent algorithm; TOPSIS evaluation technique

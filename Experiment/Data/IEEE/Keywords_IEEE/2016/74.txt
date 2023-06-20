@@ -1,0 +1,1 @@
+Optimal control; Mathematical model; Nonlinear systems; Neural networks; Heuristic algorithms; Dynamic programming

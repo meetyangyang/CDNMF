@@ -1,0 +1,1 @@
+computer vision; food processing industry; image classification; image colour analysis; neural nets; principal component analysis; production engineering computing; support vector machines

@@ -1,0 +1,1 @@
+group elevator scheduling; normal-emergency modes; transportation efficiency; discrete optimization; destination entry; radio frequency identification; sensor networks; coordinated emergency evacuation; ordinal optimization-based local search; dynamic programming; traffic information; elevator parking; computational efficiency

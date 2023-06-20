@@ -1,0 +1,1 @@
+Blocking; deadlock; geometric approach; makespan; multiresource; resource flexibility; scheduling

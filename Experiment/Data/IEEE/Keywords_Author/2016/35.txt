@@ -1,0 +1,1 @@
+Large spares service network; negative composition pattern; positive composition pattern; service annotated tag

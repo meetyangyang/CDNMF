@@ -1,0 +1,1 @@
+brick sorting; Duplo bricks; cluttered object piles; robust pipeline; cluttered tabletop; grasping; manipulation-aided perception; cluttered environments; object sorting; manipulation primitives

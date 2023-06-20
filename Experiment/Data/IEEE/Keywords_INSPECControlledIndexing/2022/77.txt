@@ -1,0 +1,1 @@
+gait analysis; image motion analysis; legged locomotion; medical robotics; parameter estimation; patient rehabilitation; prosthetics; quadratic programming

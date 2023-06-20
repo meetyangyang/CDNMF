@@ -1,0 +1,1 @@
+automatic sweep scan path planning; five-axis free-form surface inspection; geometric data; coordinate measuring machine; five-axis inspection machine; inspection efficiency; sweep scan path planning method; automatically generate; automatic sweep scan path generation algorithms; zigzag method

@@ -1,0 +1,1 @@
+control system synthesis; convergence; genetic algorithms; manipulator kinematics; particle swarm optimisation; quadratic programming; random processes; search problems

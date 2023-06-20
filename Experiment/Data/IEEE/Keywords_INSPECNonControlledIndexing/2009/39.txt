@@ -1,0 +1,1 @@
+Bezier curves; planar curves; computational geometry; exact arithmetic

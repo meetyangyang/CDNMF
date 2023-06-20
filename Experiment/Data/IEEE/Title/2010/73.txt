@@ -1,0 +1,1 @@
+A Real-Time Algorithm for Determining the Optimal Paint Gun Orientation in Spray Paint Applications

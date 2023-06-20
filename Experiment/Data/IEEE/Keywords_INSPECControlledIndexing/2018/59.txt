@@ -1,0 +1,1 @@
+batch processing (industrial); Gaussian distribution; Gaussian processes; mixture models; principal component analysis; process monitoring; steel manufacture

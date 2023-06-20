@@ -1,0 +1,1 @@
+flexible manufacturing system; Renyi mean-entropy criterion; FMS; robust total energy optimization problem; random variable; p-timed Petri net model; robust energy optimal schedule; reachability graph; Bellman dynamic programming; numerical simulation; industrial stamping system; computational complexity

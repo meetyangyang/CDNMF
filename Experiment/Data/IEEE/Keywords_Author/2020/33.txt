@@ -1,0 +1,1 @@
+Basis function expansion; block coordinate decent (BCD) algorithm; function-on-function regression; group lasso penalty

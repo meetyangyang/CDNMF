@@ -1,0 +1,1 @@
+HMM parameter initialization; maximum-likelihood estimation; expectation-maximization; human action recognition

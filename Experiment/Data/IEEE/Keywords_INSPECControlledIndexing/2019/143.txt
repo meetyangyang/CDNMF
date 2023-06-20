@@ -1,0 +1,1 @@
+adaptive control; control engineering computing; dexterous manipulators; manipulator kinematics; optimisation; unsupervised learning

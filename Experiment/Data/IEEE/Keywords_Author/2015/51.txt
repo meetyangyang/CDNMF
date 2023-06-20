@@ -1,0 +1,1 @@
+Assignment algorithm; interference; multirobot task allocation; resource contention

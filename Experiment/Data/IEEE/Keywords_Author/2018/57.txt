@@ -1,0 +1,1 @@
+Efficiency; operation-dependent failures (ODF); production lines; series machines; time-dependent failures (TDF)

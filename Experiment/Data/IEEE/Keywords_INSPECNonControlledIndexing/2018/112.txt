@@ -1,0 +1,1 @@
+negative deteriorating effect model; maintenance threshold; imperfect maintenance policy; preventive maintenance action; distribution function; degradation rate; condition-based adaptive maintenance policy; optimal cost allocation; numerical analysis; positive deteriorating effect model

@@ -1,0 +1,1 @@
+timed discrete-event systems; single-armed cluster tools; Pareto-optimal optimization; semiconductor manufacturing fabs; wafer lot size; wafer recipe; wafer flow pattern; prevalent cyclic scheduling methods; identical cyclic tool operation sequence; noncyclic scheduling problem; Pareto optimal solutions; reentrant wafer flows; parallel chambers

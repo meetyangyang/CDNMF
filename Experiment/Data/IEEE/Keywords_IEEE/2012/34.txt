@@ -1,0 +1,1 @@
+Bandwidth; Resource management; Pragmatics; Dynamic scheduling; Fuzzy control; Process control; Throughput

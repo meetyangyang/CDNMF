@@ -1,0 +1,1 @@
+Flexible job shop scheduling; local search; memetic algorithm (MA); mutliobjective; nondominated sorting genetic algorithm II (NSGA-II)

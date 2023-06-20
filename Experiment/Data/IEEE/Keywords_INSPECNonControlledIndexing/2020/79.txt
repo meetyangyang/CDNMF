@@ -1,0 +1,1 @@
+item assignment problem; robotic mobile fulfillment system; RMFS; order fulfillment process; inventory pods; good assignment solution; reoptimization heuristic algorithm; pick-pack-and-ship warehouses; carry shelving units; storage locations; picking stations; perturbation levels; shipping cartons

@@ -1,0 +1,1 @@
+Job shop scheduling; Production; Concrete; Routing; Resource management; Cost function; Stochastic processes; Delay effects; Mathematical model; Genetic algorithms

@@ -1,0 +1,1 @@
+backstepping control; gear transmission servosystems; backlash nonlinearity; soft degree concept

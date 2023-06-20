@@ -1,0 +1,1 @@
+postcapture attitude takeover control; partially failed spacecraft; parametric uncertainties; adaptive back-stepping control; dynamic control reallocation method; space manipulators; matrix configuration; command filtering; asymptotic stability; quadratic programing; numerical simulations; position constraints; speed constraints; actuator

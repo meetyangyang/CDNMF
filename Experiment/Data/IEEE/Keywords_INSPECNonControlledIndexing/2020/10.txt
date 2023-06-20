@@ -1,0 +1,1 @@
+covariance matrix; root mean square; simulated TTRE statistics; total target registration error; statistical model; TTRE metric; TTRE rms values; deep-brain stimulation surgery; FRE; TLE magnitude; TRE estimation algorithms; paired-point rigid registration; image-guided surgery

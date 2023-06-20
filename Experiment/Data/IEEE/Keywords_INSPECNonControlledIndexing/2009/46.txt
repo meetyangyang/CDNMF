@@ -1,0 +1,1 @@
+inference-based ambiguity management; decentralized decision-making; decentralized diagnosis; discrete-event systems; global control decisions; diagnosis decision; global diagnosis decision; delay uniformly bounded number; inference-diagnosability; codiagnosability; decentralized failure diagnosis

@@ -1,0 +1,1 @@
+predictive control; information networks; component-based architectures; resource allocation; quality-of-service; mathematical programming model; closed-loop policy; auction market

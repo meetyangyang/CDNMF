@@ -1,0 +1,1 @@
+interlinked deformable linear objects; aircraft assembly; interlinked DLOs; clamping points; manipulation planning problem; predetermined ideal clamping locations; finite gripping points; primitive manipulation actions; clamp poses

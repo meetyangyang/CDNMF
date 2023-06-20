@@ -1,0 +1,1 @@
+microrobot; microgripper; video camera system; vision-based feedback controllers; automated micrograsping task

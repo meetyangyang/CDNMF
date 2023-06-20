@@ -1,0 +1,1 @@
+multimodal fusion; active perception; scalable self-organizing neural architecture; environmental perception; unsupervised machine learning-based scalable fusion technique; extensive multimodal human activity sensor dataset; Apache Hadoop; Apache Spark

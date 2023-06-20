@@ -1,0 +1,1 @@
+Canonical correlation analysis (CCA); fault detection; multimode process monitoring; variational Bayesian Gaussian mixture model (GMM)

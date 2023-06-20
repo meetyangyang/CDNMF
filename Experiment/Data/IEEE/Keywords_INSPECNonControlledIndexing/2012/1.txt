@@ -1,0 +1,1 @@
+input order robustness; logic control verification; manufacturing system; logic controller; event-condition-action modular finite-state machines; ECA MFSM; IEC 61499 controllers; computational complexity

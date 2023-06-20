@@ -1,0 +1,3 @@
+coherence.py中的相似性度量计算
+#sim += self.model.similarity(term_i, term_j) #gensim 4.0.0之前版本
+sim += self.model.wv.similarity(term_i, term_j)

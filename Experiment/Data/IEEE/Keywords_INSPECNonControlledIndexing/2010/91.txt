@@ -1,0 +1,1 @@
+data-driven service composition; enterprise SOA solutions; Petri net approach; service oriented architecture; business domain data; data mediations; service net

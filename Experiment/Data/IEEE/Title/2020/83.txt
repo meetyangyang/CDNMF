@@ -1,0 +1,1 @@
+Real-Time Acceleration-Continuous Path-Constrained Trajectory Planning With Built-In Tradeoff Between Cruise and Time-Optimal Motions

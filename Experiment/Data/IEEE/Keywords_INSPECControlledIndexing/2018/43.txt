@@ -1,0 +1,1 @@
+convolution; feedforward neural nets; image coding; image colour analysis; image motion analysis; learning (artificial intelligence); regression analysis

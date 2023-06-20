@@ -1,0 +1,1 @@
+encoder-decoder architecture; input raw RGB-D imaging; high-fidelity RGB-D imaging; deep learning; consumer-level RGB-D cameras; deep-learning-based approaches; adaptive convolution operators; deep neural network; super-resolution module; refinement module; completion module

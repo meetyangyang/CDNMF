@@ -1,0 +1,1 @@
+adaptive control; directed graphs; distributed control; function approximation; Lyapunov methods; multi-agent systems; multi-robot systems; neurocontrollers; nonlinear control systems; uncertain systems

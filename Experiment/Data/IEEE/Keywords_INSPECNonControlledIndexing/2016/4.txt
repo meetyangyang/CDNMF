@@ -1,0 +1,1 @@
+learning-based framework; velocity control; autonomous driving; human demonstrations; longitudinal control; autonomous car; car-following strategies; example driving sequences; reference acceleration; predictive controller; safety constraints; predicted motion; driver model predictions; human driver; autonomous vehicle

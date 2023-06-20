@@ -1,0 +1,1 @@
+Heuristic algorithm; item assignment problem; robotic mobile fulfillment system (RMFS); stock location problem; warehouse automation system

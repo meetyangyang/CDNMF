@@ -1,0 +1,1 @@
+SPC; Kalman filter-based method; system-level fault detection; HVAC systems; building energy doctors; heating ventilation and air conditioning systems; robust system-level fault detection; statistical process control; gray-box models; SPC control limits; sudden faults detection; gradual degradation detection

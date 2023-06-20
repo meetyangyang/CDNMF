@@ -1,0 +1,1 @@
+Deep residual network (ResNet); feature pyramids; PLPNet; polyp recognition; two-stage framework

@@ -1,0 +1,1 @@
+semisupervised process data; query data samples; probabilistic locally weighted prediction method; supervised latent factor analysis; SLFA; process variable noise variance; industrial processes; quality variable sampling rates; semisupervised locally weighted LFA methods; parameter learning; soft sensors; expectation maximization algorithms

@@ -1,0 +1,1 @@
+operation process rebuilding; OPR-oriented maintenance policy; changeable system structures; dynamic interactive bilevel maintenance methodology; predictive maintenance; dynamic scheduling; system-level opportunistic maintenance; Shanghai Port; port transportation system; PdM optimizations

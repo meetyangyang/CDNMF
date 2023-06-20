@@ -1,0 +1,1 @@
+B-spline multiplication; symbolic computation; B-spline blossoming; mathematical equation; sliding windows algorithm; blossoming based algorithm; B-spline curves; B-spline surface

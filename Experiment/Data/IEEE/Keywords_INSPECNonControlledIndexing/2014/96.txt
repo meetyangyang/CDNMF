@@ -1,0 +1,1 @@
+degree of redundancy; linear systems; implicit set covering problem; SCP formulation; sensor network quality; linear matroid cogirth problem; matroid cocircuit; branch-and-cut algorithm

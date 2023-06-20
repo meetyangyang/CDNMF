@@ -1,0 +1,1 @@
+EB-RRT; human-robot coexisting environment; mobile service robot; elastic band-based; random tree algorithm; real-time optimal motion planning; dynamic environment; homotopy optimal trajectory; current heuristic trajectory; EB method; time-based RRT algorithm; feasible heuristic trajectory; time-based nodes; final trajectory

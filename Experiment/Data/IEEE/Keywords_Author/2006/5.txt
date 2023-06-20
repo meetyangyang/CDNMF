@@ -1,0 +1,1 @@
+Cycle-based waveform signals; Haar transformation; multivariate control charts; wavelet analysis

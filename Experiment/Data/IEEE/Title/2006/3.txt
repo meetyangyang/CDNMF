@@ -1,0 +1,1 @@
+Modeling, analysis, synthesis, and performance evaluation of multioperational production systems with hybrid timed Petri nets

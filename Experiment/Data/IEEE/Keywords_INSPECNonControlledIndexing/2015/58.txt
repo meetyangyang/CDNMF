@@ -1,0 +1,1 @@
+human-in-the-loop coordination; multirobot system; task abstraction; multiple mobile robot system; control framework; networked autonomous robots; task-space control; multirobot coverage control; formation control; cooperative transportation

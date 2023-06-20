@@ -1,0 +1,1 @@
+supervisory control; state-vector transition models; SVT model; flexible synchronous composition; shared variables; shared events; supervisor synthesis procedure; controllable nonblocking maximally permissive supervisor; automata; colored Petri nets; discrete event model classes; binary decision diagrams; industrial control systems

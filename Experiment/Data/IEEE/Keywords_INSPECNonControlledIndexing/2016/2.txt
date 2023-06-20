@@ -1,0 +1,1 @@
+automatic compliance; human skill-rule-based behavior; human rule-based behavior; human-automation interaction; human reasoning; aircraft traffic alert and collision avoidance system advisories; vertical maneuvers; TCAS advisories; human-in-the-loop flight simulator; automatic advisory execution; autopilot subsequent reversionary mode; air traffic clearances; traffic events

@@ -1,0 +1,1 @@
+Dexterous manipulation; image processing; robot hand; shape measurement; tactile sensors

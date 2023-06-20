@@ -1,0 +1,1 @@
+Coverage of a Planar Point Set With Multiple Robots Subject to Geometric Constraints

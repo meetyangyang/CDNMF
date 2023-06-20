@@ -1,0 +1,1 @@
+Hard turning; hidden Markov model (HMM); least squares support vector machine (LSSVM); surface roughness prediction

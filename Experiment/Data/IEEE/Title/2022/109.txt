@@ -1,0 +1,1 @@
+Diagnosability of Event Patterns in Safe Labeled Time Petri Nets: A Model-Checking Approach

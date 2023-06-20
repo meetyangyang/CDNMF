@@ -1,0 +1,1 @@
+optimal policy; stochastic scheduling; preemptive-repeat machine breakdown; probability distribution; Laplace transform; integral transform; min-max criterion; Gittins index; general optimality equation

@@ -1,0 +1,1 @@
+Estimation of CoM and CoP Trajectories During Human Walking Based on a Wearable Visual Odometry Device

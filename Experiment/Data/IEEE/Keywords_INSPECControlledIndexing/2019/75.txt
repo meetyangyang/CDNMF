@@ -1,0 +1,1 @@
+backpropagation; chemioception; least squares approximations; mobile robots; principal component analysis; radial basis function networks

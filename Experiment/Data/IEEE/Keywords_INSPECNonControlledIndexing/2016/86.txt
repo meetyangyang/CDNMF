@@ -1,0 +1,1 @@
+internal operations scheduling; post-distribution cross docking system; PDCDS; sorting product; makespan minimization; NP-hardness; mixed integer linear programming model; MILP model; heuristic algorithm; mathematical programming formulation; symmetry breaking constraint; objective function perturbation; cloth retail store Italian company

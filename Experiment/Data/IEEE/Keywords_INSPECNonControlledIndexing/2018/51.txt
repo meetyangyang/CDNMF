@@ -1,0 +1,1 @@
+quasistatic equilibrium; joint torques; contact forces; external disturbance; external torques; passive reaction analysis; grasp stability; multifingered robotic grasping; external wrench; hand joints; geared motors; object grasping; nonlinear phenomena; mixed-integer program; iterative solver; actuation mechanisms

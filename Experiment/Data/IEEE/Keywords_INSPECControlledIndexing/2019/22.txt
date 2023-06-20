@@ -1,0 +1,1 @@
+control system synthesis; industrial control; industrial manipulators; manipulator dynamics; micromanipulators; neurocontrollers; observers; position control; robot vision; robust control; variable structure systems

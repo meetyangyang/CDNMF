@@ -1,0 +1,1 @@
+A Minimum-Jerk Speed-Planning Algorithm for Coordinated Planning and Control of Automated Assembly Manufacturing

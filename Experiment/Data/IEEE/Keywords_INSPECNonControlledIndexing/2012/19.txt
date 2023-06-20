@@ -1,0 +1,1 @@
+schedulability analysis; optimal scheduling; dual arm cluster tools; wafer residency time constraint; activity time variation; semiconductor manufacturing; realtime scheduling; Petri net model; control policy; closed form schedulability conditions; offline periodic scheduling

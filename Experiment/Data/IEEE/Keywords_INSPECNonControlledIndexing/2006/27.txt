@@ -1,0 +1,1 @@
+minimum deflection fixture arrangements; frame invariant norms; fixture planning method; external loads; fixturing method; frame-invariant rigid body velocity; wrench norms; polygonal objects; machining forces; assembly forces; generic quasirigid contact model; grasp quality measure

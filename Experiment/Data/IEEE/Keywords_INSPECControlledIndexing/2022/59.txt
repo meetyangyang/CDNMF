@@ -1,0 +1,1 @@
+cameras; feature extraction; image colour analysis; image matching; image reconstruction; least squares approximations; mobile robots; motion estimation; path planning; probability; robot vision; SLAM (robots); stereo image processing

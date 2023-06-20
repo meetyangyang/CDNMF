@@ -1,0 +1,1 @@
+two-machine robotic cells; multifunction robotic cell scheduling problem; output hopper; stop resume operation; cycle time; one-unit cycles; optimality conditions; free pickup criteria; interval pickup criteria; no-wait pickup criteria; material handling robots; cyclic production; input hopper

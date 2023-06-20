@@ -1,0 +1,1 @@
+depth sensor; motion planning strategy; ground-level structures; mobile ground robot; motion planning algorithms; point cloud; perception layer; vision sensor; 3D model; active vision-based mapping; 3D structure; successive viewpoints; absolute positioning system; robot mapping; robot localization

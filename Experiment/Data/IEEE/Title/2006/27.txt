@@ -1,0 +1,1 @@
+Constructing minimum deflection fixture arrangements using frame invariant norms

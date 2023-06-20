@@ -1,0 +1,1 @@
+wearable ego-motion tracking; wearable blind navigation; indoor environment; visual-inertial sensors; visual estimation; gyroscope; movement trajectory; inertial measurements; motion transformation; image capture; translational acceleration; angular velocity; multirate extended Kalman filter; EKF

@@ -1,0 +1,1 @@
+parallel robot dynamic limits; autonomous control; closed kinematic chains; dynamic properties; stiffness; automated production processes; cycle times; path-tracking accuracy; varying payload; adaptive control; adaptive time-optimal trajectory planning; online-trajectory adaption mechanism

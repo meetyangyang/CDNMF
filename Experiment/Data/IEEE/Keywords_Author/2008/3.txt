@@ -1,0 +1,1 @@
+Home automation; independent component analysis (ICA); mel-frequency cepstral coefficients (MFCCs); signal enhancement; sound recognition; support vector machines (SVMs); wavelet transform

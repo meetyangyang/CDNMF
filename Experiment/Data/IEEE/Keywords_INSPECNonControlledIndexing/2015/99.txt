@@ -1,0 +1,1 @@
+self-diagnosis technique; virtual private networks; Bayesian networks; case-based reasoning; fault diagnosis; e-TOM assurance process; enhanced telecom operations map; network maintenance cost reduction; network service availability; network service reliability; network service performance; network dynamicity

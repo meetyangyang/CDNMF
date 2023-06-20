@@ -1,0 +1,1 @@
+discrete-event systems; labeled Petri nets; silent transitions; fault events; regular unobservable events; fault occurrence; finite observation; diagnosability approach; finite state automata; necessary conditions; sufficient conditions; diagnosability test; graphs analysis

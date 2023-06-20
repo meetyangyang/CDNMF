@@ -1,0 +1,1 @@
+robotic explosive charging; mining applications; construction applications; blast holes charging; blast holes detection; teleoperated arm pose control; automatic arm pose control; human-in-the-loop visual servoing; laser range finders; cameras; image processing techniques; heavy-duty mining manipulators; friction; stiction; actuator saturation

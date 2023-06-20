@@ -1,0 +1,1 @@
+hybrid dynamical approach; dry bulk terminal; finite storage capacity; material storage allocation; continuous time dynamics; mixed logical dynamical model; MLD model; model predictive controller; discrete-event dynamics; stockyard space; economic profit; rolling horizon manner; Monte Carlo simulations; slots volume

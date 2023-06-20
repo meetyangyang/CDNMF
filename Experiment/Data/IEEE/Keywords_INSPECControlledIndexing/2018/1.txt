@@ -1,0 +1,1 @@
+automata theory; control system analysis computing; control system synthesis; discrete event systems; finite automata; learning (artificial intelligence); software architecture; software reusability

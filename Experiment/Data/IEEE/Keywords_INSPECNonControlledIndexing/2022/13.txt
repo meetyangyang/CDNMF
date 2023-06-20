@@ -1,0 +1,1 @@
+mobile manipulators; transportation task; bidirectional sampling-based scheme; manipulator trajectories; mobile base trajectory; manipulator motion time; span time; computation time; RRT-based baseline methods; mobile platforms; manipulator motion planning; part pickup; transport operations; moving base

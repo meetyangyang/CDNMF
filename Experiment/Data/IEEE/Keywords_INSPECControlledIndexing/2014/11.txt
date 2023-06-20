@@ -1,0 +1,1 @@
+biomimetics; continuous systems; discrete systems; mobile robots; motion control; optimal control; optimisation; robot dynamics

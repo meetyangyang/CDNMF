@@ -1,0 +1,1 @@
+Distributed computing; networked robots; robotic clusters; simultaneous localization and mapping; task sharing in multirobot systems

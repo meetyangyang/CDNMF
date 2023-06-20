@@ -1,0 +1,1 @@
+free space computation algorithm; line segments; circular arcs; O(((mn)2+k)log(mn)) computational complexity; boundary curves; mild input restrictions; robust free space computation; curved planar bodies; robot path planning

@@ -1,0 +1,1 @@
+Deadlock prevention; first-met bad marking (FBM); flexible manufacturing system (FMS); maximal permissiveness; Petri net; supervisory control

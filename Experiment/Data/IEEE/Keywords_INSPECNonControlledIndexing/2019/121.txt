@@ -1,0 +1,1 @@
+heading reference-assisted pose estimation; ground vehicles; estimation error; estimation framework; reference sensors; visual odometry; pose estimation; size 4.5 km; size 24.29 m to 153.85 m; size 23.8 m; frequency 19.7 Hz; frequency 11.1 Hz

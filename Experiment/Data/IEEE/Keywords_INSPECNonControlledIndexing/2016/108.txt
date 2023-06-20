@@ -1,0 +1,1 @@
+dynamic machining feature; adaptive machining; manufacturing automation; manufacturing lifecycle; static feature model; manufacturing resources; complex part feature construction; MMF; machine tool; cutter; cutting parameter; basic machining feature function block; meta machining feature extraction function block; feature interpreter function block; event-driven model

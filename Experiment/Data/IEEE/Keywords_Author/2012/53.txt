@@ -1,0 +1,1 @@
+Flow shops; genetic algorithm; makespan; sequence-dependent setup time; weighted tardiness

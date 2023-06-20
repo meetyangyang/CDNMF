@@ -1,0 +1,1 @@
+asymptotic stability; closed loop systems; control system synthesis; optimal control; optimisation; predictive control; simulation

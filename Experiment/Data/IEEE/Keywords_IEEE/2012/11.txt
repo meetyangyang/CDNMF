@@ -1,0 +1,1 @@
+Job shop scheduling; Convergence; Schedules; Iterative methods; Availability; Programming

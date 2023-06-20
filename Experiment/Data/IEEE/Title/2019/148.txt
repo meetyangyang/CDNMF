@@ -1,0 +1,1 @@
+A Generic Health Index Approach for Multisensor Degradation Modeling and Sensor Selection

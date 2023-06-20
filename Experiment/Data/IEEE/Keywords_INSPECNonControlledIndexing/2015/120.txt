@@ -1,0 +1,1 @@
+adaptive video transmission control system; reinforcement learning approach; heterogeneous networks; video encoding; video quality; video coding rate; encoded video compression

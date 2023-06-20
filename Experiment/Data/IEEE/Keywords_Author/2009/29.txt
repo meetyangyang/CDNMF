@@ -1,0 +1,1 @@
+CNC; component; fieldbus; interoperability; open architecture

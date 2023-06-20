@@ -1,0 +1,1 @@
+Control system test-bench; ball mill grinding process; dynamic simulation; grinding process modeling; hardware-in-the-loop simulation; hybrid intelligent modeling; integrated control; optimal setting control; simulation model verification

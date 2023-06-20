@@ -1,0 +1,1 @@
+A Multiobjective Hybrid Genetic Algorithm for TFT-LCD Module Assembly Scheduling

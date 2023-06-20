@@ -1,0 +1,1 @@
+Clinical deterioration; continuous time Markov chain; patient safety; shared resource iteration (SRI); ward patient rescue (WPR)

@@ -1,0 +1,1 @@
+Active vision; extremum seeking control (ESC); object recognition; grasping; manipulation

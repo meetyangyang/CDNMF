@@ -1,0 +1,1 @@
+Contouring control; method of equivalent errors; multi-axis motion systems; non-uniform rational B-spline (NURBS)

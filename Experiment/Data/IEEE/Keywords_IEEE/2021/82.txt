@@ -1,0 +1,1 @@
+Circuit faults; Degradation; Prognostics and health management; Fault diagnosis; Monitoring

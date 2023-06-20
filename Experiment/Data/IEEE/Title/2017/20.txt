@@ -1,0 +1,1 @@
+Precision Motion Control of Piezoelectric Nanopositioning Stage With Chattering-Free Adaptive Sliding Mode Control

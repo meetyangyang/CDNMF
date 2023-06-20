@@ -1,0 +1,1 @@
+end effectors; industrial manipulators; manipulator dynamics; manipulator kinematics; path planning; stability; trajectory control; velocity control

@@ -1,0 +1,1 @@
+robotic crack inspection; mapping system; bridge deck maintenance; bridge deck crack inspection; camera-equipped mobile robot; Laplacian of Gaussian; LoG algorithm; crack detection; global crack map; camera calibration; robot localization; path planning algorithm; genetic algorithm

@@ -1,0 +1,1 @@
+identifiability; end effector; noncollinear points; initial frame twist error; zero-offset error; product of exponentials; position measurements; robotic kinematic calibration; minimal POE-based model

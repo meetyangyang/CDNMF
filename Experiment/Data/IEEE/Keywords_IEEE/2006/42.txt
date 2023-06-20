@@ -1,0 +1,1 @@
+Sufficient conditions; System testing; Resource management; Equations; Automatic testing; Petri nets; System recovery; Energy management; Power system management; Reachability analysis

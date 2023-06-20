@@ -1,0 +1,1 @@
+Bayes methods; fabrics; feature extraction; flaw detection; Gaussian distribution; image classification; image texture; inspection; learning (artificial intelligence); production engineering computing; transforms; wavelet transforms

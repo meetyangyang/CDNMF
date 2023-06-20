@@ -1,0 +1,1 @@
+learning-based testing; plant model; reused software component; logical model; black-box system; finite automaton model; discrete-event systems; supervisory control theory; requirements conformance; user requirements; software component reuse; black-box reactive systems; control synthesis; SCT; LBT; reused component; integrated system

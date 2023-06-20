@@ -1,0 +1,1 @@
+supervisor optimization; automated manufacturing systems; Petri nets; deadlock resolution; supervisor synthesis process; cost control; cost effective supervisor; mathematical programming; system cycle time utilization

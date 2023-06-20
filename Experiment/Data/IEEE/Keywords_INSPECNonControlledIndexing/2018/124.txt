@@ -1,0 +1,1 @@
+gateway layer; service layer; open layer; home wireless networks access unit; node layer; interference-aware wireless network; packet loss probability; ZigBee wireless network channel occupancy; home monitoring; home Internet-of-Things system; ZigBee multihop communications; Wi-Fi; Bluetooth; event-level-based transmission control strategy

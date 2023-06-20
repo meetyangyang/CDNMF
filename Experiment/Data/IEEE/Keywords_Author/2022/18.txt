@@ -1,0 +1,1 @@
+Batch production process; iterated greedy algorithm (IGA); Petri net (PN); variable neighborhood descent (VND)

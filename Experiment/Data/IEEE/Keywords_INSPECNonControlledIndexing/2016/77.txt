@@ -1,0 +1,1 @@
+state-space structure; predictive control design; P control design; liquid level control; industrial coke fractionation tower; nonlinear dynamics; step-response test; closed-loop control system; servo control; disturbance rejection; measurement noise; petrochemical product

@@ -1,0 +1,1 @@
+time-optimal path planning; power schedules; solar-powered ground robot; integrated path planning; power management problem; solar-powered unmanned ground vehicle; scalar field; solar radiation density; particle swarm optimization method

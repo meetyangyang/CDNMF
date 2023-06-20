@@ -1,0 +1,1 @@
+M-ary RFID tag splitting; small idle slots; radio frequency identifications; binary splitting protocol; BS protocol; optimal splitting; OS-ATB protocol; tree-based schemes

@@ -1,0 +1,1 @@
+Trajectory Planning With Shortest Path for Modified Uncalibrated Visual Servoing Based on Projective Homography

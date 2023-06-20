@@ -1,0 +1,1 @@
+automatic optical inspection; computer vision; gradient methods; image segmentation; liquid crystal displays; quality control

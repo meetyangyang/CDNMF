@@ -1,0 +1,1 @@
+hospitals; Markov processes; medical information systems; optimisation; patient care; resource allocation

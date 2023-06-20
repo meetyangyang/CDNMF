@@ -1,0 +1,1 @@
+Dynamic Resource Allocation in a Hierarchical Appointment System: Optimal Structure and Heuristics

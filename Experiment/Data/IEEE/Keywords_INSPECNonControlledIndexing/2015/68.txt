@@ -1,0 +1,1 @@
+activity recognition; behavioral deviation detection; binary sensor; medically monitored patient; smart home; sequence mining method; pattern mirroring activity; finite automaton

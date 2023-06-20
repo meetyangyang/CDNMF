@@ -1,0 +1,1 @@
+optimal grasp synthesis; fixture planning; coordinated manipulation; multifingered robotic hands; manufacturing automation; optimal grasp planning problem; grasp quality functions; optimization problems; gradient flows; object-workpiece contact points; force closure grasps; spherical object manipulation; contact points servoing; minimax techniques

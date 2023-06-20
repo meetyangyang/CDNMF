@@ -1,0 +1,1 @@
+steady-state control reference; token conservation law; continuous Petri Net system; infinite server semantics; optimal control; polynomial time; linear dynamic system; controllability aspect; piecewise linear system; discrete event system

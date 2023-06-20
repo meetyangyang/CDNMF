@@ -1,0 +1,1 @@
+Covert video surveillance; dynamic programming (DP); trajectory planning; unmanned aerial vehicles (UAVs)

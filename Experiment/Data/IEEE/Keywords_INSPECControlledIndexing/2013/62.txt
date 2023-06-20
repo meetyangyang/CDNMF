@@ -1,0 +1,1 @@
+end effectors; manipulator kinematics; motion control; PD control; position control; redundancy

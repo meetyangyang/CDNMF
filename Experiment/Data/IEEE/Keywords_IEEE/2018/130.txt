@@ -1,0 +1,1 @@
+Planning; Algorithm design and analysis; Optimization; Robotic assembly; Genetic algorithms; Knowledge based systems; Grippers

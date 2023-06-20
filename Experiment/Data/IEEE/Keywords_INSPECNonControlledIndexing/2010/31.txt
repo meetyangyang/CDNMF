@@ -1,0 +1,1 @@
+coordinate sensor systems reliability; sensor precision degradations; manufacturing process fault diagnosis; system working condition; engineering knowledge; least squares fault diagnosis algorithm; sensor failure mode; series-weighted- k-out-of-n systems; exponential computational time; weight interval method; automotive body assembly process

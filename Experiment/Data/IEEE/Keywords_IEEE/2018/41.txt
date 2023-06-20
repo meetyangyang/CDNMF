@@ -1,0 +1,1 @@
+Damping; Force; Vibrations; Feeds; Stability analysis; Thermal stability; Mathematical model

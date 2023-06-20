@@ -1,0 +1,1 @@
+service reputation calculation; optimal service selection; credible service selection; decision support; two-phase method; dynamic weight formula; olfactory response formula; unfair rating negative effect mitigation; electronic commerce; Web service

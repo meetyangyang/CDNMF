@@ -1,0 +1,1 @@
+In this paper;  we present an analytical method to evaluate the quality performance of flexible manufacturing systems with batch operations. By using a Markov chain model;  a closed formula to quantify the probability of producing a good part is derived and nonmonotonic properties in quality are investigated. 

@@ -1,0 +1,1 @@
+Articulated vehicle; autonomous guided vehicle (AGV); B-spline curve; derivative of curvature; mining industry; motion-planning; nonlinear optimization; obstacle-avoidance; path-planning; safety margin; smoothness; travel time

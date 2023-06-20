@@ -1,0 +1,1 @@
+hybrid process simulation; manufacturing system implementation phase ontology; hardware-in-the-loop testing approach; HIL testing approach; embedded system; closed-loop; simulation model; real component testing; controller testing; HPS test setup; real process simulation replacement; conceptual architecture; spatial essence

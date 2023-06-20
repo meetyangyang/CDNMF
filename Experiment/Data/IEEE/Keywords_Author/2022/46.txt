@@ -1,0 +1,1 @@
+Exponentially weighted moving average (EWMA); mixed-product mode; run-to-run (RtR) control; semiconductor manufacturing

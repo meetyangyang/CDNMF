@@ -1,0 +1,1 @@
+weight-balanced timed event graphs; periodic phenomena; synchronization; manufacturing systems; weighted TEG; WTEG; weight-balanced TEG; WB-TEG; CW-TEG; cycloweighted TEG; input-output transfer relation; idempotent semiring; modeling step; modeling issues; linear systems; nonunitary weights; integer weights; linear discrete event systems; delay phenomena

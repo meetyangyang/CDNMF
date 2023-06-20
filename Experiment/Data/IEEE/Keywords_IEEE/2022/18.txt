@@ -1,0 +1,1 @@
+Job shop scheduling; Task analysis; Single machine scheduling; Petri nets; Greedy algorithms

@@ -1,0 +1,1 @@
+free form surfaces; global error bounds; stripification; developable approximation; B-splines; design primitives; optimization problems

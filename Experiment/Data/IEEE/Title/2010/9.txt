@@ -1,0 +1,1 @@
+Modeling the Relationship Between EDI Implementation and Firm Performance Improvement With Neural Networks

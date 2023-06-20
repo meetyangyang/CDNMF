@@ -1,0 +1,1 @@
+VRPTW; branching; scheduling problem; HHCRSP; heuristic distributed gossip algorithm; gossip-CG performs; column generation-based gossip algorithm; home healthcare routing; scheduling problems; HHC; caregivers; route generation; vehicle routing problem; approximate algorithms

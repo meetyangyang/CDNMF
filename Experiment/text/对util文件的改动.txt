@@ -1,0 +1,6 @@
+1. 停用词使用说明
+until.py文件中需要修改stopwords的地址
+def load_stopwords( inpath = "text/stopwords_yy20191112.txt" ): #20191112版本
+
+2. 文档docs排序说明
+def find_documents( root_path )中需要对文档进行排序，然后读取。为了方便找到原文档的最终的W，需要使得输入带分解矩阵X每行数据与原文档顺序对应。因此，从原先以路径英文排序方式改进为：先以文件名的数字大小对文件排序，然后依次保存路径。

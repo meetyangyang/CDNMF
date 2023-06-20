@@ -1,0 +1,1 @@
+cyber-physical system; remote virtual welding environment; human hand movement speed data; Baum-Welch algorithm; state occupancy probability distribution; human intention estimation algorithm; industrial robot; gas tungsten arc welding torch; human intention recognition algorithm; IR system; VR robot-assisted welding system; virtual reality robot-assisted welding

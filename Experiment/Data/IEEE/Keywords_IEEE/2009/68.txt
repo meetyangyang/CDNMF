@@ -1,0 +1,1 @@
+Fabrication; Servosystems; Micromanipulators; Two dimensional displays; Manipulator dynamics; Mathematical model; Kinematics; Finite element methods; Optimization methods; Particle swarm optimization

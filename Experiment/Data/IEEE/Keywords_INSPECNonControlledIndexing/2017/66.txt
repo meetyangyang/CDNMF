@@ -1,0 +1,1 @@
+functional graphical model; manufacturing process modeling; scalar variables; functional variables; statistical relationships; complex systems; special sparsity penalization approach; mean penalization; plasma spray manufacturing process

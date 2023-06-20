@@ -1,0 +1,1 @@
+optimal feedback control; pedestrian movement; flow characteristics; flow variables; continuous-time nonlinear control system; optimal feedback controller; flow densities; free-flow velocities; pedestrian flow control; arbitrary heterogeneous corridors

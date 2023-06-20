@@ -1,0 +1,1 @@
+Brownian motion (BM); expectation-maximization (EM); extended Kalman filter (EKF); nonlinearity; prognosis; remaining useful life (RUL)

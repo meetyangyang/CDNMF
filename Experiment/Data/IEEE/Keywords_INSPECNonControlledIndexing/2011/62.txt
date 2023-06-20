@@ -1,0 +1,1 @@
+metric view planning problem; point robot; omnidirectional range sensor; surface patch; visibility range; polynomial algorithm; approximation algorithm; metric traveling salesman problem; complexity

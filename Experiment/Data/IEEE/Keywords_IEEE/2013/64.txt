@@ -1,0 +1,1 @@
+Principal component analysis; Loading; Fault diagnosis; Monitoring; Vectors; Strips; Annealing

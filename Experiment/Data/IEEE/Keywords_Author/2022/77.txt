@@ -1,0 +1,1 @@
+Center of pressure (CoP) excursion; gait parameters estimation; human walking; inverted pendulum model; visual odometry (VO)

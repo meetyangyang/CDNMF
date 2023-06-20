@@ -1,0 +1,1 @@
+model predictive control; real-time point-to-point trajectory generation; industrial robot; desired pickup position; velocity; arrival time; motion-generation problems; vibrations reduction; sensor inputs; numerical optimization; energy efficiency; conveyor belt

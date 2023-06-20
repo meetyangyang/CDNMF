@@ -1,0 +1,1 @@
+causal relationship detection; residual analysis; time series data; Granger causality; autoregressive model; model validation test

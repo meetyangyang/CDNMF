@@ -1,0 +1,1 @@
+optimized control action; computation time; original intractable binary quadratic programming problem; binary linear programming problem; control performance; DFIG wind turbines; time efficient finite-control-set model predictive control; doubly fed induction generator system; FCS-MPC approaches

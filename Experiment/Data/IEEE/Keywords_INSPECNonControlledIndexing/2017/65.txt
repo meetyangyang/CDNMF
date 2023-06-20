@@ -1,0 +1,1 @@
+fault diagnosis and prognosis; fault growth speed; ALS-FDP; adaptive LS-FDP; adaptive Lebesgue length; improved LS-FDP method; fault state; FDP algorithm; nonlinear fault dynamics; FDP philosophy; fault dimension axis; periodic time intervals; Riemann sampling framework; real-time Li-Ion battery diagnosis; low-cost adaptive Lebesgue sampling particle filtering approach; Li

@@ -1,0 +1,1 @@
+condition monitoring; fault diagnosis; HVAC; mechanical engineering computing; neural nets; pattern classification; supervised learning

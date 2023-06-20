@@ -1,0 +1,1 @@
+multi-agent systems; nonlinear programming; parallel algorithms; particle swarm optimisation

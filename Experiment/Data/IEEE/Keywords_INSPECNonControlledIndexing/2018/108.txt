@@ -1,0 +1,1 @@
+automated partitioning; concurrent discrete-event systems; distributed behavioral identification; internal state evolutions; monolithic models; functional partition; observed inputs-outputs events; fitting reverse-engineering; optimization problem; agglomerative clustering

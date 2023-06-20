@@ -1,0 +1,1 @@
+high performing memetic algorithm; blocking flowshop scheduling problem; constructive heuristic; profile fitting approach; PF approach; Nawaz-Enscore-Ham; NEH heuristic; MA; heuristic based initialization; path relinking based crossover operator; referenced local search; iterated greedy algorithm; Taillard flowshop benchmarks

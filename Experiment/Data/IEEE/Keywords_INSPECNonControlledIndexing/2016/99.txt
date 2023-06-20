@@ -1,0 +1,1 @@
+quantile-based simulation optimization; inequality constraints; SNM structure; quantile-based objective functions; search strategy; penalty function approaches; global convergence guarantee; SNM-QC performance; staffing level; emergency room; hospital; out-of-hospital system; emergency requests; budget constraints

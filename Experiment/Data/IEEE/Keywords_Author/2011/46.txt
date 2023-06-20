@@ -1,0 +1,1 @@
+Computational geometry; curved planar part; force-closure grasp; output-sensitive algorithms

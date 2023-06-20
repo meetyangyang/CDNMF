@@ -1,0 +1,1 @@
+coils; electromagnetic coupling; finite element analysis; interference (signal); micromanipulators; nanopositioning; piezoelectric actuators; servomechanisms

@@ -1,0 +1,1 @@
+branch tree; deadlock-prone flexible manufacturing systems; scheduling; place-timed Petri nets; net model; deadlock controller; AB&B; anytime branch and bound algorithm; system makespan minimization; search speed; pruning rules; branching strategy; search efficiency

@@ -1,0 +1,1 @@
+scale stretch method; iterative closest point; 3D data registration; optimization problem; isotropic stretch

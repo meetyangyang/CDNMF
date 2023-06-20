@@ -1,0 +1,1 @@
+workpiece fixturing models; precision manufacturing; unified distance function framework; sensitivity equations; locator source errors; workpiece localization error; two-sided quadratic model; linear models; fault diagnosis; tolerance analysis

@@ -1,0 +1,1 @@
+actuators; dexterous manipulators; gears; integer programming; iterative methods; stability; torque

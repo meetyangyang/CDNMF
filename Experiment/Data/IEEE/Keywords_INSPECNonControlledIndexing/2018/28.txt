@@ -1,0 +1,1 @@
+stable effort grasps; minimal effort grasps; seven DOF robot arm; compliant underactuated robot hands; adaptive hands; post-contact parasitic object motions; robot arm trajectories; in-hand object motion compensation; constrain optimization methods; complex flexure-based compliant members

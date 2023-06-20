@@ -1,0 +1,1 @@
+Manipulators; Kinematics; Genetic algorithms; Quadratic programming; Indexes

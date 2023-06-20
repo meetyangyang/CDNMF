@@ -1,0 +1,1 @@
+multitextural radiographic images; local regularity analysis; tire defect detection; defect edge measurement model; frame defect edge detection; background textures; wavelet multiscale analysis; industrial images; automatic defect detection

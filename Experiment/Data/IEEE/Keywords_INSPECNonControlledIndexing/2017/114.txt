@@ -1,0 +1,1 @@
+EMG signal classification; BFA-optimized GSVCM; fatigue status diagnosis; bacterial foraging algorithm; Gaussian support vector classifier machine; fatigue classification accuracy; electromyography; optimization mechanism; kernel parameter; GSVCM training procedure; ensemble empirical mode decomposition; EEMD; Hilbert transform; fast Fourier transform; fatigue status recognition

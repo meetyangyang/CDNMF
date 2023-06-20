@@ -1,0 +1,1 @@
+decentralised control; Kalman filters; mobile robots; multi-robot systems; optimal control; position control; target tracking

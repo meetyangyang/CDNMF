@@ -1,0 +1,1 @@
+genetic algorithms application; multidepot vehicle routing problem; multiple products; multiple customers; total traveling time; window constraint; stochastic search technique; fuzzy logic guided genetic algorithms; FLGA; benchmark problems; branch and bound; simulated annealing; tabu search

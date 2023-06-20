@@ -1,0 +1,1 @@
+robust deadlock avoidance; sequential resource allocation systems; supervisory control problem; control capability; switched discrete event systems; s-DES; RAS deadlock avoidance problem; operational modes; localized predicates; SC theory; resource outages; maximally permissive SC policy; relevant distributed algorithm; real-time implementation

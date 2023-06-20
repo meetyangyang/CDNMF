@@ -1,0 +1,1 @@
+Convolution neural network (CNN); data augmentation; deep learning; defect image generation; generative adversarial network (GAN); surface defect classification

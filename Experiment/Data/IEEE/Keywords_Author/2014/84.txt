@@ -1,0 +1,1 @@
+Kinematics; minimum acceleration norm; minimum kinetic energy; quadratic programming; redundant robots

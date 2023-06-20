@@ -1,0 +1,1 @@
+collision avoidance; arbitrary topological classification; curvature-bounded shortening; curvature-bounded lengthening; target length; path homotopies; length-targeted path planning problem; shortest path planning; restricted vehicle path planning

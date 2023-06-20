@@ -1,0 +1,1 @@
+Heuristic algorithm; hybrid clouds; profit maximization; service delay; task scheduling

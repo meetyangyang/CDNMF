@@ -1,0 +1,1 @@
+kernel-Neighbor Density-change outlier factor; average ADF; average density fluctuation; ADS; ascending distance series; kernel neighbor density; KNDCOF; kernel-neighbor-density-change outlier factor; data-defect inspection method; data mining; data quality

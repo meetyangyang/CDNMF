@@ -1,0 +1,1 @@
+dual constrained single machine sequencing problem; total weighted completion time minimization; branch-and-bound algorithm; dynamic programming dominance technique; generalized isotonic regression problem; timetabling routine; earliness-tardiness scheduling

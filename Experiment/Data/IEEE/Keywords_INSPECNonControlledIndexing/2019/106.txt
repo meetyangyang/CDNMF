@@ -1,0 +1,1 @@
+unrelated parallel machine selection; job scheduling; machine fixed costs; subcontractors; total workload minimizing; NP-hardness problem; mathematical development; tabu search heuristic; n single-operation tasks-orders; diversification generation component; computational experiment; CPLEX software

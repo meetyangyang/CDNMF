@@ -1,0 +1,1 @@
+Distributed no-wait flow-shop scheduling problem (MDNWFSP); estimation of distribution algorithm (EDA); makespan; multiobjective; sequence-dependent setup time (SDST); total weight tardiness (TWT)

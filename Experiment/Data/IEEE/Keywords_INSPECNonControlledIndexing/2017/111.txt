@@ -1,0 +1,1 @@
+feeder assignment problems; FAP; component sequencing problems; CSP; printed circuit board assembly; particle swarm optimization; automated PCBA machines; PCBA planning; nature-inspired metaheuristics; chip shooter machine; PSO-based approach; sigmoid functions

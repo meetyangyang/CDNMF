@@ -1,0 +1,1 @@
+Robot kinematics; Acceleration; Manipulators; Redundancy; Minimization; Performance analysis; Quadratic programming

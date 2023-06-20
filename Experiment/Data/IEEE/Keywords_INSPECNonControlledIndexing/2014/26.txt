@@ -1,0 +1,1 @@
+surface-type classification; inconsistently illuminated surfaces; mobile inspection robot; directional light source; illumination variance; light source orientation; light source distance; color feature extraction; diffused reflectance values; reflectance model; multiclass support vector machine classifier; mock bridge maintenance environment; portable RGB-depth sensor package

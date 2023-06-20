@@ -1,0 +1,1 @@
+computational geometry; feature extraction; Global Positioning System; image sensors; mobile computing; mobile robots; multi-robot systems; path planning; pose estimation; robot vision; trajectory control; wireless sensor networks

@@ -1,0 +1,1 @@
+cameras; closed loop systems; control engineering computing; convolutional neural nets; end effectors; grippers; image motion analysis; industrial manipulators; learning (artificial intelligence); motion control; robot vision

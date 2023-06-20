@@ -1,0 +1,1 @@
+neural-network-based constrained optimal control scheme; discrete-time switched nonlinear system; iterative two-stage dual heuristic programming; DHP; optimal control problems; nonquadratic performance functional; control constraints; Hamilton-Jacobi-Bellman equation; HJB equation; saturating actuator; parametric structure; control law

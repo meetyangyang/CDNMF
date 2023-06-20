@@ -1,0 +1,1 @@
+actuators; elastic constants; elastic hysteresis; human-robot interaction; manipulators; nonlinear control systems; position control; rigidity; shock absorbers; stability; vibration control

@@ -1,0 +1,1 @@
+Hierarchical Segmentation of Piecewise Pseudoextruded Surfaces for Uniform Coverage

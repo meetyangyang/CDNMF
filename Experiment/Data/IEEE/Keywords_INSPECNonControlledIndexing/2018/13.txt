@@ -1,0 +1,1 @@
+switched linear models; switching sequences; input/output data; fault model; robotic assembly experiments; FDI algorithms; data sequence; linear model; feasible parameter set; bounded parameters; set-membership; fault detection; electrical connectors; isolation

@@ -1,0 +1,1 @@
+BNGMR; fully Bayesian model structure; predictive virtual sensor development; online estimating variables; multimode industrial processes render; high-accuracy virtual sensors; multimode processes; process data; primary variables; Bayesian nonlinear Gaussian mixture regression

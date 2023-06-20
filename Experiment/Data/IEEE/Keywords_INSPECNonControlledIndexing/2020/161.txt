@@ -1,0 +1,1 @@
+visual localization accuracy; dynamic environments; dynamic region removal; robust visual localization system building; feature-based visual simultaneous localization; mapping algorithm; dynamic region detection method; object detection process

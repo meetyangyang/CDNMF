@@ -1,0 +1,1 @@
+visual control; automatic manipulation system; microscope; pneumatic actuator; image capture; CCD camera; probe position; object position; image plane; visual fuzzy controller design; nonlinear pneumatic manipulator; position error; fish embryo puncturing

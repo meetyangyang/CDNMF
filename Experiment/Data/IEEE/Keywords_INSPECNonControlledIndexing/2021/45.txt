@@ -1,0 +1,1 @@
+robotic systems; standard learning methods; robotic system; state-of-the-art active learning methods; multiagent robotic systems; collaborative robots; ergodic measure; KL-ergodic exploration; informative measurements; informative spatial distributions; robot dynamics; hybrid systems theory; model learning; off-policy reinforcement learning; real-time online learning

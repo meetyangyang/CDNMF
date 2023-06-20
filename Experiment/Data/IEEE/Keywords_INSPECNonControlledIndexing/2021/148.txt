@@ -1,0 +1,1 @@
+improved formal verification; reconfigurable discrete-event systems; net condition event systems; timed net condition event system; reconfiguration scenario; reconfigurable CTL; model checking; benchmark production system; verification time; advanced reconfigurable systems; reconfigurable manufacturing

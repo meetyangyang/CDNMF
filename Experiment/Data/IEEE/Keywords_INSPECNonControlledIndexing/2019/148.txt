@@ -1,0 +1,1 @@
+generic health index approach; multisensor degradation modeling; sensor selection; sensor technology; latent linear model; data fusion method; health index; prognostic performance

@@ -1,0 +1,1 @@
+Contour tracking; shape reconstruction; surface fitting; total Gaussian curvature; touch sensing

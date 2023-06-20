@@ -1,0 +1,1 @@
+nonholonomic vehicles; time delayed communications; nonholonomic mobile robots; communication topology; formation control technique; consensus protocol; linear systems; stability analysis; cluster treatment of characteristic roots paradigm; spectral delay space approach; stability boundary; linear control law; feedback linearization; differential drive mobile robots

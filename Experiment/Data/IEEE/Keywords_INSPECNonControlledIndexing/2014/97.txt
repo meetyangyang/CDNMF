@@ -1,0 +1,1 @@
+extended interference matrices; assembly planning; visualization purpose; assembly plans verification; exploded view generation; relational matrix; EIM; assembly relations; application programming interface; API; assembly sequences; Unigraphics software; CAD software; gear reducer; computer aided design

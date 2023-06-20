@@ -1,0 +1,1 @@
+periodic resource reallocation; two-echelon repairable item inventory systems; stock allocation; replenishment cycle; mathematical model; design cost optimal periodic resupply policies

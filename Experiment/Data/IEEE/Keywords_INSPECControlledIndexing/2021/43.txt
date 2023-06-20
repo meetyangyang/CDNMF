@@ -1,0 +1,1 @@
+industrial manipulators; integer programming; linear programming; mobile robots; path planning

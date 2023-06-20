@@ -1,0 +1,1 @@
+sensor-based dual-arm telerobotic system; coordinated task-based control; dual-arm industrial robot; visual servoing; bimanual hybrid motion-force control; autonomous vision-based target alignment; two-handed grasping; robust object manipulation; Microsoft Kinect

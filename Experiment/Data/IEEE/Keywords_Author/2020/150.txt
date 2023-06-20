@@ -1,0 +1,1 @@
+Adversarial learning; deep neural network (DNN); domain adaptation; fault diagnosis

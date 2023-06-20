@@ -1,0 +1,1 @@
+impacted-region optimization; distributed model predictive control system; DMPC design; consistency constraint; stability constraint; cost function optimization; closed-loop system; asymptotic stability; simulation

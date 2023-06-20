@@ -1,0 +1,1 @@
+Generalized traveling salesman problem; optimal path planning; unmanned aerial vehicles; urban delivery

@@ -1,0 +1,1 @@
+robot assignment; movement coordination; conflict-free movement; optimal solution; heuristic approach; container loading; autonomous robots; coordinated planning; loading area; warehouse; robot movement; abstract time windows; ATW representation; mathematical programming; mixed-integer linear program; close-to-optimal solution

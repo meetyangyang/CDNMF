@@ -1,0 +1,1 @@
+optimization-based approach; design project scheduling; concurrent engineering; coupling design tasks; objective function; Lagrangian relaxation; dynamic programming; schedule design; communication tasks; surrogate optimization framework

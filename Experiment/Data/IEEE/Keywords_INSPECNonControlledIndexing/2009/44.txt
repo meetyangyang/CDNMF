@@ -1,0 +1,1 @@
+chain-based representations; physical modeling; solid modeling; block-bidiagonal matrix; Hasse matrix; topology-preserving mesh refinements; Euler operators; multilinear transformations; local mesh refinements

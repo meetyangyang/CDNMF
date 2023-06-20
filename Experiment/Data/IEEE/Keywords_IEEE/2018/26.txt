@@ -1,0 +1,1 @@
+Agriculture; Computer vision; Encoding; Visualization; Feature extraction; Image color analysis; Image coding

@@ -1,0 +1,1 @@
+Automated planning; human-centric; smart home; weighted constraint satisfaction problem (CSP)

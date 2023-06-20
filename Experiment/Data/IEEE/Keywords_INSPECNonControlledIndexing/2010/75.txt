@@ -1,0 +1,1 @@
+interval model control; consumable double electrode; gas metal arc welding process; weld distortion; wire feed speed; single input single output subsystems; first order interval models; prediction based interval model control algorithm; closed loop control experiments

@@ -1,0 +1,1 @@
+Accelerometers; classification algorithms; gesture recognition; home automation; principal component analysis; sparse Bayesian learning; support vector machines

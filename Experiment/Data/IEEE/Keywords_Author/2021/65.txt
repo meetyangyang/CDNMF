@@ -1,0 +1,1 @@
+Ego-motion estimation; EMoVI-simultaneous localization and mapping (SLAM); lower limb tracking; physiotherapy rehabilitation; SLAM; stereo visual-inertial SLAM; visual-inertial sensor fusion

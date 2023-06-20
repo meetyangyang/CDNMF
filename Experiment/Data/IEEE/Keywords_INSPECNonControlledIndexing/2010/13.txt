@@ -1,0 +1,1 @@
+process parameter optimisation; titania thin film; vacuum sputtering process; modeling methods; optimisation methods; Taguchi method; artificial neural network; genetic algorithm; water contact angle; TiO2

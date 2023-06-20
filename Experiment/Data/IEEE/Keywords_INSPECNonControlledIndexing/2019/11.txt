@@ -1,0 +1,1 @@
+two-stage robust optimization; ambulance relocation; mixed-integer recourse; constraint generation method; approximation strategy; RO formulations; EMS system; relocation operations; ambulance deployment; emergency medical service system; coverage levels; service coverages

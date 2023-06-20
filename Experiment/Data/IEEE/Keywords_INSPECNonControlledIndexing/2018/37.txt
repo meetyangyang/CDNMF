@@ -1,0 +1,1 @@
+homotopy continuation methods; HCMs; spherical path tracking algorithm; 32b microcontroller; robot operating system; open motion planning library; terrestrial robots; semiautonomous mobile robots; homotopy path planning method; autonomous mobile robots; navigation; sampling-based planners

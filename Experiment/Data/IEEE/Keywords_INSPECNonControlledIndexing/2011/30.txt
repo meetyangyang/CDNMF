@@ -1,0 +1,1 @@
+triangular meshes; fast intersection free offset surface generation; redundancy computation; intersection-free dual contouring algorithm; computer aided design; computer aided manufacturing; CAD; CAM; offset mesh surface; convex-concave analysis

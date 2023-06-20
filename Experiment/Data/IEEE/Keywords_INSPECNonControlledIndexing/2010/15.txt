@@ -1,0 +1,1 @@
+time windows based dynamic routing; multi AGV systems; supervisory control; automated guided vehicles; shortest path problem; vector form; predefined candidate paths; windows overlapping tests; industrial environment

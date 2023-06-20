@@ -1,0 +1,1 @@
+RHS; hardware device; hardware resources; hardware testing; optimal test strategy; optimal fault set; inter-circuits fault collapsing; generated test patterns; adaptive embedded systems; reconfigurable hardware system; TnTest

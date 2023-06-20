@@ -1,0 +1,1 @@
+Averaged alarm delay (AAD); change detection; false alarm rate (FAR); kernel PDFs; missed alarm rate (MAR); performance assessment; univariate alarm systems

@@ -1,0 +1,1 @@
+Fast Linear Quaternion Attitude Estimator Using Vector Observations

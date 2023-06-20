@@ -1,0 +1,1 @@
+low-dimensional robot learning; switching policy; primitive controllers; complex locomotion system; boundary condition; discretized state-action pair; machine learning; boundary-action pair learning; curse-of-dimensionality; hybrid control strategy; forward translational movement

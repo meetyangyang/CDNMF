@@ -1,0 +1,1 @@
+RFID tag anticollision; radiofrequency identification; slot number; read cycle; idle slots; collision slots; Q-ary splitting; time slots; reidentifying tags

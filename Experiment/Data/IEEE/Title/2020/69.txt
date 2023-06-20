@@ -1,0 +1,1 @@
+Planning Jerk-Optimized Trajectory With Discrete Time Constraints for Redundant Robots

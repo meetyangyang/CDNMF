@@ -1,0 +1,1 @@
+AdaBoost.RT; extreme learning machine (ELM); ensemble algorithm; ladle furnace; self-adaptive

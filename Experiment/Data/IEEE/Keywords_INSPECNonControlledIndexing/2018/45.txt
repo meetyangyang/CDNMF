@@ -1,0 +1,1 @@
+online trajectory planning; surgical tasks; robotic surgery; dynamic conditions; conditional distribution; task condition; spatial motion; contact force; force tracking controller; planned profile; bimanual tasks; force tracking control; task trajectory; force control schemes; automation force control

@@ -1,0 +1,1 @@
+Compound faults monitoring and diagnosis; discrete wavelet transform (DWT); generalized likelihood ratio test (GLRT); rolling bearing; statistical signal detection

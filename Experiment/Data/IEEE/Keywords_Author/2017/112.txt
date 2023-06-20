@@ -1,0 +1,1 @@
+Batch process monitoring; energy; fault detection and classification (FDC); translation-invariant wavelet decomposition

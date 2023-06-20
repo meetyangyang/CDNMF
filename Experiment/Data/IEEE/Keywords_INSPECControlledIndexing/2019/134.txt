@@ -1,0 +1,1 @@
+actuators; adaptive control; aircraft control; asymptotic stability; attitude control; control nonlinearities; control system synthesis; manipulators; mobile robots; position control; quadratic programming; space vehicles; uncertain systems; velocity control

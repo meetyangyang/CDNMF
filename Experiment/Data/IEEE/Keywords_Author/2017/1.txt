@@ -1,0 +1,1 @@
+Gaussian mixture model; predictive models; robot sensing systems; terrain mapping; unsupervised learning

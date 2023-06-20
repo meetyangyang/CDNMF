@@ -1,0 +1,1 @@
+Depth camera; depth comparison feature; fall from bed detection; human body detection; large margin nearest neighbor (LMNN); random forest

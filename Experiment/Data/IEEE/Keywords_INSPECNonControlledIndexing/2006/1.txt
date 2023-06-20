@@ -1,0 +1,1 @@
+picking operations; dual-head placement machine; assembly lines; column generation; constrained shortest-path subproblems; circuit-card assembly industry; process plan; graphical representations; feeder slots; placing operations; pick-place operation sequencing; integer programming

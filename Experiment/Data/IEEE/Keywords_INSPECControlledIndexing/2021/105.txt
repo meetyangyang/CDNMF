@@ -1,0 +1,1 @@
+adaptive control; closed loop systems; compensation; control system synthesis; cranes; nonlinear control systems; observers; robust control; stability; uncertain systems; variable structure systems

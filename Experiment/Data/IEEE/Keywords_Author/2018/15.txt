@@ -1,0 +1,1 @@
+Aerial robot; cooperative manipulation; dynamic movement primitives (DMPs); motion planning; rapidly exploring random trees (RRTs)

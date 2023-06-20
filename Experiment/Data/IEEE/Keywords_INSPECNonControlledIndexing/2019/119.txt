@@ -1,0 +1,1 @@
+secure virtual machine placement; modern datacenters; virtualization; inefficient maps; virtual machines; physical machines; holistic placement framework; security policies; placement strategies; model predictive control; optimal maps; quality-aware virtual machine placement; energy-efficient virtual machine placement; resource optimization techniques; cloud services

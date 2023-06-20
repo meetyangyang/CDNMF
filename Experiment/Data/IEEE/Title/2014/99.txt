@@ -1,0 +1,1 @@
+Parallel Machine Selection and Job Scheduling to Minimize Sum of Machine Holding Cost;  Total Machine Time Costs;  and Total Tardiness Costs

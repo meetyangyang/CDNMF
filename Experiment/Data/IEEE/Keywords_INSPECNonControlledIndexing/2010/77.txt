@@ -1,0 +1,1 @@
+local capacity H∞ control; production networks; autonomous work systems; time-varying delays; discrete time singular form; controller gain; work-in-progress; WIP; asymptotic stability; Lyapunov function; LMI toolbox Matlab

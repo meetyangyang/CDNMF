@@ -1,0 +1,1 @@
+E2E-DDR model; background noise; modified log-normal path loss model; end-to-end data delivery reliability model; wireless sensor networks; industrial monitoring; network-level reliability model; link quality estimation; link quality optimisation; industrial WSN technologies; packet reception ratio; received signal strength; RSS; alpha-stable distribution

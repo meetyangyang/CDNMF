@@ -1,0 +1,1 @@
+discrete processor; batch processor; waiting time constraint; complicated scheduling problems; effective heuristic; genetic programming-based; hybrid flow shop scheduling problem

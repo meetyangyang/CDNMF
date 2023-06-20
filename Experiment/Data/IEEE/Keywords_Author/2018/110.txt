@@ -1,0 +1,1 @@
+Battery exchange; energy-aware planning; mobile robots; multirobot systems; path planning; persistent robotics; scheduling; vehicle routing

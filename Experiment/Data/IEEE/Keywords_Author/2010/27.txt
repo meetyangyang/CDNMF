@@ -1,0 +1,1 @@
+Geometric continuity; mobile robots; optimal path generation

@@ -1,0 +1,1 @@
+overapproximative human arm occupancy prediction; human-robot coexistence; safe motion planning; human body; kinematic chain; archetypal movements; 3DOF model; certifiable safety-guaranteed collision avoidance algorithms; motion-capture data; degree of freedom

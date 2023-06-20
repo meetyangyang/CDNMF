@@ -1,0 +1,1 @@
+symbolic representation; timed discrete-event systems; TDES; supervisory control theory; TEFA; timed extended finite automata; discrete variables; conditional expressions; update functions; symbolic computations; binary decision diagrams; BDD-based fixed point computations; tick models

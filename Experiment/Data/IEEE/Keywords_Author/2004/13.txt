@@ -1,0 +1,1 @@
+Grasp synthesis, max-transfer problem, max-normal-grasping-force problem, min-analytic-center problem, gradient computation

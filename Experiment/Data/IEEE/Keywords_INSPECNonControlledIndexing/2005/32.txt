@@ -1,0 +1,1 @@
+controlled Markov chain; safety bounds; safety control; stochastic discrete event systems; state probability distribution; irreducible Markov chains; aperiodic Markov chains; state-feedback controllers; initial probability distributions; maximal invariant safe set; reducible chains; periodic chains; iterative algorithm

@@ -1,0 +1,1 @@
+Adaptive Neural-Network-Based Active Control of Regenerative Chatter in Micromilling

@@ -1,0 +1,1 @@
+Support vector machines; Training; Encoding; Feature extraction; Fault diagnosis; Sparse matrices; Frequency-domain analysis

@@ -1,0 +1,1 @@
+Multimode Process Monitoring Using Variational Bayesian Inference and Canonical Correlation Analysis

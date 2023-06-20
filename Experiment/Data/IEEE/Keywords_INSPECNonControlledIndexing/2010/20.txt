@@ -1,0 +1,1 @@
+neural network model; airport ground transportation vehicle door; door systems condition based maintenance; door open/close cycle; door system degradation; statistical approach; time signal; electrical current; voltage signal; data collection hardware; door characteristics monitoring; degraded performance prediction

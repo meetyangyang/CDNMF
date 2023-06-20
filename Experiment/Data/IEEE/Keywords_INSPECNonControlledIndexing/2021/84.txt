@@ -1,0 +1,1 @@
+resource transition circuits; robust deadlock detection; siphons; deadlock prevention control; robust deadlock supervisor; linear marking constraint; saturated circuit; integer linear programming; resource acquisitions; AMS; Petri nets; multiple unreliable resources; robust supervisory control; automated manufacturing systems; robust deadlock control

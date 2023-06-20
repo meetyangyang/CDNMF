@@ -1,0 +1,1 @@
+UHF passive RFID tags; fine-grained positioning method; radio frequency identification; ultrahigh frequency passive RFID tags; moving antenna; particle swarm optimization; random phases; hyperbolic positioning optimization; RFID localization methods; received signal strength indicator; tag diversity; tag orientation

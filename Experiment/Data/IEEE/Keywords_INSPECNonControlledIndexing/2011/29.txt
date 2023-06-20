@@ -1,0 +1,1 @@
+ELID grinding; electrolytic inprocess dressing grinding; pulsewidth control; inprocess truing; surface finishing; hard materials; brittle materials; cutting grits; grinding wheel truing; dressing voltage duty ratio; inductive sensor; feedback signal; control algorithm mathematical design; voltage control

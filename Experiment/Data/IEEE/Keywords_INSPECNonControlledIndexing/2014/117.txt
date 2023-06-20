@@ -1,0 +1,1 @@
+optimal shipment policies; distribution systems; limited capacitated vehicle fleet; optimization problem; holding cost minimization; vendor-managed inventory policy; inventory cost minimization; transportation cost minimization; mathematical programming techniques; algorithmic approach

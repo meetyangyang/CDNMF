@@ -1,0 +1,1 @@
+Servomechanisms; Friction; Observers; Transient analysis; Torque; Nonlinear dynamical systems

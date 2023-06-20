@@ -1,0 +1,1 @@
+distributed query processing; wireless sensor networks; Internet of Things; cyber-physical systems; data streams; point-to-point routing; user query; Dragon; summary trees

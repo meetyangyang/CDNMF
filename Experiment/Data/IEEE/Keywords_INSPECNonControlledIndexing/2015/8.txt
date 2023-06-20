@@ -1,0 +1,1 @@
+proximity probing algorithm; metrology; automated manufacturing; inspection; robotics; surveying; healthcare; geometric probing problem; geometric property measurement; convex polygon; probe measurement; upper bound; O(n'm) preprocessing phase; finite set

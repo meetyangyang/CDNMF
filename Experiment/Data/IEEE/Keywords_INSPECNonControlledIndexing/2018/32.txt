@@ -1,0 +1,1 @@
+copula models; HMM; process failure mode identification; process variables; univariate probability distribution; multivariate probability distribution; high-order statistical features; complete dependence structure; Gaussian copula; semiparametric data transformation; emitting distribution; semiparametric hidden Markov model

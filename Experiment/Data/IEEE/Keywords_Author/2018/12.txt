@@ -1,0 +1,1 @@
+Automation; bagging; boosting; data mining; feature extraction; image classification; manufacturing automation; sparse coding; stacking; synthetic minority oversampling technique (SMOTE)

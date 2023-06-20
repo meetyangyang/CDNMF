@@ -1,0 +1,1 @@
+Central heating and cooling plant (CHCP); data-driven models; heating ventilation and air conditioning (HVAC); machine learning; predictive modeling; prognostics

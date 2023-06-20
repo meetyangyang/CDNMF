@@ -1,0 +1,1 @@
+Pareto solutions; multiobjective evolutionary algorithm; energy sustainability; EOL decision; nondominated sorting genetic algorithm-II; multiobjective artificial bee colony algorithm; energy consumption; energy conservation; multiobjective DP; EOL strategy; disassembly sequence; EOL products; end-of-life products; value recovery; multiobjective disassembly planning

@@ -1,0 +1,1 @@
+Bag-of-words (BOW); feature extraction; multivariate time series (MTS); symbolic aggregate approximation (SAX)

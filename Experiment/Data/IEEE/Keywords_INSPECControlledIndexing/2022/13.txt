@@ -1,0 +1,1 @@
+automatic guided vehicles; collision avoidance; conveyors; grippers; industrial manipulators; mobile robots; path planning; transportation

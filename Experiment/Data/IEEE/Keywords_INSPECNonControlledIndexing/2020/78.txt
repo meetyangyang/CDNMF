@@ -1,0 +1,1 @@
+lower bounds; unrestricted BRP variants; critical substructure concepts; exact BRP solutions; MIP computational methods; block relocation problem; lower bound derivations; strong formulations; yard management; MIP-formulation-based iterative procedure; steel plant

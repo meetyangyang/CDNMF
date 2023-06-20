@@ -1,0 +1,1 @@
+STEP AP214 standard; discrete event system; process planning; process control; process specification; process information; operation sequence; system capability; resource allocation; process algebra; Petri nets

@@ -1,0 +1,1 @@
+Body sensor network; embedded system; framework; heterogeneity; multiplatform; networked wearable system; signal processing; task-oriented programming

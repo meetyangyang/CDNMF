@@ -1,0 +1,1 @@
+Neurons; Training; Supervised learning; Unsupervised learning; Convergence; Computational modeling; Data models

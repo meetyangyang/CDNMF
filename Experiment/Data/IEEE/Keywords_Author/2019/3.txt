@@ -1,0 +1,1 @@
+Accelerated failure time (AFT) model; care transition; frailty term; long-term care (LTC); stochastic modeling; time-to-event modeling

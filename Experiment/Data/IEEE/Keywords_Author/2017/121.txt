@@ -1,0 +1,1 @@
+Joint sparse coding; object recognition; tactile perception; visual perception

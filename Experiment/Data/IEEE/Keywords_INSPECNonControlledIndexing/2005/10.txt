@@ -1,0 +1,1 @@
+state avoidance control; infinite state space systems; supervisory control computations; discrete event systems; assignment program model; Petri nets; finitely terminating algorithm; maximally permissive supervision; symbolic technique; reachability analysis

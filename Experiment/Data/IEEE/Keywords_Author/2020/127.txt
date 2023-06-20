@@ -1,0 +1,1 @@
+Bayesian nonlinear Gaussian mixture regression (BNGMR); multimode industrial process; single-hidden layer feedforward neural networks (SLFNs); variational inference (VI); virtual sensor

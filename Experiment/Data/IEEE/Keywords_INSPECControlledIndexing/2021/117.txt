@@ -1,0 +1,1 @@
+battery powered vehicles; battery storage plants; distributed power generation; energy management systems; integer programming; linear programming; minimax techniques; power generation dispatch; power generation economics; power markets; stochastic programming; vehicle-to-grid

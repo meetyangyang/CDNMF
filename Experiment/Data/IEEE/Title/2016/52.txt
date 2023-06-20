@@ -1,0 +1,1 @@
+Polygon-Invariant Generalized Hough Transform for High-Speed Vision-Based Positioning

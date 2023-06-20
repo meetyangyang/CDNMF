@@ -1,0 +1,1 @@
+Inspection; Deep learning; Feature extraction; Image classification; Labeling; Image segmentation; Convolutional neural networks

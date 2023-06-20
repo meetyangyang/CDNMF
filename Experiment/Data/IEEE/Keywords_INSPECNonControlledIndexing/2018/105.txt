@@ -1,0 +1,1 @@
+generalized service composition; fine-grained services; service providers bid; composite service; multigranularity service composition; single service; fixed-price scheme; service pricing; service allocation; first-price auction; dynamic service market; fixed price; pricing strategy; Vickrey-Clarke-Groves auction; VCG auction-based dynamic pricing

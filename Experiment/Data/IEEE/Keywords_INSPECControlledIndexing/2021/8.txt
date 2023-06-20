@@ -1,0 +1,1 @@
+computational complexity; flow shop scheduling; genetic algorithms; integer programming; job shop scheduling; learning (artificial intelligence); linear programming; optimisation; production engineering computing; scheduling; steel industry

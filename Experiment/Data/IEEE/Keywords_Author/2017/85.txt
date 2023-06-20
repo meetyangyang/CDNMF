@@ -1,0 +1,1 @@
+Adaptive critic design; fault tolerant control; multiple-input multiple-output discrete-time systems; neural networks; reinforcement learning algorithm

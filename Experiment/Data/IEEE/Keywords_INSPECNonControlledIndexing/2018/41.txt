@@ -1,0 +1,1 @@
+piezoelectric actuators; adaptive controller; active control elements; force compensation; chatter suppression; dynamical model; micromilling process; unknown bounding functions; time-delayed tool vibrations; adaptive neural-network-based active control; two-DOF regenerative chatter; cutting system; Lyapunov-Krasovskii functional

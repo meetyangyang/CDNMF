@@ -1,0 +1,1 @@
+Deep recurrent neural network (DRNN); force sensor; long short-term memory (LSTM); robotic palpation; tactile sensing; tumor depth estimation

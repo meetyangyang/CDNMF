@@ -1,0 +1,1 @@
+Supervisor Optimization for Deadlock Resolution in Automated Manufacturing Systems With Petri Nets

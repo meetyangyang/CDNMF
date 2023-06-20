@@ -1,0 +1,1 @@
+temperature 0 degC to 70 degC; dummy robots; cooling chamber; nanometer-scale; miniature wireless robots; cooling system; forced air convection; high-powered miniature robots

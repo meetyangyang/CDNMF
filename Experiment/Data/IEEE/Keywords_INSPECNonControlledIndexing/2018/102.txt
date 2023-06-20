@@ -1,0 +1,1 @@
+sensor measurements; state estimation; highway traffic setting; global positioning system-enabled smartphones; observability problem; Lagrangian dynamics framework; moving vehicle; microscopic dynamics; sensor vehicles; traffic stream; traffic hydrodynamics; rank observability condition; traffic observability quality; Lagrangian sensors

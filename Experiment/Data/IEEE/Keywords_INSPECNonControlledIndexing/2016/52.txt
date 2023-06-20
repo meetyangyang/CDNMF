@@ -1,0 +1,1 @@
+polygon-invariant generalized Hough transform; PI-GHT; vision-based positioning; object detection; template matching method; similarity transformation; edge point gradient direction; polygonal approximation; radio frequency identification device; RFID packaging equipment; LED manufacturing equipment; solder paste printing

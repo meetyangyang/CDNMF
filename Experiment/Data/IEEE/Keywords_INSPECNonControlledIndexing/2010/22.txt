@@ -1,0 +1,1 @@
+supply chain; inventory review; dependent demand distributions; dynamic inventory outsourcing; inventory policy; production policy; noncooperative differential game; stochastic demand; nontrivial optimal production control

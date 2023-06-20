@@ -1,0 +1,1 @@
+Gaussian distribution; iterative methods; linear quadratic control; linear systems; linearisation techniques; mobile robots; optimisation; path planning; stochastic systems

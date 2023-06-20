@@ -1,0 +1,1 @@
+HNP-MP approach; capacitated multi-item lot sizing problem; setup cost; inventory holding cost; hybrids nested partitions and mathematical programming; time-oriented decomposition heuristic method; production planning; material requirements planning system; mathematical programming method

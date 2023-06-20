@@ -1,0 +1,1 @@
+Feature extraction; Monitoring; Time series analysis; Principal component analysis; Control charts; Manufacturing processes

@@ -1,0 +1,1 @@
+Classifiers; electromyogram (EMG) electrode location variation; feature extraction; feature selection; gait phase recognition; human-centered system design; smart homes; walking assist system

@@ -1,0 +1,1 @@
+An Efficient and Robust Method for Automatically Identifying the Left Ventricular Boundary in Cine Magnetic Resonance Images

@@ -1,0 +1,1 @@
+Degradation; Indexes; Data integration; Signal to noise ratio; Sensor fusion; Data models

@@ -1,0 +1,1 @@
+Badly damped vibration; creep; cross couplings; hysteresis; multidegree-of-freedom piezoactuators; multivariable feedforward control; multivariable modeling

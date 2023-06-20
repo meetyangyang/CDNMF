@@ -1,0 +1,1 @@
+hybrid model predictive controllers; uncontrollable divergence metric; optimization; vertical takeoff-and-landing aerial vehicle; cyber-physical systems

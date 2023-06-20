@@ -1,0 +1,1 @@
+robust deadlock control policies; automated manufacturing systems; unreliable resources; partial stagnation; total stagnation; allocated resources; resource failure; robust supervisory control policies; structural complexity; computational complexity; controlled system; blocking states; behavioral permissiveness

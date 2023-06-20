@@ -1,0 +1,1 @@
+Dynamic optimization; hybrid gradient particle swarm optimization; nonuniform discretizetion-based control vector parameterization

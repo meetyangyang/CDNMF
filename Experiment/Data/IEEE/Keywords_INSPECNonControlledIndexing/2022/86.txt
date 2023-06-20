@@ -1,0 +1,1 @@
+two-machine Bernoulli serial lines; production rate constraint; optimality conditions; nonlinear algebraic optimality equations; energy consumption optimization; structural characteristics; nonlinear programming; manufacturing enterprises

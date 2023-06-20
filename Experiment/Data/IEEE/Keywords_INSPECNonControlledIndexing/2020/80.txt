@@ -1,0 +1,1 @@
+joint ordering; freshness-keeping policy; pricing problems; perishable products; deterioration process; nonlinear programming; Kuhn-Tucker condition; piecewise structure; stochastic problem; dynamic programming; sensitive analysis; inventory management

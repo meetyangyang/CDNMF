@@ -1,0 +1,1 @@
+Inkjet printing; microrobotics; product as encoder; trajectory generation; vision-based control

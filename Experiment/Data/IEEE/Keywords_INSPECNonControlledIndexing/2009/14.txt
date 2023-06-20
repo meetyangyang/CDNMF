@@ -1,0 +1,1 @@
+contrast enhancement; intensity preservation; gray-level images; multiobjective particle swarm optimization; gamma-correction; flexible algorithmic structure; image sequence; mobile robot

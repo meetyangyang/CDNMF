@@ -1,0 +1,1 @@
+Model checking; Petri nets; Discrete-event systems; Complexity theory; Formal verification; Reconfigurable architectures

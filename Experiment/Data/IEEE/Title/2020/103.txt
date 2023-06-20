@@ -1,0 +1,1 @@
+Effective Hot Rolling Batch Scheduling Algorithms in Compact Strip Production

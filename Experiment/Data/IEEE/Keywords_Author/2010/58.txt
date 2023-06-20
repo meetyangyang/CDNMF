@@ -1,0 +1,1 @@
+Automation; cell manipulation; closed-loop control; feature recognition; image processing; visual servoing

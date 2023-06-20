@@ -1,0 +1,1 @@
+adaptive observer; data-driven control; nonlinear discrete-time processes; input-output data; I/O data; pseudo-partial derivative parameter; compact form dynamic linearization; PPD vector; partial form dynamic linearization; nonlinear system dynamic linearization; PPD parameter estimation; Lyapunov-based stability analysis; close-loop control system; steam-water heat exchanger

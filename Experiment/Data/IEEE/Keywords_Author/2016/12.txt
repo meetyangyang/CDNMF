@@ -1,0 +1,1 @@
+Batch production; Bernoulli machine; finite production run; production system; serial line; transient analysis

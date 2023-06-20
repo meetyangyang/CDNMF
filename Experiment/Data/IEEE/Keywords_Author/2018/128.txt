@@ -1,0 +1,1 @@
+Contact modeling; force control; medical robots and systems; null-space control; robotic-assisted tele-echography

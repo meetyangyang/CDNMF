@@ -1,0 +1,1 @@
+distributed systems; energy-aware scheduling; minimum makespan scheduling problem; system graph; program graph; genetic algorithm; cellular automata; heuristic; time-energy trade-offs; NP-hard problem; GA; CA

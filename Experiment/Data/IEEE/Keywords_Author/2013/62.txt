@@ -1,0 +1,1 @@
+Actuation redundancy; coordination control; parallel manipulator; synchronization error; task space

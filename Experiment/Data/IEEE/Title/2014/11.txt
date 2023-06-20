@@ -1,0 +1,1 @@
+A Study on Sinus-Lifting Motion of a Snake Robot With Sequential Optimization of a Hybrid System

@@ -1,0 +1,1 @@
+joint replacement policies; multipart systems; maintenance cost reduction; optimal policy structures; rollout optimization framework; Markov decision processes; one-stage analysis method; rollout algorithm; time aggregation

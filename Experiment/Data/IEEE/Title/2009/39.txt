@@ -1,0 +1,1 @@
+An Exact;  Complete and Efficient Computation of Arrangements of BÉzier Curves

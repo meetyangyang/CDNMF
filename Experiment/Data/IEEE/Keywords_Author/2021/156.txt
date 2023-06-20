@@ -1,0 +1,1 @@
+Context switches; energy-aware scheduling; real-time system; reconfiguration; resource sharing

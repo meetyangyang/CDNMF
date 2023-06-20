@@ -1,0 +1,1 @@
+In this paper;  an indirect noninvasive method for measuring input impedance and the variations in the assembly of the interconnect and packaging between antenna and the integrated circuit (IC) effects of passive radio frequency identification (RFID) transponder (tags) antennas is presented. The analysis of different RFID tags is presented together with the experimental data. 

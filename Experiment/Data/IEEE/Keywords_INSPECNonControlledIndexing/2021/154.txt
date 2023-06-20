@@ -1,0 +1,1 @@
+downtime measurements; MTBF; MTTR; equipment reliability characteristics; total observation time; production systems performance analysis; (α;  β)-precise estimates; mean time between failures; mean time to repair; manufacturing equipment; continuous improvement; design engineering; probability; critical number; observation time; manufacturing operations; up-time measurements

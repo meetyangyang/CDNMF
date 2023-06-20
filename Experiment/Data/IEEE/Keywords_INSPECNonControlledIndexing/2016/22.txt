@@ -1,0 +1,1 @@
+planar environments online coverage; battery powered autonomous mobile robot; unknown planar environments; limited energy capacity battery; battery powered offline coverage methodology; BPC algorithm; online battery powered coverage; position sensor; local obstacle detection sensor; mobile robot total online path length measurement

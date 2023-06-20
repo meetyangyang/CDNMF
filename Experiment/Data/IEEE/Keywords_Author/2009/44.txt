@@ -1,0 +1,1 @@
+Algorithms; computational geometry; finite-element methods; geometric modeling; mesh generation; sparse matrices; spatial data structures; topology

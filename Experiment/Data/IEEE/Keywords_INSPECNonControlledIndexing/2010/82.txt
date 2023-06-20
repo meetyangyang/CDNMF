@@ -1,0 +1,1 @@
+simulation-based algorithm; line-side buffer assignment problem; general assembly line; material handling; production stoppage avoidance; fixed zoning version; NP-hardness; structural characteristics; parallel machine scheduling problem; global convergence; probability

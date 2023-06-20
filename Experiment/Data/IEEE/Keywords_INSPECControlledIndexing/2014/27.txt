@@ -1,0 +1,1 @@
+bridges (structures); condition monitoring; crack detection; Gaussian processes; genetic algorithms; industrial robots; inspection; maintenance engineering; mechanical engineering computing; mobile robots; object detection; path planning; robot vision

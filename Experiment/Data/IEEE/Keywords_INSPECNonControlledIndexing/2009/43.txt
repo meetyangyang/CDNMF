@@ -1,0 +1,1 @@
+mesh connectivity compression; surface meshes; memory access; CPU optimizations; 3D models; Delaunay-based reconstruction

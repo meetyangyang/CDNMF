@@ -1,0 +1,1 @@
+Computation of three-dimensional rigid-body dynamics with multiple unilateral contacts using time-stepping and Gauss-Seidel methods

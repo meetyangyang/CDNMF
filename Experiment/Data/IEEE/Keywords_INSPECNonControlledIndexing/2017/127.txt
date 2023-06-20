@@ -1,0 +1,1 @@
+optimal multidegree cyclic solution; multihoist scheduling without overlapping; multidegree cyclic scheduling; automated electroplating lines; hoists; line throughput maximization; cycle time minimization; degree cycles; mixed-integer linear programming model; optimal schedules; randomly generated instances; practical data testing

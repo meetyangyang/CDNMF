@@ -1,0 +1,1 @@
+Base position; mobile manipulator; offline planning; optimization method; spray painting

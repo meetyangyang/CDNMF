@@ -1,0 +1,1 @@
+computer vision; feature extraction; gesture recognition; image sensors; interactive devices; learning (artificial intelligence); object detection; particle filtering (numerical methods)

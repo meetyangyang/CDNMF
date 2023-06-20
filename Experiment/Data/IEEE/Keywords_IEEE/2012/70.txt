@@ -1,0 +1,1 @@
+Kernel; Support vector machines; Blast furnaces; Quadratic programming; Hilbert space; Input variables

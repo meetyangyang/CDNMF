@@ -1,0 +1,1 @@
+optimal ICU admission control; premature discharge; intensive care unit; critically ill patients; high resource intensity; stochastic patient arrival; discharge policy; surviving patients; ICU schedulers; Markov decision process model; optimal control policy

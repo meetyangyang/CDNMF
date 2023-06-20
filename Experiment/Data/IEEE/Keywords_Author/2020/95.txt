@@ -1,0 +1,1 @@
+Convolutional neural network (CNN); deep learning; image classification; sewer defect detection

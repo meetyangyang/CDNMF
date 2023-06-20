@@ -1,0 +1,1 @@
+cigarette production scheduling; workflow model; immune algorithm; production efficiency; supply delay reduction; mixed-integer quadratically constrained programming model; workflow resource allocation; activity priorities; dispatching rules; antibodies; production tardiness reduction

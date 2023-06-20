@@ -1,0 +1,1 @@
+IPN; black-box identification procedures; closed-loop controlled system; input-output sequence; net synthesis problem; long-event sequences; interpreted Petri nets; discrete-event system; unobservable behavior; optimization-based approach

@@ -1,0 +1,1 @@
+elastic resource provisioning; cloud workflow applications; interval-based charging model; data transfer time; VM loading time; software setup time; resource utilization; workflow deadline; multirule-based heuristic; deadline division; task scheduling; precedence constraints; task deadlines; integer programming; CPLEX; depth-based rule; priority rules; task allocation

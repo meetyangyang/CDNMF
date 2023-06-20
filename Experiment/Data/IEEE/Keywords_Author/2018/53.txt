@@ -1,0 +1,1 @@
+Collision detection; dynamic environment; high DOF; probabilistic; trajectory planning

@@ -1,0 +1,1 @@
+grippers; industrial manipulators; position control

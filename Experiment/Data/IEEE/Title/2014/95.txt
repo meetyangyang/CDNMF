@@ -1,0 +1,1 @@
+LMI-Based Gain Synthesis for Simple Robust Quadrotor Control

@@ -1,0 +1,1 @@
+Adaptive slicing, rapid prototyping (RP), thermal extrusion, web based

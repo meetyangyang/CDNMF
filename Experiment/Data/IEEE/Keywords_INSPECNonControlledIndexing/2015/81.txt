@@ -1,0 +1,1 @@
+fault detection; discrete-time stochastic system; temporal logic correctness requirement; linear-time temporal logic; LTL specification; input-output stochastic hybrid automaton; I/O-SHA notion; stochastic difference equation; reachability property; probability distribution; false alarm rate; FA rate; missed detection rate; MD rate; stochastic-diagnosability notion

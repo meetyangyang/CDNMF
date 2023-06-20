@@ -1,0 +1,1 @@
+collision avoidance; feedback; predictive control; road safety; trajectory control

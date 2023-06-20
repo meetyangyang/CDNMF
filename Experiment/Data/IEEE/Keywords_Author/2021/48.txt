@@ -1,0 +1,1 @@
+Acceleration control; collision avoidance; dynamics; motion and path planning; operational space control

@@ -1,0 +1,1 @@
+supervisor simplification; AMS; automated manufacturing systems; inequality analysis; deadlocks resolution; systems throughput; supervisory control technique; control policy; Petri net structure; independent inequalities; dependent inequalities

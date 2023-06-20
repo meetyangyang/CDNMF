@@ -1,0 +1,1 @@
+closed loop systems; computational complexity; design for environment; design for manufacture; discrete event simulation; energy conservation; flexible manufacturing systems; flow shop scheduling; integer programming; minimisation; nonlinear programming; optimal control; palletising

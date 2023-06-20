@@ -1,0 +1,1 @@
+Improved bag of feature method; integration of features; polyp detection; wireless capsule endoscopy images

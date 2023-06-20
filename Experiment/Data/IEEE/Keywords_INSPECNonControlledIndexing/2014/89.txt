@@ -1,0 +1,1 @@
+data providing services clustering; data providing services management; service discovery facilitation; service replacement facilitation; cluster DP services; refined fuzzy C-means algorithm; DP service vector; service cluster management; service search engine; source code; similar services grouping

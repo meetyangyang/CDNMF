@@ -1,0 +1,1 @@
+image matching; image reconstruction; image segmentation; learning (artificial intelligence); manipulators; medical robotics; robot vision; stereo image processing; surgery

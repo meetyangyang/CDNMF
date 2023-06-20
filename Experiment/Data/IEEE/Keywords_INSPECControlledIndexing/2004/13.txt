@@ -1,0 +1,1 @@
+dexterous manipulators; fixtures; industrial manipulators; manipulator kinematics; path planning; robot vision; gradient methods; minimax techniques

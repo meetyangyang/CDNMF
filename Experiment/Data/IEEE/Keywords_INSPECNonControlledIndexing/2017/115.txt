@@ -1,0 +1,1 @@
+mesh denoising; imperfect surfaces; scanning devices; geometric features; noise removal; facet normals; quadric surfaces; piecewise smooth surface; surface normal tensors; statistics; moving least squares; multiscale tensor voting; energy minimization; piecewise MLS; surface fitting

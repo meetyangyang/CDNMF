@@ -1,0 +1,1 @@
+path generation; minimum curvature derivative; splines; planning primitive; automated steering; wheeled mobile robots; optimality criterion; autonomous robot; optimization algorithm; heuristic method; optimal curves; interpolating conditions; circular arcs; clothoids

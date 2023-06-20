@@ -1,0 +1,1 @@
+parameter optimization; cathode arc plasma deposition; ZnO films; artificial neural network; Taguchi method; genetic algorithm; resistivity; transmittance; ZnO

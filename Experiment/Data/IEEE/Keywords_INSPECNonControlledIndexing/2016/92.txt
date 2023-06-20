@@ -1,0 +1,1 @@
+high precision automatic assembly; microscopic vision; force information; interference fit; 3-dimensional space; 3D space; 6-degree-of-freedom; DOF; manipulator; adjusting platform; sensing system; force sensor; contact force detection; pose control method; insertion stage; position control method; image Jacobian matrix calibration

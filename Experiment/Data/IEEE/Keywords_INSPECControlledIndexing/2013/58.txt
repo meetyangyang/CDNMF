@@ -1,0 +1,1 @@
+design engineering; dexterous manipulators; manipulator dynamics; motion control; open loop systems; trajectory control

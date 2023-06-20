@@ -1,0 +1,1 @@
+semialgebraic object; frictionless force-closure grasp; colored projection scheme; 3D wrench space; colored intersection searching problem; intersection searching algorithm; output-sensitive algorithm; concave vertex

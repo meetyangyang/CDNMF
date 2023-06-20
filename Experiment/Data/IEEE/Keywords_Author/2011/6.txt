@@ -1,0 +1,1 @@
+Automatic mapping; defect detection; joint's centroid; non-wet; reference-free classification; region of interest (ROI) segmentation; solder joints

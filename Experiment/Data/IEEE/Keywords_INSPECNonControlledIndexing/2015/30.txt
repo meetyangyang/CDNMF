@@ -1,0 +1,1 @@
+real-time multisensor data retrieval; cloud robotic systems; cloud technology; multiple robots; cloud cluster hosts; unpredictable data requests; real-time responses; synchronization; real-time MSDR framework; asynchronous access; market-based management strategy; quality of service criteria; QoS criteria; cloud robotic scenarios

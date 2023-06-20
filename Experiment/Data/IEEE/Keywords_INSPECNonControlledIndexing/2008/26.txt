@@ -1,0 +1,1 @@
+neighborhood operators; flexible demand assignment; bin packing; cost; revenue; one bin repack; two bins repack; unpack; flexible size

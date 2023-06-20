@@ -1,0 +1,1 @@
+multivariable control systems; drawing (mechanical); optical fibre fabrication; Galerkin method; reduced order systems; distributed control; H/sup /spl infin// control; linear quadratic Gaussian control; eigenvalues and eigenfunctions; size control; process control

@@ -1,0 +1,1 @@
+time optimal synthesis; sequential abstraction; Ramadge-Wonham supervisory control paradigm; logic control; time-related performance; discrete-event systems; time optimal accepting trace; sequential language projection; pruning; linear cluster tool

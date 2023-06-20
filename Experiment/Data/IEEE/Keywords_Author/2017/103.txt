@@ -1,0 +1,1 @@
+Automata; decentralized control; discrete-event systems (DESs); optimization; production automation; supervisory control

@@ -1,0 +1,1 @@
+autonomous distributed control algorithm; multiple spacecraft proximity maneuvers; automated on-orbit inspection; linear quadratic regulator; LQR control algorithm; collision avoidance; artificial potential function; APF-based repulsive functions; performance evaluation; numerical simulations

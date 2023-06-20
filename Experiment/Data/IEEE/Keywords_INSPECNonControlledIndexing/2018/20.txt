@@ -1,0 +1,1 @@
+calibration algorithm; arbitrary orientation placement; sensor plane; noise tolerant; calibration method; coordinate system; laser sensor; robotic arm; robot-sensor system; 3-D scanning task; planar disk; robot-sensor calibration; noise-tolerant algorithm

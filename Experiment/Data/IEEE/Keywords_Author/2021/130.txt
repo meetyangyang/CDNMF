@@ -1,0 +1,1 @@
+Equitorque discretization; hysteresis compensation; Lyapunov function; nonlinear stiffness actuator

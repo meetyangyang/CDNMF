@@ -1,0 +1,1 @@
+Proposals; Feature extraction; Yield estimation; Correlation; Detectors; Image segmentation; Neural networks

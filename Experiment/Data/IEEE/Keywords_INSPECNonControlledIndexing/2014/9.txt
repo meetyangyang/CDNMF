@@ -1,0 +1,1 @@
+minimal unsafe state enumeration; complex resource allocation system; maximally permissive deadlock avoidance policy; RAS state space; one-step-lookahead scheme; transition identification; transition blockage; discrete event systems

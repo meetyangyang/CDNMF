@@ -1,0 +1,1 @@
+production-inventory system; impatient demand classes; customer demand classes; backordering; backorder costs; inventory holding costs; lost sales costs; Markov decision process; cost minimisation; onhand inventory; heuristic approach; optimal policy

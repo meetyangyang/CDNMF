@@ -1,0 +1,1 @@
+A robotic mechanism for grasping sacks

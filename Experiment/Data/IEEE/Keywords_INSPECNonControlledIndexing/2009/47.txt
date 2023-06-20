@@ -1,0 +1,1 @@
+automatic zoom camera calibration; zoom camera lens; machine vision; parameter estimation; moving least squares multiple regression; polynomial function; computational complexity

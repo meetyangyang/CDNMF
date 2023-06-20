@@ -1,0 +1,1 @@
+Component sequencing problem (CSP); feeder assignment problem (FAP); particle swarm optimization (PSO); printed circuit board assembly (PCBA)

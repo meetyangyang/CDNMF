@@ -1,0 +1,1 @@
+Analysis of Rigid Body Interactions for Compliant Motion Tasks Using the Grassmann–Cayley Algebra

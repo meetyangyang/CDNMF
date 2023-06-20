@@ -1,0 +1,1 @@
+production loss; condition-based equipment maintenance; condition-based maintenance program; device testing cost; self-diagnostic data; degradation signal; nonstationary Gaussian process; time-varying mean; degradation model; optimization algorithm; best maintenance policy; equipment failure

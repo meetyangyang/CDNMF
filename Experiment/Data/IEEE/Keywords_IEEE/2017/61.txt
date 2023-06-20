@@ -1,0 +1,1 @@
+Partitioning algorithms; Job shop scheduling; Heuristic algorithms; Algorithm design and analysis; Mixed integer linear programming; Computational modeling

@@ -1,0 +1,1 @@
+actuators; deformation; magnetic fields; manipulators; plates (structures); polymers; robots; sheet materials

@@ -1,0 +1,1 @@
+accelerometers; condition monitoring; convolutional neural nets; learning (artificial intelligence); sensors; structural engineering computing; support vector machines

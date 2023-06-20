@@ -1,0 +1,1 @@
+Finite-Time Tracking Control of Rigid Spacecraft Under Actuator Saturations and Faults

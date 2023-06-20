@@ -1,0 +1,1 @@
+robot communication network topology; generalized assignment problem; NP-hard problem; task duration; robot battery life constraint; task deadline constraints; multirobot task assignment; distributed algorithms

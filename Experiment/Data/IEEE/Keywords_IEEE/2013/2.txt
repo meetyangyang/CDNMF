@@ -1,0 +1,1 @@
+Load modeling; Planning; Wind speed; Random variables; Electricity; Substations; Distributed power generation

@@ -1,0 +1,1 @@
+discrete time systems; dynamic programming; heuristic programming; iterative methods; neurocontrollers; nonlinear control systems; optimal control

@@ -1,0 +1,1 @@
+Petri net approach; mediation-aided composition; Web services; state space explosion; compatibility verification; BPEL code; open WorkFlow nets; oWFNs; mediation transitions; modular reachability graph; MRG; event-condition-action rule-based technique; ECA rule-based technique; prototype system

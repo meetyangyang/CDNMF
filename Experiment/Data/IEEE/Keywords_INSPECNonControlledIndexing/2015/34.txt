@@ -1,0 +1,1 @@
+automatic bird species filtering; multimodel approach; filtering algorithm; bird species detection; crowd sourced video; body motion dimension; wing motion dimension; key point matching; intrinsic camera parameters; body motion tracking; periodic wing flapping pattern; gliding motion pattern; area under ROC curve; receiver operating characteristic curve; false positive rate

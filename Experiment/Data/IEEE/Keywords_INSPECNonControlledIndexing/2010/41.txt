@@ -1,0 +1,1 @@
+surface patch reconstruction; 1-D tactile data; finger tracking; concurrent surface curves; Darboux frame; curve intersection point; surface fitting; total Gaussian curvature; two-axis joystick sensor; three-fingered 4-DOF Bar- rettHand; 4-DOF Adept SCARA robot

@@ -1,0 +1,1 @@
+Simultaneous localization and mapping; Tracking; Feature extraction; Sensor fusion; Real-time systems; Power demand

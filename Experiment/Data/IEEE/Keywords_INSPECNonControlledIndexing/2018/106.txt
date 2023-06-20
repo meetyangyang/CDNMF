@@ -1,0 +1,1 @@
+PHUVS; static positioning task; dynamic tracking task; computation costs; novel task function; projective homography based uncalibrated visual servoing; uncalibrated visual servoing methods; totally uncalibrated scenarios; uncalibrated visual servo method

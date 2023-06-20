@@ -1,0 +1,1 @@
+Cyber-physical systems; EtherCAT; Ethernet networks; fault tolerance; networked control systems; real-time systems

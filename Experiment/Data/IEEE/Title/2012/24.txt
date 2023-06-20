@@ -1,0 +1,1 @@
+A Solution to the Optimal Lot-Sizing Problem as a Stochastic Resource Contention Game

@@ -1,0 +1,1 @@
+An Agent-Based Simulation Model to Evaluate Contacts;  Layout;  and Policies in Entrance;  Exit;  and Seating in Indoor Activities Under a Pandemic Situation

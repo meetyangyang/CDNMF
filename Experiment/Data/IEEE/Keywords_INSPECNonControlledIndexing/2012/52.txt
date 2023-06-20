@@ -1,0 +1,1 @@
+realtime scheduling; single-arm cluster tool; bounded activity time variation; wafer residency time constraint; Petri net model; realtime control policy; periodical offline schedule; schedulability condition; scheduling algorithm; cycle time minimization; analytical expression; semiconductor manufacturing plant

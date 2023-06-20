@@ -1,0 +1,1 @@
+asynchronous distributed biogas supply control; asynchronous distributed multienergy demand control; biogas exchange; power grid; gas storage; fuel cell; microcombined heat power system; heat buffer; two-layer optimization problem; asynchronous coordination algorithm

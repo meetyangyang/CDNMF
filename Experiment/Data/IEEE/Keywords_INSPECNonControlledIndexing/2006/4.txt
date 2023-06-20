@@ -1,0 +1,1 @@
+discrete event systems; linear-time temporal-logic specifications; state-based approach; failures prediagnosability; polynomial algorithm; product routing failure; manufacturing system; bounded delay; repeated failure diagnosis

@@ -1,0 +1,1 @@
+recursive modeling; input/output-extended automaton; graphical interface tool; event-driven software design; offline analysis; formal verification; online analysis; Stateflow model; formal analysis; systematic method; input/output extended finite automata; translation method; atomic module; composition rules; refinement rules; discrete behaviors; Matlab tool; I/O-EFA model

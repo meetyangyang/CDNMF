@@ -1,0 +1,1 @@
+Extrinsic calibration; industrial robot; kinematic calibration; nonlinear optimization

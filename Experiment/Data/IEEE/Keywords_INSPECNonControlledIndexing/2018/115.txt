@@ -1,0 +1,1 @@
+electricity price; mixed-integer linear programming model; time-of-use tariffs; sustainable economic development; parallel machine scheduling; decision variables; model performance

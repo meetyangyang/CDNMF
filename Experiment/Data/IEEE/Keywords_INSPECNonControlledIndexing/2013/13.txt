@@ -1,0 +1,1 @@
+optimal synthesis; beacon-enabled ZigBee network; formal approach; correct-by-construction communication network; ZigBee wireless networks; end-to-end communication constraints; error-rate; network protocols; software platform; wireless network synthesis; distributed estimation application

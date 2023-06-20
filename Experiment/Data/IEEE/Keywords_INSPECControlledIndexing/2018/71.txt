@@ -1,0 +1,1 @@
+budgeting; collaborative filtering; conjugate gradient methods; learning (artificial intelligence); matrix algebra; matrix decomposition; Newton method; optimisation

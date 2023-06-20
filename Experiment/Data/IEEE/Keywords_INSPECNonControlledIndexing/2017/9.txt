@@ -1,0 +1,1 @@
+extended-state-observer-based funnel control; nonlinear servomechanisms; prescribed tracking performance; approximation-free funnel feedback controller; tracking error performance; funnel boundary; extended state observer; ESO; Lyapunov theory; comparative simulations

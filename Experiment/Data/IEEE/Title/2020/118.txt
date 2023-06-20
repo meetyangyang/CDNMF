@@ -1,0 +1,1 @@
+A Multi-Level Simultaneous Minimization Scheme Applied to Jerk-Bounded Redundant Robot Manipulators

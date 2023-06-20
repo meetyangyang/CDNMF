@@ -1,0 +1,1 @@
+S-VIT; stereo visual-inertial tracking; physiotherapy exercise monitoring device; memory consumption; CPU heat; CPU utilization; SLAM systems ego-motion estimation; lower limb tracking; physiotherapy rehabilitation exercises; daily recorded data; patient body motion; motion tracking; SLAM algorithm; EMoVI-SLAM; simultaneous localization and mapping; embedded platform

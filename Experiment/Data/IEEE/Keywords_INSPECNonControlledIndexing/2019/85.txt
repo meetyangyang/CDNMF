@@ -1,0 +1,1 @@
+mobile RFID antenna; unwrapped phase-position model; ordinary nonlinear least-squares algorithm; grid-based methods; millisecond-level computing time; centimeter-level location accuracy; pervasive location-aware applications; onboard fast UHF RFID localization method; ultrahigh-frequency radiofrequency identification localization method

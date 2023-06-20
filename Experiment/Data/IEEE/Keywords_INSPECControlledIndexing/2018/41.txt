@@ -1,0 +1,1 @@
+adaptive control; control system synthesis; cutting tools; delays; Lyapunov methods; machining chatter; micromachining; milling; neurocontrollers; piezoelectric actuators; vibrations

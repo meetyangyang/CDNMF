@@ -1,0 +1,1 @@
+UAV mission planning; stochastic two-player games; Markov decision process; human-automation interaction; unmanned aerial vehicle; road network surveillance; control protocols synthesis; human-in-the-loop control protocols

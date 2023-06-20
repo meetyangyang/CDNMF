@@ -1,0 +1,1 @@
+patient diagnosis; medical diagnostic computing; Raman spectroscopy; decision making; fuzzy control; intelligent control; genetic algorithms; principal component analysis; biomedical measurement

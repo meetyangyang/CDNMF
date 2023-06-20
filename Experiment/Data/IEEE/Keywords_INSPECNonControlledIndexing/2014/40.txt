@@ -1,0 +1,1 @@
+concurrent processing; two wafer types; cluster tool scheduling problem; cyclic operational sequence; wafer loading tasks; wafer unloading tasks; robot task sequence; single-armed tools; dual-armed tools; mixed integer programming model; MIP model; robot task sequencing; cluster tool optimal scheduling

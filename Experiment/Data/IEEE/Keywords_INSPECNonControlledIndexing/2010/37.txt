@@ -1,0 +1,1 @@
+scientific grid workflows; grid computing; scientific workflow management; multicriteria scheduling algorithms; bicriteria scheduling specification method; multiple choice knapsack problem; bicriteria scheduling heuristic; dynamic constraint algorithm; dynamic programming; hydrological application; Austrian grid environment

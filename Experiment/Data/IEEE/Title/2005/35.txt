@@ -1,0 +1,1 @@
+How to reach the dynamic limits of parallel robots? An autonomous control approach

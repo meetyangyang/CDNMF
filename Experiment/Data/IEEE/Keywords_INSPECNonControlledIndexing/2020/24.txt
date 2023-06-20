@@ -1,0 +1,1 @@
+polyp recognition methods; polyp recognition approaches; practical image unbalanced problem; automatic polyp recognition scheme; polyp detection; robust DenseNet-UDCS model; polyp images; discriminative image features; CS loss; UD loss; end-to-end polyp recognition task; densely connected convolutional network; fuzzy polyp borders; endoscopic images; neural network

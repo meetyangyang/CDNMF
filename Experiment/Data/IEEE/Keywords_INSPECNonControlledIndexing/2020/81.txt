@@ -1,0 +1,1 @@
+incremental learning; object models; natural human-robot interactions; realistic human environments; end-to-end pipeline; human-robot interaction; interaction type; robot sensors; target object detection; recognized interaction; incremental object learning; natural HRI; multimodal HRI; interaction ambiguity; heterogeneous HRI

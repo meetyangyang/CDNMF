@@ -1,0 +1,1 @@
+decision theory; dynamic programming; energy harvesting; iterative methods; prediction theory; search problems; target tracking; telecommunication power management; telecommunication scheduling; trees (mathematics); wireless sensor networks

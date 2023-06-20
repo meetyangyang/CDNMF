@@ -1,0 +1,1 @@
+neighborhood formation tracking error; follower robot; nonholonomic mobile robots; leader-following formations; leader-following formation control; distributed formation control strategy; distributed estimation law; distributed formation control law; state estimation; asymptotic convergence

@@ -1,0 +1,1 @@
+fault duration; intermittent fault prognosis problem; multiple discrete components; discrete component prognosis problem; faulty discrete component states; fault disappearing instants; hybrid bond graph model; observation window; coordinate reconstruction; Weibull function-based degradation; Levy flight biogeography-based optimization

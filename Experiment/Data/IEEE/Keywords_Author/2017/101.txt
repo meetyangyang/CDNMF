@@ -1,0 +1,1 @@
+Admission control (AC); healthcare management; Markov decision process (MDP); myopic optimal policy; patient utility

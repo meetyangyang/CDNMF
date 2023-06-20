@@ -1,0 +1,1 @@
+decentralized failure diagnosis; event-driven systems; safe-codiagnosability; boundary safe traces; polynomial complexity

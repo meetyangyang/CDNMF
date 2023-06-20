@@ -1,0 +1,1 @@
+Compliant mechanism; constant force; force control; pick and place; pneumatic gripper; zero stiffness

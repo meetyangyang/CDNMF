@@ -1,0 +1,1 @@
+mobile sensor teams; target detection; target localization; data association; PHD filter; multitarget localization; finite time horizon; receding-horizon problem; ground robot team; planning method; target cardinality; sensor modality; information gathering tasks

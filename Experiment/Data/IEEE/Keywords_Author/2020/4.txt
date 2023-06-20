@@ -1,0 +1,1 @@
+Chip shooter machine; component sequencing problem (CSP); feeder assignment problem (FAP); printed circuit board assembly (PCBA); shuffled frog-leaping algorithm (SFLA)

@@ -1,0 +1,1 @@
+human-centric automation; constraint satisfaction problem; weighted CSP; planning rules; human-centric system; automated planning; weighted constraint satisfaction; optimization capability; prototype smart home

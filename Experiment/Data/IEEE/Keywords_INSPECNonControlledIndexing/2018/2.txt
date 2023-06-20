@@ -1,0 +1,1 @@
+fixed switching communication topologies; MAS transitions; new communication topology; leader-follower model; homogeneous transformation; homogeneous deformation; local communication; fixed communication weights; desired final positions; follower agents; actual desired positions; communication failure; homogeneous mapping; local agents

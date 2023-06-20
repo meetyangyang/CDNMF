@@ -1,0 +1,1 @@
+scalable security with symmetric keys; S3K; datagram transport layer security; DTLS key establishment; Internet of Things; de facto standard; communication security; DTLS protocol; X.509 certificates; public key infrastructure; small IoT devices; preshared keys; raw public keys

@@ -1,0 +1,1 @@
+Mathematical model; Adaptive control; Training; Reservoirs; Servomotors; Recurrent neural networks; Trajectory

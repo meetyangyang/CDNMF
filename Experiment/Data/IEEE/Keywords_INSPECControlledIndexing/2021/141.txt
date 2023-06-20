@@ -1,0 +1,1 @@
+autonomous underwater vehicles; collision avoidance; mobile robots; nonlinear control systems; predictive control; robot vision; robust control; trajectory control

@@ -1,0 +1,1 @@
+user check-in behaviors; nearby strangers recommendation; location-based mobile social network; LMSN; friend recommendation; user profiles; acquaintance-based social circles; Encounter probability; kernel density estimation; KDE-based user check-in probability estimation method; spatiotemporal dimensions; Gowalla dataset

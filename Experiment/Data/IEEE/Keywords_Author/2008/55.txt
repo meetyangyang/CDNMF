@@ -1,0 +1,1 @@
+Joint replacement; Markov decision processes; multipart maintenance; rollout algorithm; time aggregation

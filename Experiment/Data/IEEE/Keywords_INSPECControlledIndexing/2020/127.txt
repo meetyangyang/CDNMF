@@ -1,0 +1,1 @@
+Bayes methods; belief networks; feedforward neural nets; Gaussian processes; industrial engineering; learning (artificial intelligence); process monitoring; regression analysis; sensors

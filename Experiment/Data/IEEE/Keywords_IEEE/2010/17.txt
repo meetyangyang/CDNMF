@@ -1,0 +1,1 @@
+Path planning; Spline; Remotely operated vehicles; Mobile robots; Navigation; Safety; Data mining; Computational modeling; Production; Ores

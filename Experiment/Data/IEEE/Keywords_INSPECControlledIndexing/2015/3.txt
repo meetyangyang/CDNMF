@@ -1,0 +1,1 @@
+control system synthesis; least squares approximations; nonlinear control systems; optimisation; parameter estimation; trajectory control

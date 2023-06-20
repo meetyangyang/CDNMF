@@ -1,0 +1,1 @@
+performance evaluation; wafer fabrication; colored Petri-net; genetic algorithm approach; queueing systems; wafer manufacturing industry; priority rules; QCPN-based GA scheduler; manufacturing execution system; decision making; delivery prediction; bottleneck seeking; data communication; common parallelization technique; semiconductor manufacturing scheduling

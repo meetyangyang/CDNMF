@@ -1,0 +1,1 @@
+Adaptive; heterogeneous networks; neural networks; reinforcement learning; video transmission control

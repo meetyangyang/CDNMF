@@ -1,0 +1,1 @@
+heuristic task assignment algorithms; last-mile package deliveries; operation range; loading capacity; street network; complementary capabilities; dispersed customers; precedence-constrained task assignment problem; heterogeneous vehicles; precedence-constrained package delivery

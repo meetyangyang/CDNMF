@@ -1,0 +1,1 @@
+Process monitoring; Machine learning; Dictionaries; Feature extraction; Hidden Markov models; Pattern recognition

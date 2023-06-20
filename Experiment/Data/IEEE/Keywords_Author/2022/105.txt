@@ -1,0 +1,1 @@
+Localization; Monte Carlo localization (MCL); point cloud; pole-like features

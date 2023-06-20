@@ -1,0 +1,1 @@
+deadlock prevention policy; key-resource-operation-place pairs; systems of simple sequential processes with resources; flexible manufacturing system; key resource places control; strict minimal siphons; controlled system

@@ -1,0 +1,1 @@
+snake robot; sequential optimization; hybrid system; living snake; dynamic lifted part switching; locomotion; snake like robot; sinus-lifting motion optimality; constraint forces; energy efficiency; cost function; optimal motion pattern

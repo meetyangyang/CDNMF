@@ -1,0 +1,1 @@
+Spatiotemporal Thermal Field Modeling Using Partial Differential Equations With Time-Varying Parameters

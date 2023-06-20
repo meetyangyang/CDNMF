@@ -1,0 +1,1 @@
+Data center; distributed clouds; genetic algorithm (GA); green computing; metaheuristic optimization; particle swarm optimization; simulated annealing (SA); task scheduling

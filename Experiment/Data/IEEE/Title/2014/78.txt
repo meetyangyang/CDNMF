@@ -1,0 +1,1 @@
+Solving an Extended Double Row Layout Problem Using Multiobjective Tabu Search and Linear Programming

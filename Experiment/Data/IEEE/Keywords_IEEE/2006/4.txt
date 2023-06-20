@@ -1,0 +1,1 @@
+Discrete event systems; Logic; Polynomials; Event detection; System testing; Routing; Manufacturing systems; Delay effects; Formal specifications; Research and development

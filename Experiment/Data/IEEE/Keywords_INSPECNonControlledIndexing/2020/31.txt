@@ -1,0 +1,1 @@
+dynamic regions; static regions; static ones; feature-based visual simultaneous localization; dynamic environments; visual localization problem; visual sensor; localization accuracy; feature-based visual SLAM system; robust visual localization; dynamic scenarios; visual localization systems; dynamic factors; sparse motion removal model

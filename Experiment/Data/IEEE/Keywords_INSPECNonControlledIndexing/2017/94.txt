@@ -1,0 +1,1 @@
+dynamic task execution; parameter identification; Baxter research robot; trajectory optimization; Fisher information maximization; closed-loop control; nonlinear control technique; sequential action control; gripper; feedback source; trajectory generation; trep software package; maximum likelihood estimation

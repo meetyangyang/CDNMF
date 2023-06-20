@@ -1,0 +1,1 @@
+Finite Bisimulation of Reactive Untimed Infinite State Systems Modeled as Automata With Variables

@@ -1,0 +1,1 @@
+grippers; haptic interfaces; human-robot interaction; micromanipulators; position control; steering systems; surgery; telerobotics

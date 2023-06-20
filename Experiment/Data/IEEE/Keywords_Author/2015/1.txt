@@ -1,0 +1,1 @@
+Binary tag; distributed architecture; force control; human interface; industrial robot; primary: dual-arm manipulation; secondary: visual servoing; tele-robotics

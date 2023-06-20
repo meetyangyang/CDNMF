@@ -1,0 +1,1 @@
+multiaxis motion systems; NURBS paths; contouring control method; non-uniform rational B-spline; NURBS interpolator; algebraic path equations; generalized coordinates; Sylvester implicitization method

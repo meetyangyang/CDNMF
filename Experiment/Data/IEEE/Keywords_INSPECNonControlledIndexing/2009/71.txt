@@ -1,0 +1,1 @@
+first-order hybrid Petri net model; supply chain management; independent manufacturing companies; logistics companies; first-order fluid approximation; linear discrete-time variable model; time-varying state variable model; closed-loop control strategies

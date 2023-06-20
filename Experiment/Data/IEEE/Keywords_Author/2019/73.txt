@@ -1,0 +1,1 @@
+Coupled cooperative primitive (CCP); dynamic movement primitive (DMP); lower exoskeletons; physical human–robot interaction (pHRI); reinforcement learning

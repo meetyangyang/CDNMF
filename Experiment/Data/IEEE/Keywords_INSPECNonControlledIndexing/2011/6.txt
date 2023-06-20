@@ -1,0 +1,1 @@
+nonwet solder joints; processor sockets; mother board failure; automatic defect identification; automatic defect classification; feature extraction; reference free classification; ROI segmentation process; noise resilient segmentation method; automatic mapping procedure; master ball grid array file; 2D X-ray imaging

@@ -1,0 +1,1 @@
+A Minimum-Cost Modeling Method for Nonlinear Industrial Process Based on Multimodel Migration and Bayesian Model Averaging Method

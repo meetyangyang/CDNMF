@@ -1,0 +1,1 @@
+Secure Recovery Procedure for Manufacturing Systems Using Synchronizing Automata and Supervisory Control Theory

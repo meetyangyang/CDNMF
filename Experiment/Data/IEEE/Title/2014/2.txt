@@ -1,0 +1,1 @@
+Application of Supervisory Control Synthesis to a Patient Support Table of a Magnetic Resonance Imaging Scanner

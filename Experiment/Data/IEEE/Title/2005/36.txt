@@ -1,0 +1,1 @@
+Paint deposition modeling for trajectory planning on automotive surfaces

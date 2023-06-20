@@ -1,0 +1,1 @@
+Agent; autonomous vehicle; cooperative control; design; evolution; evolutionarily stable strategy (ESS); foraging theory; group size; manufacturer; multiagent; social

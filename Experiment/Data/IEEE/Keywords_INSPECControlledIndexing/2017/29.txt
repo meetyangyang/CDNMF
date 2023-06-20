@@ -1,0 +1,1 @@
+centralised control; distributed control; load dispatching; minimisation; optimal control; power distribution control; predictive control; smart meters; smart power grids; supply and demand

@@ -1,0 +1,1 @@
+Artificial intelligence; Binarized deep neural networks (BDNNs); deep learning (DL); edge computing; intelligent fault diagnosis; Industrial Internet of Things (IoT); random forests (RFs)

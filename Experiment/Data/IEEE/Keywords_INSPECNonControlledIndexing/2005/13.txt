@@ -1,0 +1,1 @@
+globalized dual heuristic programming; fault tolerant control; online learning supervisor; advanced reconfigurable controller; complex nonlinear systems; nonlinear adaptive control; dynamic model bank; linear system; multiple-input multiple-output system

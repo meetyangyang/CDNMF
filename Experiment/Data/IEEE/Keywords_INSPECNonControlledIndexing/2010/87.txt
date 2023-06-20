@@ -1,0 +1,1 @@
+Bayesian tag estimate; optimal frame length; anti-collision aloha RFID system; dynamic framed slotted aloha RFID system; tag quantity estimation; computational complexity; maximum channel usage efficiency

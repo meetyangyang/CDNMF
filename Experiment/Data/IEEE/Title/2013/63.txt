@@ -1,0 +1,1 @@
+Type Synthesis;  Kinematic Analysis;  and Optimal Design of a Novel Class of Schönflies-Motion Parallel Manipulators

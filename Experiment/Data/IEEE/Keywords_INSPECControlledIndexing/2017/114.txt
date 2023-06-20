@@ -1,0 +1,1 @@
+electromyography; fast Fourier transforms; Gaussian processes; Hilbert transforms; medical signal processing; signal classification; support vector machines

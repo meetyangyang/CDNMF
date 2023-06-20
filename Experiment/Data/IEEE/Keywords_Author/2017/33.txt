@@ -1,0 +1,1 @@
+District heating power plant (DHPP); layout constraints; mixed-integer linear program (MILP); model predictive control (MPC); thermal energy storage (TES)

@@ -1,0 +1,1 @@
+Cameras; Substrates; Inspection; Calibration; Feature extraction; Image segmentation; Stereo vision

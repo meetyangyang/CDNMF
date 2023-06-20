@@ -1,0 +1,1 @@
+Use of multiple spacecraft for close proximity operations is expected to increase in future space missions. Achallenging problem is how to automate motion planning and control of multiple spacecraft in close proximity. This paper presentsa distributed control algorithm for simultaneous docking maneuvers of multiple spacecraft.

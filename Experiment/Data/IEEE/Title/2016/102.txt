@@ -1,0 +1,1 @@
+Parameterized Distortion-Invariant Feature for Robust Tracking in Omnidirectional Vision

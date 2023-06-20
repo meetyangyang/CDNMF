@@ -1,0 +1,1 @@
+robotic arm; statistical analyses; position-based robotic peg-in-hole insertions; machine learning; registration error; registration accuracy; one-shot peg-in-hole tests; robot registration performance

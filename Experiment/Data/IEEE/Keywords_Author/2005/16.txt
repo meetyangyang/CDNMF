@@ -1,0 +1,1 @@
+Discounted reward; dynamic policy; Gittins index; machine breakdowns; min-max criterion; number of tardy jobs; preemptive-repeat; semi-Markov decision process; stochastic scheduling; weighted flowtime

@@ -1,0 +1,1 @@
+Synthesis of Energy-Bounded Planar Caging Grasps Using Persistent Homology

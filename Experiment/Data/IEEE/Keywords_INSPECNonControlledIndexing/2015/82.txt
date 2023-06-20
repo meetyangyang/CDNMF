@@ -1,0 +1,1 @@
+stochastic Petri net modeling; public bicycle sharing system; PBSS; public transportation mode; bicycle pick up; bicycle drop off; inhibitor arcs; variable arc weights; discrete event approach

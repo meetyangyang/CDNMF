@@ -1,0 +1,1 @@
+calibration; curve fitting; image matching; image segmentation; medical image processing; medical robotics; object tracking; robot vision; splines (mathematics); stereo image processing; surgery

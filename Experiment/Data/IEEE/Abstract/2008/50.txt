@@ -1,0 +1,1 @@
+This paper focuses on surface quality improvement in hot rolling processes. A systematic method based on functional data analysis is developed to identify the key influential process variables. It provides guidelines for hot rolling process control and can also be expanded to generic scenarios of functional variable selection. 

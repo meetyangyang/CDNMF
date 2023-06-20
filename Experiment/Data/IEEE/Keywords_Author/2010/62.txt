@@ -1,0 +1,1 @@
+Adaptive-network-based fuzzy inference system (ANFIS); parameter prediction; categorical input; data mining; scheduling

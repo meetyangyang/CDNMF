@@ -1,0 +1,1 @@
+Adaptive observer; Data-driven control; Lyapunov-based stability analysis; nonlinear discrete-time systems; pseudo-partial derivative

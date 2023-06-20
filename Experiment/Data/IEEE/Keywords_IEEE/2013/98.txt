@@ -1,0 +1,1 @@
+Hidden Markov models; Acceleration; Activity recognition; Time series analysis; Wearable sensors; Intelligent sensors

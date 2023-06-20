@@ -1,0 +1,1 @@
+Automated manufacturing systems; Petri nets; theory of regions; supervisory control; timed Petri nets

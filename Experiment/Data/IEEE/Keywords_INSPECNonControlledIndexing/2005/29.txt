@@ -1,0 +1,1 @@
+rigid body; flexible sheet; automated rehabilitation bed; bedridden patient; bedsores; patient orientation; automated patient repositioning; body-sheet interactions; prototype bed; servoed arms; closed-loop control; caregivers; healthcare industry; robotic system; nursing homes; hospitals

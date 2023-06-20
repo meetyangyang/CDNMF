@@ -1,0 +1,1 @@
+Accelerometers; silicon-on-insulator field-effect-transistors (SOIFETs); stress-sensing

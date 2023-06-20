@@ -1,0 +1,1 @@
+Elastic band (EB); mobile robots; optimal motion planning; sampling-based motion planning

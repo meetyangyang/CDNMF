@@ -1,0 +1,1 @@
+Electric vehicle (EV); expected opportunity cost (EOC); optimal computing budget allocation (OCBA); probability of correct selection (PCS); simulation-based policy improvement (SBPI); wind power

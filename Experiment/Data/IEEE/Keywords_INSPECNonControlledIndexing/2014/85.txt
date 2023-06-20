@@ -1,0 +1,1 @@
+discrete-event systems; online hierarchical control; system decomposition; operational design; online control operation; output control feasibility; structured Moore automaton; command and control design; controller operation

@@ -1,0 +1,1 @@
+Divergence; hyperspectral imaging; poultry inspection; skin tumor detection; spectral band selection; support vector machine (SVM)

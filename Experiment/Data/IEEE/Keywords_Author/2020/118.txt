@@ -1,0 +1,1 @@
+Jerk-bounded kinematic control; multi-level simultaneous minimization (MLSM); neural networks; quadratic optimization; redundant robot manipulators

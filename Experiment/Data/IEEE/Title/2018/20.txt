@@ -1,0 +1,1 @@
+A Noise-Tolerant Algorithm for Robot-Sensor Calibration Using a Planar Disk of Arbitrary 3-D Orientation

@@ -1,0 +1,1 @@
+neural-network; discrete-time nonlinear system; globalized dual heuristic programming; neuro-optimal control scheme; discount factor; cost function; iterative adaptive dynamic programming; convergence analysis; nonlinear system forward-in-time; iterative ADP algorithm

@@ -1,0 +1,1 @@
+Optimal Image-Based Euclidean Calibration of Structured Light Systems in General Scenes

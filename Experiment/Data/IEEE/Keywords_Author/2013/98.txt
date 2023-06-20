@@ -1,0 +1,1 @@
+Activity recognition; hidden Markov model (HMM); multivariate regression; unsupervised learning; wearable computing

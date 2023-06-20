@@ -1,0 +1,1 @@
+Mobile robots; Actuators; Genetic algorithms; Fault tolerance; Particle swarm optimization; Collision avoidance

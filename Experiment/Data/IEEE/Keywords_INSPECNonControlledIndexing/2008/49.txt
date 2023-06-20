@@ -1,0 +1,1 @@
+antiswinging input shaping control; automatic construction crane; modular building elements; servomotors; computer-based multiaxes control board; straight line motion; external perturbances cancellation

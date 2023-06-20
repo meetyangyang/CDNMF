@@ -1,0 +1,1 @@
+cyclic task scheduling; multifunction radar; cyclic task schedule; task dwell time; radar schedule flexibility; optimization model; scheduling problem; heuristic method; fuzzy set model; radar timeline; dropped tasks

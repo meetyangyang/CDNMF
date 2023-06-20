@@ -1,0 +1,1 @@
+signal quality optimization; degradation modeling; prognostic analysis; data integration; signal quality measure; composite health index; signal-to-noise ratio; SNR metric; multiple degradation-based sensor data fusion; health condition prediction; remaining lifetime prediction; aircraft gas turbine engines; performance evaluation

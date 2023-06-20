@@ -1,0 +1,1 @@
+LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis

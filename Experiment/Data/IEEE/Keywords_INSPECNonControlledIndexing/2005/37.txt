@@ -1,0 +1,1 @@
+automatic mold polishing system; mold geometry process kernel; path planner; process planner; force control robot; polishing path; three-dimensional mold surface; task planning; surface roughness; process planning; mold industry

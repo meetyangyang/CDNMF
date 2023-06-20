@@ -1,0 +1,1 @@
+encoding-decoding mechanism-based finite-level quantized iterative learning control; random data dropouts; encoding-decoding mechanism-based finite-level uniform quantizer; linear systems; iteration axis

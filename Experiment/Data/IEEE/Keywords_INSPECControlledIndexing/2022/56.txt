@@ -1,0 +1,1 @@
+convolutional neural nets; data analysis; feature extraction; health care; image classification; optimisation; pattern clustering; process monitoring

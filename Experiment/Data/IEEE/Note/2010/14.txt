@@ -1,0 +1,1 @@
+The final monitoring system is a stopwatchautomaton. This automaton can be translated into a Sequential FunctionChart (SFC), an industrially recognized and used tool of programminglogic controllers (PLCs). Consequently, we can implement the proposed monitoring system by the PLC, used extensively in the industrial environment.

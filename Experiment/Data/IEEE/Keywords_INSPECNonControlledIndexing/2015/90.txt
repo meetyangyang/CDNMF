@@ -1,0 +1,1 @@
+industrial processes; nonuniform discretization-based control vector parameterization; ndCVP; dynamic optimization problems; DOP; udCVP; hybrid gradient particle swarm optimization; HGPSO

@@ -1,0 +1,1 @@
+Bayesian Nonlinear Gaussian Mixture Regression and its Application to Virtual Sensing for Multimode Industrial Processes

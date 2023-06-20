@@ -1,0 +1,1 @@
+Local Capacity <formula formulatype=\inline\><tex Notation=\TeX\>$H_{\\infty}$</tex></formula> Control for Production Networks of Autonomous Work Systems With Time-Varying Delays

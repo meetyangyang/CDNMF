@@ -1,0 +1,1 @@
+Training Initialization of Hidden Markov Models in Human Action Recognition

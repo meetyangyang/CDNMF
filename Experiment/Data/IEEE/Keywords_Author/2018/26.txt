@@ -1,0 +1,1 @@
+Convolutional neural network (CNN); fine-grained visual categorization (FGVC); Fisher vector (FV); maize cultivar identification; mutual information (MI)

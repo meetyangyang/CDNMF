@@ -1,0 +1,1 @@
+distributed cluster-based approach; pick-up services; delivery services; time windows; capacitated vehicles; distributed vehicle routing problem; graph partitioning; local integer linear programing problems; traveling salesman problem; distributed algorithm; courier service

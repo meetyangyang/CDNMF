@@ -1,0 +1,1 @@
+SNCCDBAGG-based NN ensemble approach; quality prediction; injection molding process; neural network; bagging; negative correlation learning via correlation-corrected data

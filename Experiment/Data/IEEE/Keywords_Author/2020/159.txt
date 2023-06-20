@@ -1,0 +1,1 @@
+Agricultural robots; automatic yield estimation; classifier fusion; diversity; Faster R-CNN; fruit detection

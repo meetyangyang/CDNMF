@@ -1,0 +1,1 @@
+dual-mode optimal controller; bio-inspired caterpillar-like climbing method; imitative robot; caterpillar-like climbing locomotion; natural caterpillars; three-stage climbing method; redundancy property; end-effector tracking problem; robot configuration

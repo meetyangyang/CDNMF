@@ -1,0 +1,1 @@
+condition-based maintenance; system-level performance; single-server subject; Markovian degradation; Poisson arrival process; stability conditions; steady-state analysis; objective function; discrete event simulation model; queuing model; sensitivity analysis; total cost function; optimal repair policy; catastrophic failure; quality function

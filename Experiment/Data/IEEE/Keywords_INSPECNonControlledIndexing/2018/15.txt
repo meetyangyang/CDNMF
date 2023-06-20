@@ -1,0 +1,1 @@
+two-degree-of-freedom robotic arm; augmented adaptive sliding mode controller; closed-chain robot dynamics; motion planning algorithm; dynamic movement primitives; multiple robots; planning control synthesis; multiple aerial manipulators; collision-free cooperative aerial transportation; random tree star; Bezier curve; obstacle avoidance; trajectory tracking; aerial robot

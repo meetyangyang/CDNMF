@@ -1,0 +1,1 @@
+total completion time minimization; rescheduling policies; randomly arriving jobs insertion; system performance optimization; hoist scheduling problem; automated electroplating lines; polynomial-time heuristic

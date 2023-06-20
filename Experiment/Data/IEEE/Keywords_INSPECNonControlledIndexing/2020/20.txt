@@ -1,0 +1,1 @@
+Industrial Internet application; real-time fault diagnosis; Industrial motors; industrial supervision systems; advance asset management; particular maintenance; predictive maintenance; real-time fault detection; reconstruction-based contribution; fault identification; vibration-related faults; dynamic incremental principal component analysis; DIPCA; convolutional neural network

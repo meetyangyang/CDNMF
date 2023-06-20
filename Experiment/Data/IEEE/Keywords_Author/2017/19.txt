@@ -1,0 +1,1 @@
+Coherent point drift (CPD); coordinate measuring machine; correspondences; iterative closest point (ICP); quadratic integer programming; rigid point set registration (RPSR); two-stage matching framework (TSMF)

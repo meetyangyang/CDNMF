@@ -1,0 +1,1 @@
+hysteresis nonlinearity compensation; magnetostrictive actuator; inverse multiplicative structure; Preisach model; smart material based actuator; Bouc-Wen model; inverse compensation approach; inverse function; complex dual integral formulation; signal construction

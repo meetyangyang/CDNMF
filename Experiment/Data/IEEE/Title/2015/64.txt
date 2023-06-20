@@ -1,0 +1,1 @@
+6-DOF Pose Estimation of a Robotic Navigation Aid by Tracking Visual and Geometric Features

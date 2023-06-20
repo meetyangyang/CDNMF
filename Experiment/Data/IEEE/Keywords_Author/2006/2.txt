@@ -1,0 +1,1 @@
+Camera; ground imaging; multi-axis; satellite; teleoperation; telerobotics

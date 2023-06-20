@@ -1,0 +1,1 @@
+heterogeneous multiagent systems; loosely coupled local tasks; homogeneous agents; syntactically cosafe linear temporal logic formulas; interagent dependence; multiple agent collaboration; bottom-up motion coordination strategy; task coordination strategy; off-line initial plan synthesis; online coordination scheme; task swapping

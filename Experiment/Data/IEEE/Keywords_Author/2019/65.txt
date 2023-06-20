@@ -1,0 +1,1 @@
+Homotopy optimal motion planning; human-friendly robot navigation; mobile robots; sampling-based motion planning

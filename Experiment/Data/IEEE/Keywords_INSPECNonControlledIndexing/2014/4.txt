@@ -1,0 +1,1 @@
+discrete-event controller design; extended labeled Petri nets; ELPN; inhibitor arcs; closed-loop behavior; discrete-event system; control logic; controller states; control interpreted Petri nets; CIPN; two-step approach; transformation rules; ladder diagram; plastic molding machine automation system

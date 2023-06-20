@@ -1,0 +1,1 @@
+Data-driven; multiple kernel support vector machines (SVM); nonlinear blast furnace system; quadratically constrained quadratic programming; reproducing kernel Hilbert space

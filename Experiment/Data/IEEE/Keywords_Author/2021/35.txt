@@ -1,0 +1,1 @@
+Brain–computer interface (BCI); steady-state visually evoked potential (SSVEP); stimulus-to-stimulus transfer; transfer learning

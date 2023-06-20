@@ -1,0 +1,1 @@
+Feedback linearization; LMI; quadrotor; robust control; unmanned aerial vehicles (UAVs)

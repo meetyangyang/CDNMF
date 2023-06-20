@@ -1,0 +1,1 @@
+Attitude estimation; gradient-descent algorithm (GDA); Kalman filter; magnetic;  angular rate;  and gravity (MARG) sensors; sensor fusion

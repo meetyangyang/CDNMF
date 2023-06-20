@@ -1,0 +1,1 @@
+Ambient intelligence; dynamic services discovery and invocation; event handling; Internet of things; local and global services selection; quality-of-service (QoS); self-adaptation; service-oriented framework; services monitoring

@@ -1,0 +1,1 @@
+Finite Production Run-Based Serial Lines With Bernoulli Machines: Performance Analysis;  Bottleneck;  and Case Study

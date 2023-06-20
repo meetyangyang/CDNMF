@@ -1,0 +1,1 @@
+Active perception; background modeling; foreground segmentation; RGB-D camera

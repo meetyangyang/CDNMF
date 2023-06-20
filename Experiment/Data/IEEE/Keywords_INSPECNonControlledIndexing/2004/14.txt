@@ -1,0 +1,1 @@
+stable transport; stacked parts; planar stack; polygonal parts; stable motions; local-local controllability; automated assembly sequence; robot; graphical method; pushing motions; motion planning; assembly sequencing; mobile robots; warehouse

@@ -1,0 +1,1 @@
+Trajectory; Acceleration; Trajectory planning; Robot kinematics; Motion planning; Real-time systems

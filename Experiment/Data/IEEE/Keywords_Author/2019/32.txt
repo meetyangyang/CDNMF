@@ -1,0 +1,1 @@
+Field-of-view (FoV) maintenance; line-of-sight (LoS) occlusion avoidance; robust sensor fusion; surgical instrument tracking

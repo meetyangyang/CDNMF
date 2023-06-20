@@ -1,0 +1,1 @@
+ $K$-traveling salesman problem (K-TSP); matching; multiple-robot systems; point set coverage

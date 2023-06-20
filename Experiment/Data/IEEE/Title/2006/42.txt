@@ -1,0 +1,1 @@
+A Necessary and Sufficient Condition for the Liveness and Reversibility of Process-Resource Nets With Acyclic;  Quasi-live;  Serializable;  and Reversible Process Subnets

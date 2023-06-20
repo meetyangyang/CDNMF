@@ -1,0 +1,1 @@
+high-speed tracking; nanopositioning stage; modified repetitive control; MRC based approach; hysteresis nonlinearity; periodic disturbance rejection; linear system; periodic errors; dynamics behaviors; hysteresis compensation strategy; improved loop-shaping properties; nonperiodic disturbance amplification problem; piezo-actuated stage; tracking accuracy

@@ -1,0 +1,1 @@
+Cloud mapping; knowledge representation; object recognition; semantic mapping; visual SLAM

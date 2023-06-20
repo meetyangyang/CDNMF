@@ -1,0 +1,1 @@
+open loop control; oscillating piezoelectric cantilevers; nonlinearities feedforward compensation; hysteresis; creep; micromanipulators; microassembly; Prandtl-Ishlinskii inverse model; piezocantilevers; feedforward techniques

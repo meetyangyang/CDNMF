@@ -1,0 +1,1 @@
+Collision detection; contact force optimization; distance measure; ray shooting; support function

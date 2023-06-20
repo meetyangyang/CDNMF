@@ -1,0 +1,1 @@
+feature extraction; mobile robots; object detection; robot vision; SLAM (robots)

@@ -1,0 +1,1 @@
+design; maximally permissive liveness-enforcing Petri net supervisor; flexible manufacturing systems; iteration method; first-met bad markings; integer linear programming; binary decision diagrams; legal markings

@@ -1,0 +1,1 @@
+unmanned ground vehicle; UGV; monitoring priorities; event-oriented modeling; monitoring weight; heuristic path planning; road-network persistent surveillance problem; RPSP; occurrence location; probability; detection interval; decision-making

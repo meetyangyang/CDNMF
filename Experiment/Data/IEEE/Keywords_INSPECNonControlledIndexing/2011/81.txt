@@ -1,0 +1,1 @@
+adaptive-optimal-control algorithm; automatic train regulation; ATR; metro-line operation; optimization; traffic-energy model; energy consumption; AOC; reinforcement learning; discrete minimum principle; passenger-flow fluctuations

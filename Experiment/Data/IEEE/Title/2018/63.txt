@@ -1,0 +1,1 @@
+A Variable Stiffness Robotic Gripper Based on Structure-Controlled Principle

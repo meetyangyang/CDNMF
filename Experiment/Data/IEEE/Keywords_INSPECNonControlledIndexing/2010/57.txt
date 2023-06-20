@@ -1,0 +1,1 @@
+health state estimation; prognostics; machining processes; failure mechanism; electromechanical systems; condition based maintenance; Hidden Markov models; observable sensor signals; dynamic Bayesian networks; drill bits; CNC drilling machine; competitive learning; complex system modeling; Monte Carlo simulation; state transition probabilities

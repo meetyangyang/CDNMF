@@ -1,0 +1,1 @@
+parallel machine selection; job scheduling; machine holding cost minimization; total machine time cost minimization; total tardiness cost minimization; single-operation task scheduling; subcontracting; lower bound; upper bound; single-sink fixed-charge transportation problem; SSFCT; NP-hardness; dynamic programming algorithm; multiple choice knapsack problem; MCKP

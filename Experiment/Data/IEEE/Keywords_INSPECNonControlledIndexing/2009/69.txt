@@ -1,0 +1,1 @@
+contouring errors; CNC machine tools; synchronization control; position synchronization errors; differential position errors

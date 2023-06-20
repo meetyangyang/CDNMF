@@ -1,0 +1,1 @@
+local search; Pareto solutions; hospital emergency department layout; multiobjective tabu search; hospital department layout problems; HDLPs; service quality; facility layout problems; manufacturing systems; multiobjective heuristic approaches; optimization; patients travel time; MTS

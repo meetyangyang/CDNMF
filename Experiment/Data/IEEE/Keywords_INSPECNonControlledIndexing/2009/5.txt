@@ -1,0 +1,1 @@
+logical layer simulation engine; physical layer simulation engine; passive RFID; radiofrequency identification; interference mitigation; throughput optimization

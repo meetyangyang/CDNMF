@@ -1,0 +1,1 @@
+ANFIS; fuzzy classification; GTAW; 3-D weld pool surface; virtualized welding

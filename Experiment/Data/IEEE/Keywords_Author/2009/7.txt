@@ -1,0 +1,1 @@
+Identification; object recognition; orientation estimation; position estimation; radio frequency identification (RFID); tag

@@ -1,0 +1,1 @@
+tweeting factory; hybrid systems; discrete-event systems; continuous dynamics; modular hybrid predicate transition model; differential equations; hybrid Petri net model; robust nonlinear programming formulation; robot station; energy consumption; event-based information architecture; online information architecture; tweets

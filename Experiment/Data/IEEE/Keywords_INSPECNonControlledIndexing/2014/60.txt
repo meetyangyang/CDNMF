@@ -1,0 +1,1 @@
+multiproduct manufacturing systems; homogeneous exponential machines; finite buffers; processing time; system-theoretic properties; performance evaluation; bottleneck analysis; system throughput

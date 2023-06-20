@@ -1,0 +1,1 @@
+degradation model-based reliability estimation; preventive maintenance work orders; maintenance threshold extraction approach; expected availability; modified two-stage degradation modeling approach; asymptotic solution; general degradation path model; maximum likelihood estimation method; parameter estimation; historical degradation observations; maintenance scheduling

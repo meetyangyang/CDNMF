@@ -1,0 +1,1 @@
+Petri nets; Automata; Fault diagnosis; Discrete-event systems; Synchronization; Proposals; Pattern matching

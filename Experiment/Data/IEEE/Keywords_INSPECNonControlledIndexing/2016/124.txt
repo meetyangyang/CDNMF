@@ -1,0 +1,1 @@
+transient analysis; work-in-process; transient performance evaluation; Bernoulli serial lines; steady state performance evaluation; production systems; finite buffers; Bernoulli machines; assembly systems

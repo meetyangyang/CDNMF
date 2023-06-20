@@ -1,0 +1,1 @@
+arbitrary shapes; greedy method; semidiscrete representations; 2D sheet metal part nesting; space encoding scheme; discrete strip segment; real-number coordinates; sheet part sequences; genetic algorithm; part placing method; searching algorithm; geometric representations

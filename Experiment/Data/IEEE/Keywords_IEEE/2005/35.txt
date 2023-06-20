@@ -1,0 +1,1 @@
+Parallel robots; Robot control; Payloads; Adaptive control; Trajectory; Service robots; Automatic control; Kinematics; Productivity; Production

@@ -1,0 +1,1 @@
+Image reconstruction; Robustness; Artificial neural networks; Computational efficiency; Feature extraction; Feedforward neural networks

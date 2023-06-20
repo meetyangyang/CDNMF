@@ -1,0 +1,1 @@
+observer-based robust control; 6-DOF parallel electrical manipulator; degrees-of-freedom; fast friction estimation; PEM; joint-task space framework; nonlinear disturbance observer design; deviation uncertainties estimation; Lyapunov design method; electrical cylinder; sufficient condition; friction property identification method

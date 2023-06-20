@@ -1,0 +1,1 @@
+A Synchronization Approach for the Minimization of Contouring Errors of CNC Machine Tools

@@ -1,0 +1,1 @@
+aircraft control; asymptotic stability; autonomous aerial vehicles; control system synthesis; feedback; invariance; Lyapunov methods; observers; robot dynamics

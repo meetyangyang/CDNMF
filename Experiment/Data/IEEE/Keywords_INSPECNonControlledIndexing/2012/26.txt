@@ -1,0 +1,1 @@
+intelligent quick prediction algorithm; industrial control problem; loading problem; artificial neural network; statistical model; ANN model; extreme learning machine; time series data; nontime series data; short-term prediction; medium-term prediction; long-term prediction; power plant operation; aircraft control data

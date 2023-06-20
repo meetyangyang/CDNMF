@@ -1,0 +1,1 @@
+Artificial fish swarm algorithm (AFSA); multiconstrained model predictive controller (MMPC); trajectory planning and tracking; trial-based forward search (TFS); unmanned ground vehicle (UGV)

@@ -1,0 +1,1 @@
+polyhedral assembly partitioning; infinite translations; rigid body; subassemblies; perturbation; partitioning-motions; software components

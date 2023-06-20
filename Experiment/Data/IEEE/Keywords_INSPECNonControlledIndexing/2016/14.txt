@@ -1,0 +1,1 @@
+modified inverse observation model; perception system; moving point detection; target tracking; robustly following target humans; unknown indoor dynamic environment; grid-based formulation; human-extraction techniques; potential human target detection; multiple hypothesis tracking algorithm; data association problem; human tracking; human detection

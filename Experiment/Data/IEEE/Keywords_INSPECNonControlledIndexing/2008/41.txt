@@ -1,0 +1,1 @@
+kinematic model; finger gaits; multifingered hand; hybrid automaton; robotic hand; dextrous manipulation task; multifingered manipulation; grasping fingers; free fingers

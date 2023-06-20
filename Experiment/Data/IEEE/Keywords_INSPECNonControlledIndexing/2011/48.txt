@@ -1,0 +1,1 @@
+convex optimization framework; almost budget balanced allocation; divisible good; concave valuation functions; groves class; linear rebate functions; randomized relaxation; linear programming problem; Vickrey-Clarke-Groves mechanism

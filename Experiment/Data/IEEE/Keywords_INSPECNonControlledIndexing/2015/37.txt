@@ -1,0 +1,1 @@
+image-guided interventions; noniterative algorithms; agile multicamera calibration method; multiple reconfigurable monocular modules; rigid body tracking; optical instrument tracking; modular monocular approach; occlusion-free surgical instrument tracking

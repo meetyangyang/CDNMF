@@ -1,0 +1,1 @@
+SkinSim: A Design and Simulation Tool for Robot Skin With Closed-Loop pHRI Controllers

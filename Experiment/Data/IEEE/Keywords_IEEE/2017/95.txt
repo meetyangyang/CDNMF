@@ -1,0 +1,1 @@
+Parity check codes; Memory management; Encoding; Decoding; Databases; RFID tags

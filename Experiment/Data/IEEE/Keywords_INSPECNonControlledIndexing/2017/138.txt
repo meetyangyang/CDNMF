@@ -1,0 +1,1 @@
+sequential budget allocation framework; automation; manufacturing; solution space exploration; computing budget; search space; performance value; numerical experiment; continuous simulation optimization problem; discrete simulation optimization problem; computing efficiency

@@ -1,0 +1,1 @@
+Optimization of Component Sequencing and Feeder Assignment for a Chip Shooter Machine Using Shuffled Frog-Leaping Algorithm

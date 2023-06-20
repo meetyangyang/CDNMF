@@ -1,0 +1,1 @@
+visual grasp affordance estimation; local texture-like measures; object-category measures; continuous pose estimates; grasp point locations; max-margin optimization; category-level continuous pose regression; autonomous object detection; grasping system; Willow Garage PR2 robot

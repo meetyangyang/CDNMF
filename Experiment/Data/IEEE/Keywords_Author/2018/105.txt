@@ -1,0 +1,1 @@
+Dynamic pricing; quality-of-service (QoS); optimization; service composition; truthfulness; Vickrey–Clarke–Groves (VCG) auction

@@ -1,0 +1,1 @@
+robust supervisory control; multiple unreliable resources; product routings; manufacturing systems; deadlock avoidance; fault tolerance; finite central buffer; PLC control logic

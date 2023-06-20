@@ -1,0 +1,1 @@
+Branch-and-cut; communication constraints; cooperative vehicle routing; heuristics; mixed-integer linear program; path planning; unmanned aerial vehicles (UAVs)

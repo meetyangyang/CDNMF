@@ -1,0 +1,1 @@
+adaptive systems; cameras; computational geometry; data handling; feature extraction; feedforward neural nets; image reconstruction; learning (artificial intelligence); medical image processing; optical tracking; optimisation; sensor fusion; surgery

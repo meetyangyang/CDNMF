@@ -1,0 +1,1 @@
+Ad-hoc sensor network; least-trimmed squares estimator; robust regression; sensor localization

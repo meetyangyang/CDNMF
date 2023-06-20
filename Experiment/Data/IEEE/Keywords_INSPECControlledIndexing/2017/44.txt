@@ -1,0 +1,1 @@
+collision avoidance; dynamic programming; end effectors; neural nets; piecewise linear techniques; quadratic programming; redundant manipulators; stability

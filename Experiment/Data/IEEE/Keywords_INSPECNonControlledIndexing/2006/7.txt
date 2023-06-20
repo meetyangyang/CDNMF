@@ -1,0 +1,1 @@
+tolerance specifications mapping; generalized deviation space; tolerance synthesis; tolerance analysis; maximum material condition; least material condition; regardless of feature size material conditions; standard mating features; virtual condition boundaries; ASME Y14.5M; manufactured part tolerancing

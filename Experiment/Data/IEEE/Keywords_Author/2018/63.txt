@@ -1,0 +1,1 @@
+Adaptive gripper; robotic gripper; structure-controlled stiffness; variable stiffness finger (VSF)

@@ -1,0 +1,1 @@
+Radio frequency identification; frame slotted ALOHA; reliability; scheduling; equilibrium point analysis

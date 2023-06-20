@@ -1,0 +1,1 @@
+Path planning; splines (mathematics); surveillance; unmanned aerial vehicles (UAV) or systems (UAS)

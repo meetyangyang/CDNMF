@@ -1,0 +1,1 @@
+Generation of Paths With Minimum Curvature Derivative With <formula formulatype=\inline\><tex Notation=\TeX\>$ { \\mmb{\\eta } }^{3}$</tex> </formula>-Splines

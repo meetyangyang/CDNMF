@@ -1,0 +1,1 @@
+sensor selection; bounded uncertainty sensing model; d-dimensional Euclidean space; convex polyhedral subset; constant factor approximation; space dimensionality

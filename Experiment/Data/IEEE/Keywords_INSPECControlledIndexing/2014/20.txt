@@ -1,0 +1,1 @@
+cameras; construction industry; industrial manipulators; mining industry; object detection; position control; robot vision; stiction; telerobotics; visual servoing

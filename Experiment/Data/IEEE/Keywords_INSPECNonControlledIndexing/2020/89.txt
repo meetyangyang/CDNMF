@@ -1,0 +1,1 @@
+temporal prediction; multiapplication consolidated workloads; distributed clouds; cloud services; distributed cloud data centers; Internet services; dynamic resource scaling; power consumption; workload prediction; integrated prediction method; Savitzky-Golay filter; wavelet decomposition; stochastic configuration networks; time slot; task time series; SG filter

@@ -1,0 +1,1 @@
+distributed algorithms; emergency management; genetic algorithms; particle swarm optimisation; scheduling

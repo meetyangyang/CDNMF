@@ -1,0 +1,1 @@
+maximally permissive liveness-enforcing supervision; sequential resource allocation systems; NP-hard problem; automaton-based RAS representation; Ramadge and Wonham supervisory control framework

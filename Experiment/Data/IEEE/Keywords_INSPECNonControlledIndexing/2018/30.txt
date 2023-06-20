@@ -1,0 +1,1 @@
+worker path generation; safety assessment; construction projects; automated moving equipment; accidents; high-level activity graph; discrete-event simulation model; motion planning algorithms; fatalities source; hazard identification; trajectory policy; risk-based heatmaps; managerial implication; sensitivity analysis

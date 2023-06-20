@@ -1,0 +1,1 @@
+Risk-DTRRT-based optimal motion planning algorithm; mobile service robot; robot motion planning; homotopy optimal trajectory; heuristic trajectory; RRT tree; rewired tree; time-based tree; line-of-sight control checking algorithm; tree rewiring algorithm; sampling-based motion planning algorithms; random tree algorithm; risk-based dual-tree rapidly exploring random tree algorithm

@@ -1,0 +1,1 @@
+sensor multifault diagnosis; online sparse least squares support vector machine; OS-LSSVM; error-correcting output code; ECOC-SVM; sensor fault feature extraction; online identification problem; nonlinear transformation; classifier input

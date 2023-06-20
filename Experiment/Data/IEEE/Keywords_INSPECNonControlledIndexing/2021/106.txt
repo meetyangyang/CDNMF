@@ -1,0 +1,1 @@
+enhanced variable neighborhood search algorithm; simplified problem; common BOM structure; optimal solution; integer quadratic programming model; planning horizon; lot streaming production; multilevel bills; backorder; real-world constraints; real-world tactical production planning problem; workload balancing

@@ -1,0 +1,1 @@
+Action dependent heuristic dynamic programming; adaptive dynamic programming; model-free optimal control; neural networks; policy iteration

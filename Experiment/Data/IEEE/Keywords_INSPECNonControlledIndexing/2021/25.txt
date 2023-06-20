@@ -1,0 +1,1 @@
+gait cycle; robotic prostheses; dorsiflexion detection; time-variant detection model; on-board adaptive algorithm; walking conditions; MDF timing detection; real-time detection

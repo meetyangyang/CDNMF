@@ -1,0 +1,1 @@
+no-wait job shops; makespan minimization; NP-hard problem; sequencing problems; shift penalty based timetabling method; time difference based sets; timetable tightening method; local search method; metaheuristic method

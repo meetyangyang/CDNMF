@@ -1,0 +1,1 @@
+production schedules; energy consumption; energy optimization; robust scheduling techniques; energy minimization; multiobjective optimization formulation; convex surrogate stability measure; operation sequences; mixed-integer nonlinear programming formulation; robust production schedules

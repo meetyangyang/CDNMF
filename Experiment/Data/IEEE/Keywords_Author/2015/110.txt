@@ -1,0 +1,1 @@
+Cellular automata (CA); evacuation models; Robot guidance; safety; simultaneously localization and mapping (SLAM)

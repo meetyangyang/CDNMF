@@ -1,0 +1,1 @@
+multisensor measurements; information fusion scheme; measurement space; state space; constraint subset; probabilistic inference; DPF forms; output equation; state equation; connected Riemannian manifolds; dynamic potential field-based formulation; autonomous vehicle navigation; ground vehicles; road-constrained geometric pose estimation

@@ -1,0 +1,1 @@
+fault gene matrix; fault detection and diagnosis; fault diagnosis; expert knowledge-based unseen fault identification; smart buildings; FDD; EK-UFI method; supervised learning algorithms

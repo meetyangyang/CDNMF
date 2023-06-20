@@ -1,0 +1,1 @@
+Job shop scheduling; Machine learning; Genetic algorithms; Energy efficiency; Optimal scheduling; Algorithm design and analysis

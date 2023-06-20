@@ -1,0 +1,1 @@
+good enough design selection; complexity preference; automation system; manufacturing system; design simplicity; adaptive simulation-based sampling algorithm; design screening; OCBA-mSG algorithm; OCBA-bSG algorithm; simulation allocation

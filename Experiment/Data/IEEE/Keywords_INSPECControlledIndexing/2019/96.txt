@@ -1,0 +1,1 @@
+active vision; image sensors; manipulators; object recognition; optimal control; optimisation; robot vision

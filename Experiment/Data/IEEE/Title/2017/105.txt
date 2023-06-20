@@ -1,0 +1,1 @@
+Real-Time Grasping Planning for Robotic Bin-Picking and Kitting Applications

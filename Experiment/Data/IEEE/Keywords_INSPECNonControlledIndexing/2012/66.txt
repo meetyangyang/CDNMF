@@ -1,0 +1,1 @@
+automated detection; influential patents; centrality measures; degree centrality; citation network; node similarity matrix; singular value update technique; U.S. patents data

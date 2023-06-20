@@ -1,0 +1,1 @@
+constrained ranking and selection; homogeneous noise; large deviations theory; false selection probability; asymptotically optimal allocation rule; constraint measures; solution space; regression metamodel; quadratic assumption; quadratic regression metamodels; selection efficiency; stochastic constraints; simulation-based optimization

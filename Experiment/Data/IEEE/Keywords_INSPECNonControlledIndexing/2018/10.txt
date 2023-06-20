@@ -1,0 +1,1 @@
+local reflection center; surface points; curved reflection symmetric axis; free-form surfaces; feature extraction; feature detection; sharp features; curved reflection axes; arbitrary free-form surface; curved reflection symmetry; smooth 3D embedded curve; feature representations; shape symmetrization; image segmentation; image registration

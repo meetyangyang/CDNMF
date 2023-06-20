@@ -1,0 +1,1 @@
+multiagent Q-learning-based optimal allocation approach; urban water resource management system; water environment system; agent-based model; urban water resource optimal allocation; stakeholder agents; maximum mapping value function-based Q-learning algorithm; adaptive reward value function

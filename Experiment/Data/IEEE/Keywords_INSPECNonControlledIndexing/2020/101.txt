@@ -1,0 +1,1 @@
+automatic design; intercell scheduling heuristics; extant algorithms; intolerable computation efficiency; genetic programming algorithm; GP-PS; speedup strategy; pretraining strategy; cooperative coevolutionary framework; manufacturing enterprise; China

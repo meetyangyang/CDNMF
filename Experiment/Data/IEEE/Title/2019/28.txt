@@ -1,0 +1,1 @@
+Pose Characterization and Analysis of Soft Continuum Robots With Modeling Uncertainties Based on Interval Arithmetic

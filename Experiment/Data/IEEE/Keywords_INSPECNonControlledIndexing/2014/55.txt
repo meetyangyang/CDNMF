@@ -1,0 +1,1 @@
+mobile robots; Boolean operations; implicit volume; 3D data segmentation; point cloud comparison; autonomous surveillance robots; 3D environment; change detection; spatial density patterns

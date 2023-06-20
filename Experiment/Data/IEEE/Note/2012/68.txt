@@ -1,0 +1,1 @@
+Nanostructure features are often characterized by scanning electron microscope (SEM) or transmissionelectron microscope (TEM). Automatic assessment of nanostructure quality based on SEM or TEM images is essential for scale-upnanomanufacturing. We provide methods of automatic pattern extraction and defect detection to study nanostructure local variability.

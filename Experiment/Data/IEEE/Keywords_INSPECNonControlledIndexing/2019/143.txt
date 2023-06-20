@@ -1,0 +1,1 @@
+constrained optimization scheme; in-hand manipulation tasks; adaptive robot hands; unsupervised learning; unsupervised automated collection; within-hand manipulation tasks; dexterous manipulation models; analytical modeling; DexRep

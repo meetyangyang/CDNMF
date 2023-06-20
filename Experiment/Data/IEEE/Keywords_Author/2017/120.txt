@@ -1,0 +1,1 @@
+Convergence; load balancing; numerical optimization; parallel computing; semistability; swarm intelligence

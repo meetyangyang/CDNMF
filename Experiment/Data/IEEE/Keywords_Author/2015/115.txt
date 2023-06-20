@@ -1,0 +1,1 @@
+Bin picking; end-effector; image analysis; robot vision systems

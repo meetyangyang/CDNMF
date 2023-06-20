@@ -1,0 +1,1 @@
+scheduling problem; dual-armed cluster tool; identical wafer flow patterns; single-wafer-type processing; concurrent processing; parallel chambers; tool throughput rate; identical job flows; modern fabs; similar wafer lots; work-in-progress lots; lead time; multiple wafer types; swap sequence

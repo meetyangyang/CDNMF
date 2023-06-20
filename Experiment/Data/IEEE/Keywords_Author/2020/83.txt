@@ -1,0 +1,1 @@
+Cruise motion; time optimality; tradeoff mechanism; trajectory planning

@@ -1,0 +1,1 @@
+Pareto-based estimation; multiobjective neighborhood search methods; baker production; surgery scheduling; multiobjective optimization algorithms; economic globalization; multiobjective distributed no-wait flow-shop scheduling problem; parallel computer system; probabilistic models; sampling method; total weight tardiness; jobs sequence-dependent setup time

@@ -1,0 +1,1 @@
+reduction rules; diagnosability analysis; complex systems; discrete event systems; LPN model; diagnosability property; LPN system; discrete-event systems; industrial system; bounded labeled Petri nets; DES; fault diagnosis

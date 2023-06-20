@@ -1,0 +1,1 @@
+geo-referencing; video flow; civilian UAV; airborne platform; mathematical model; video camera; interior orientation parameter; lens distortion; exterior orientation parameters; boresight matrix; attitude sensor; airborne mapping system; geo-orthorectified; video mosaicing; 2D planimetric mapping

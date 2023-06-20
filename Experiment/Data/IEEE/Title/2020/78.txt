@@ -1,0 +1,1 @@
+A Study on the Block Relocation Problem: Lower Bound Derivations and Strong Formulations

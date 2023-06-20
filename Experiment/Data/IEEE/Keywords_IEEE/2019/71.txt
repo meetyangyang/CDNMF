@@ -1,0 +1,1 @@
+Manipulator dynamics; Grasping; Adaptive control; Neural networks; Manipulators; Trajectory tracking

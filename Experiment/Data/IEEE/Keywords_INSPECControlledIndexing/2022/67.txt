@@ -1,0 +1,1 @@
+cutting; discrete Fourier transforms; entropy; frequency estimation; interpolation; machine tools; machining; machining chatter; vibrations; wavelet transforms

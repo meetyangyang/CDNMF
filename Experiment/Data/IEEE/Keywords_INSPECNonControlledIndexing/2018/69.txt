@@ -1,0 +1,1 @@
+car sharing services; object detection task; generalized Haar filter-based convolutional neural network; generalized Haar filter-based object detection; local regression tasks; pedestrian data sets; intelligent vehicle technologies; self-driving systems; collision avoidance; driver-assistance systems; deep learning

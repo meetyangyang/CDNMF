@@ -1,0 +1,1 @@
+sequential sample model; SSM; constraint evaluation engine; RSM; near-optimal algorithm; automated stowage planning; container stowage planning problem; heuristic algorithm; NP-hard algorithm; constraint test ordering; computational complexity; containerisation; random sample model

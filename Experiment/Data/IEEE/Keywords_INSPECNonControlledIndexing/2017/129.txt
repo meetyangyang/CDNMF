@@ -1,0 +1,1 @@
+deterministic timed weighted marked graph optimization; Petri nets; cyclic manufacturing systems; bulk services; bulk arrivals; marking optimization problem; token weighted sum minimization; cycle time optimization problem; average cycle time minimization; heuristic algorithms

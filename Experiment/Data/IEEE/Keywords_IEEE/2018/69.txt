@@ -1,0 +1,1 @@
+Object detection; Sharing economy; Task analysis; Memory management; Feature extraction; Real-time systems; Convolutional neaural networks

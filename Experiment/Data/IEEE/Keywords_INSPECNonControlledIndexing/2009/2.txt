@@ -1,0 +1,1 @@
+tag estimate method; RFID anticollision algorithm; dynamic frame length ALOHA protocol; radio-frequency identification system; maximum throughput; channel usage efficiency; maximum a posteriori probability decision; radio channel efficiency

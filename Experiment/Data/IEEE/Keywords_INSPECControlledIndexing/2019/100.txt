@@ -1,0 +1,1 @@
+automatic test pattern generation; embedded systems; fault diagnosis; fault simulation; logic circuits; logic testing; program testing; reconfigurable architectures

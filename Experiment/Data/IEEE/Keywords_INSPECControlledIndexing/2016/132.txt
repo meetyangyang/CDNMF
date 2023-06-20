@@ -1,0 +1,1 @@
+electricity supply industry; integer programming; invoicing; linear programming; matrix decomposition; power consumption; power generation scheduling; pricing

@@ -1,0 +1,1 @@
+A Geometric Distribution Reader Anti-Collision Protocol for RFID Dense Reader Environments

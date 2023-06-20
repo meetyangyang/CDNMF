@@ -1,0 +1,1 @@
+Home care (HC) assignment and scheduling; set covering model (SCM); variable neighborhood search (VNS); vehicle routing problem (VRP)

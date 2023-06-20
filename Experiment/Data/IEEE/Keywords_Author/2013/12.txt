@@ -1,0 +1,1 @@
+Enhanced relevance vector machine (RVM); fault diagnosis; multistation assembly processes; partially diagnosable; sparse solution

@@ -1,0 +1,1 @@
+dexterous manipulators; haptic interfaces; mesh generation; object recognition; robot vision; table lookup

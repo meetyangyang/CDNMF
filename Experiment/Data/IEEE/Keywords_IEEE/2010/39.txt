@@ -1,0 +1,1 @@
+Genetic algorithms; Vehicles; Routing; Fuzzy logic; Costs; Search methods; Time factors; Stochastic processes; Genetic mutations; Simulated annealing

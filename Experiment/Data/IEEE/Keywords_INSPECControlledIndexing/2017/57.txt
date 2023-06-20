@@ -1,0 +1,1 @@
+actuators; approximation theory; cables (mechanical); control nonlinearities; control system synthesis; electric conduits; end effectors; flexible manipulators; friction; parameter estimation; position control; robust control; trajectory control

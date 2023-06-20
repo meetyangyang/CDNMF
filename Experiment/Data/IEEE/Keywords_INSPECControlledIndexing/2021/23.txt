@@ -1,0 +1,1 @@
+biomechanics; electromyography; finite state machines; gait analysis; legged locomotion; medical robotics; muscle; neuromuscular stimulation; patient rehabilitation; robot dynamics

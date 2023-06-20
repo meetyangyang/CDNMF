@@ -1,0 +1,1 @@
+probabilistic roadmaps; polygonal obstacles; polygonal robots; configuration space; motion planning via manifold samples; assembly planning; sampling; geometric methods

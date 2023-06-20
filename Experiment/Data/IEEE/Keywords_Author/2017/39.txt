@@ -1,0 +1,1 @@
+Approximate dynamic programming (DP); cooling systems; energy management; Markov chain (MC) abstraction; stochastic hybrid systems (SHSs)

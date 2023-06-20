@@ -1,0 +1,1 @@
+Controlled random search (CRS); differential evolution (DE); genetic algorithm (GA); optimal design; optimization algorithms; parallel manipulators; particle swarm optimization (PSO); sequential quadratic programming (SQP)

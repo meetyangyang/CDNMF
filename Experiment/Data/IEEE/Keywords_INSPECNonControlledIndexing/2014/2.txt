@@ -1,0 +1,1 @@
+supervisory control synthesis; patient support table; magnetic resonance imaging scanner; Ramadge-Wonham supervisory control theory; control requirements; computational complexity; controller synthesis; SCT; controller generation; control software adaptability

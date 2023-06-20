@@ -1,0 +1,1 @@
+Absolute-value penalty; branch-and-cut (B&C); generalized assignment problems (GAPs); linearity; mixed-integerlinear programming (MILP); separability; surrogate Lagrangian relaxation (SLR); surrogate absolute-value Lagrangian relaxation (SAVLR)

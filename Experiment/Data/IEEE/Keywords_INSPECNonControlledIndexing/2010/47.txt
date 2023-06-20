@@ -1,0 +1,1 @@
+dynamic region-of-interest vision tracking system; real-time wing kinematic analysis; tethered Drosophila; object tracking; ROI; digital hardware; real-time feedback; computer vision system

@@ -1,0 +1,1 @@
+Hough voting; local context; pose estimation; robotic grasp; split function

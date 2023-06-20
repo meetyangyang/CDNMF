@@ -1,0 +1,1 @@
+Image segmentation; Feature extraction; Inspection; Substrates; Data mining; Manufacturing; Histograms

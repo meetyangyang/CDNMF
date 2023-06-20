@@ -1,0 +1,1 @@
+resource-oriented decentralized auction algorithm; multirobot task allocation; RODAA algorithm; robot communication range; multihop-based auction algorithm; solar panel cleaning mission; resource consumption; probabilistic manner; path planning

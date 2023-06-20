@@ -1,0 +1,1 @@
+Doubly fed induction generator (DFIG); finite control set (FCS); linear programming; model predictive control (MPC); wind genergy

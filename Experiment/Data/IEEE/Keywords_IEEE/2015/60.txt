@@ -1,0 +1,1 @@
+Job shop scheduling; Processor scheduling; Sequential analysis; Linear programming; Petri nets; Manufacturing systems; Delays

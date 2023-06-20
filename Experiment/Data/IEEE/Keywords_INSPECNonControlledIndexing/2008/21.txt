@@ -1,0 +1,1 @@
+randomized optimal design; parallel manipulators; performance indices; dexterity characterization; link interference; manipulator geometry; constrained nonlinear optimization problem; controlled random search technique; Delta robot; Gough-Stewart platform

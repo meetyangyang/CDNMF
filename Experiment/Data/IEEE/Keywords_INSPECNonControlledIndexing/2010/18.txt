@@ -1,0 +1,1 @@
+bag knot; physical modeling; robot learning system; plastic bag opening; knot opening; Q(¿)-learning algorithm; fixed-arm robot; plastic bag position observation; optimal bag shaking policy

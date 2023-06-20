@@ -1,0 +1,1 @@
+adaptive control; asymptotic stability; closed loop systems; control system synthesis; cranes; feedback; fuzzy control; Lyapunov methods; mechatronics; motion control; nonlinear control systems; observers; position control; robust control; trolleys

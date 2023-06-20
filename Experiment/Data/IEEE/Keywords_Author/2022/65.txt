@@ -1,0 +1,1 @@
+Algorithm; big data; dynamics; high-dimensional and incomplete (HDI) data; machine learning; missing data estimation; multichannel data; nonnegative latent factorization of tensors (NLFT); temporal pattern; quality of service (QoS); web service

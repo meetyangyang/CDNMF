@@ -1,0 +1,1 @@
+hybrid timed Petri nets; random topology production systems; complexity multioperational production systems; fundamental multiproductive machine; multiassembly modules; multidisassembly modules; system constraints satisfaction; performance evaluation; manufacturing systems; discrete event systems

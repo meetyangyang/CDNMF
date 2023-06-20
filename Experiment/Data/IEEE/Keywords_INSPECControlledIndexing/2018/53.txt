@@ -1,0 +1,1 @@
+collision avoidance; Gaussian distribution; mobile robots; trajectory control

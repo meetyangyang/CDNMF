@@ -1,0 +1,1 @@
+control reconfiguration; discrete event systems; dynamic control specification; linear constraints; controller synthesis; computational complexity; plant reconfiguration; reconfiguration cost minimization; integer programming; hospital control system example; Petri nets

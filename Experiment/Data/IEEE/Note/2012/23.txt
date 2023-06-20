@@ -1,0 +1,1 @@
+This paper shows how to control a systemwith distributed flexibility. The reinforcement learning approachto develop adaptive control described in the paper can be applied tocontrol also complex flexible space shuttle system and for dampingof many vibratory systems.

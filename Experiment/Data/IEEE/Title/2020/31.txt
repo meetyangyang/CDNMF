@@ -1,0 +1,1 @@
+Robust Visual Localization in Dynamic Environments Based on Sparse Motion Removal

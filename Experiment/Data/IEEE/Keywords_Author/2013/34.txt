@@ -1,0 +1,1 @@
+Bottom-up attention; object-based visual attention; preattentive segmentation

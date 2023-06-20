@@ -1,0 +1,1 @@
+automated warehouse system; automated storage and retrieval subsystem; crane; picking area; stock unit; carousels; conveyors; buffers; interface area; discrete event system; continuous time phenomena; hybrid modeling approach; freeware simulation tool; hybrid Petri nets; colored Petri nets; liveness analysis; deadlock prevention policy

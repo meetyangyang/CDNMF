@@ -1,0 +1,1 @@
+atomic force microscopy; closed loop systems; frequency response; integrating circuits; linear quadratic Gaussian control; optimal control; PI control; piezoelectric devices; position control; vibration control

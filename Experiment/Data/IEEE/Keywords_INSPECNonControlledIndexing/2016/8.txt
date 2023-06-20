@@ -1,0 +1,1 @@
+user-interface; hybrid LTI system; collaborative control; aircraft flight management system; LTI continuous dynamics; automation; user-observability; user-predictability

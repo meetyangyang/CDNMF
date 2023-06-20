@@ -1,0 +1,1 @@
+Grippers; Robot kinematics; Surgery; Task analysis; Cameras; Visualization

@@ -1,0 +1,1 @@
+vision-based coordinated localization algorithm; mobile sensor networks; camera sensors; Global Positioning System; GPS; mobile robots; stationary robots; spatiotemporal features; relative pose computation; multiview geometry; multirobot navigation strategy; multiagent system; localization error rate; off-the-shelf robotic platform

@@ -1,0 +1,1 @@
+in-plane shape-deviation modelling; fused deposition modelling; FDM; additive manufacturing; AM; 3D printing; dimensional inaccuracy; product geometric shape; extruder positioning error; material phase change; kriging model; shape deformation modelling; error equivalence; experiment design; shape deviation prediction; shape deviation compensation

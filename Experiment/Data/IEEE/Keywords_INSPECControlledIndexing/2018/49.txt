@@ -1,0 +1,1 @@
+approximation theory; computability; manipulator kinematics; path planning; position control; redundant manipulators; telerobotics

@@ -1,0 +1,1 @@
+data-driven soft-sensor modeling; product quality estimation; case-based reasoning; fuzzy-similarity rough sets; industrial processes; improved k-NN algorithm; case similarity threshold; CBR soft-sensor system; feature weighting algorithm; computation complexity; grinding plant; China; industrial plant

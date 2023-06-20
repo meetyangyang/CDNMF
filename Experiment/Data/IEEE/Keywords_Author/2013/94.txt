@@ -1,0 +1,1 @@
+3-D CAD model retrieval; conceptual design; sketch generation; sketch similarity

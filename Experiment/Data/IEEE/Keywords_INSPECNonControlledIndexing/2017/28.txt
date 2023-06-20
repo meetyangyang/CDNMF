@@ -1,0 +1,1 @@
+bilevel approach; optimal interconnected microgrid stochastic operation; smart grid planning; smart grid control; distributed generation; renewable resource; bilevel optimal control scheme; bidirectional power flow; dynamic storage system; upper level decision maker; lower level decision maker; nonlinear optimization problem; stochastic optimization problem

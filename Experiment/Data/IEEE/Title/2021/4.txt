@@ -1,0 +1,1 @@
+Idle Duration Prediction for Manufacturing System Using a Gaussian Mixture Model Integrated Neural Network for Energy Efficiency Improvement

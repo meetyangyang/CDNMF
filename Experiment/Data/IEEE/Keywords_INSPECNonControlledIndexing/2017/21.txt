@@ -1,0 +1,1 @@
+online learning control; hydraulic excavators; echo-state networks; ESN; position control; recurrent neural networks; linear regression problem; inverse model; trajectory tracking

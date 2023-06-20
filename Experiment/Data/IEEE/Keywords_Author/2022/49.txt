@@ -1,0 +1,1 @@
+Distributed partial least squares (DPLSs); distributed system; fault detection; mechanism knowledge; process decomposition

@@ -1,0 +1,1 @@
+Coulomb friction; differential inclusions; multi-rigid-body contact dynamics; time-stepping methods

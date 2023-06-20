@@ -1,0 +1,1 @@
+Category sensitive (CS) loss; densely connected convolutional network (DenseNet); polyp image classification; unbalanced discriminant (UD) loss

@@ -1,0 +1,1 @@
+Automatic Reconfiguration of Petri Net Controllers for Reconfigurable Manufacturing Systems With an Improved Net Rewriting System-Based Approach

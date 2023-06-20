@@ -1,0 +1,1 @@
+space mapping; 2-D work space; W space; 3-D configuration space; planar object; recovered C space; planar shapes; agent formations; different object shapes; fingertip formations; point agents; point fingertips; point mobile robots; agent formation; efficient planar caging test

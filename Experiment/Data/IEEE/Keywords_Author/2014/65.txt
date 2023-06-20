@@ -1,0 +1,1 @@
+Parallel implementation; quality-of-service (QoS); service composition; top-${\\rm k}$

@@ -1,0 +1,1 @@
+sensor fusion approach; indoor human localization; wearable sensors; indoor environments; motion information; distributed environmental sensors; body activity information; wearable inertial measurement unit sensor node; motion data; body activity recognition; human location/activity correlation; motion capture system; passive infrared sensor; particle filter

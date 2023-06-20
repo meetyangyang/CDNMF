@@ -1,0 +1,1 @@
+Toward Good Practices for Fine-Grained Maize Cultivar Identification With Filter-Specific Convolutional Activations

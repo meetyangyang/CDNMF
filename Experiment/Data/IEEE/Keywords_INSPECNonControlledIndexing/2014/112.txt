@@ -1,0 +1,1 @@
+marker-based surgical instrument tracking; dual kinect sensors; passive-marker-based optical tracking system; submillimeter tracking accuracy; dual infrared sensors; calibration; multiple back projection lines; computer assisted surgeries

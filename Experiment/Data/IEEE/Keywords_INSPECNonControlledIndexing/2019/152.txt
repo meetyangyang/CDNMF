@@ -1,0 +1,1 @@
+online estimation; trajectory FoT fitting; continuous FoT; continuous function of time; joint trajectory smoothing and tracking; continuous-time target trajectory function fitting; maneuvering target tracking; smooth motion; smooth courses; sensor observation noise; target motion; time-series observation; sliding time-window; sensor data; curve fitting approach

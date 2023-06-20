@@ -1,0 +1,1 @@
+cameras; feature extraction; geriatrics; health care; image classification; image motion analysis; image sensors; nearest neighbour methods; object detection; patient monitoring; random forests

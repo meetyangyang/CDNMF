@@ -1,0 +1,1 @@
+gear ratio optimal design; energy conservation; three-jointed Manipulator; vertically Articulated Manipulator; optimal design method; reduction gear ratios; motion equation; Coulomb friction torque; manipulator inertia matrix; reduction gear trains; inertia matching method

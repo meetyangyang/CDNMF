@@ -1,0 +1,1 @@
+Fuzzy logic; genetic algorithms (GAs); logistics; optimization; supply chain management; vehicle routing problem (VRP)

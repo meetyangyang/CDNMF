@@ -1,0 +1,1 @@
+Alternating least-squares (ALS); collaborative filtering; constrained iterative projection pursuit; data imputation; data recovery; incomplete data analysis; low-rank matrix approximation; matrix completion; matrix factorization; missing value analysis; nonnegative matrix factorization (NMF); quadratic inequality constraint; singular value decomposition

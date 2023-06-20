@@ -1,0 +1,1 @@
+topological indoor localization; indoor navigation; autonomous mobile robot; map-building-based localization; depth curve; 3D sensor; progressive Bayesian classifier; topological map generation; loop closing method; Markov localization method

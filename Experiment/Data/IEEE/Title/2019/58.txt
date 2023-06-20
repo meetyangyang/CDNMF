@@ -1,0 +1,1 @@
+Variance-Minimization Iterative Matching Method for Free-Form Surfaces—Part I: Theory and Method

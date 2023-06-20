@@ -1,0 +1,1 @@
+autonomous spray painting; energy consumption; standard manipulator spray; spray direction; paint job; set-based kinematic control; switched control system; set-based task; maximum allowed limit; UR5 manipulator; paint time

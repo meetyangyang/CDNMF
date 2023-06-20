@@ -1,0 +1,1 @@
+Cameras; Simultaneous localization and mapping; Feature extraction; Motion estimation; Image edge detection; Indoor environment

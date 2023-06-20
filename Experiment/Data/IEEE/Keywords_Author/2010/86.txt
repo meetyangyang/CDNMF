@@ -1,0 +1,1 @@
+Condition-based maintenance (CBM); electronics prognostics; nonstationary Gaussian process; remaining useful life

@@ -1,0 +1,1 @@
+beam search; max-min ant systems; weighted vehicle routing problem; cargo transportation; traveling distance; cargo loading quantity; cargo trucks; carbon emissions policy; variable vehicle loading; WVRP model; NP-hard problem; BEAM-MMAS algorithm; cost savings

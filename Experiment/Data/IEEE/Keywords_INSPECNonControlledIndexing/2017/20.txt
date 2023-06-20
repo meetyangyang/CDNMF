@@ -1,0 +1,1 @@
+precision motion control; piezoelectric nanopositioning; chattering-free adaptive sliding mode control; uncertainty estimation; disturbance estimation; ASMC-UDE; robust control

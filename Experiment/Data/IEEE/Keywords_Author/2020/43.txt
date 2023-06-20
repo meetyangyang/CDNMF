@@ -1,0 +1,1 @@
+Contingency management; heuristic algorithms; mission planning; multirobot task allocation (MRTA)

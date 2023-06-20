@@ -1,0 +1,1 @@
+timed multitask system; Uppaal; program verification; system verification; industrial systems; programmable logic controllers; timers ON delay; timed automata; mecatronic standard system; multitask programming; ladder diagram; model checking

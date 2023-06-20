@@ -1,0 +1,1 @@
+Design of a Gait Phase Recognition System That Can Cope With EMG Electrode Location Variation

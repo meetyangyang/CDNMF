@@ -1,0 +1,1 @@
+actuators; adaptive control; control system synthesis; force control; manipulator dynamics; mobile robots; motion control; quadratic programming; stability; tracking; uncertain systems

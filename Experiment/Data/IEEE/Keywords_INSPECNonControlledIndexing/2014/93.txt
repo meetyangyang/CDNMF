@@ -1,0 +1,1 @@
+differential evolution; flexible assembly line scheduling; bilevel differential evolution algorithm; BiDE algorithm; FAL scheduling; optimization; earliness penalties; tardiness penalties; evolutionary heuristic algorithm; resource allocation; heuristic search techniques

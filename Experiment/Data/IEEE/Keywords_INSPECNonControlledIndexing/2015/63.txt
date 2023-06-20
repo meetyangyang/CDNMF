@@ -1,0 +1,1 @@
+multiregion segmentation; compact shape prior; segmentation generation; freeform surface; discrete Morse complex; anisotropic filtering; agglomerative clustering; normalized cut metric; boundary compatibility; customized dental treatment

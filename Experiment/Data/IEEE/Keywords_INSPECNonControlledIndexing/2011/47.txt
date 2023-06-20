@@ -1,0 +1,1 @@
+robust feedforward-feedback control; nonlinear 2-DOF piezoelectric cantilever; oscillating 2-DOF piezoelectric cantilever; micromanipulators; microrobots; linear robust H∞ controller; microassembly tasks; micromanipulation tasks

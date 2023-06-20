@@ -1,0 +1,1 @@
+surgery scheduling; case cancellation; cost generating unit; stochastic integer programming model; surgery duration uncertainty; hospital; OR schedule; operating room; cost minimization; Benders decomposition; computational complexity; sensitivity analysis

@@ -1,0 +1,1 @@
+Algebraic Synthesis of Timed Supervisor for Automated Manufacturing Systems Using Petri Nets

@@ -1,0 +1,1 @@
+assembly operations; unreliable resources; automated manufacturing systems; Petri nets; numerically controlled machines; look-ahead control strategy; robust supervisory control policy; structure-oriented control specifications; discrete-event supervision; reliablity; economic loss

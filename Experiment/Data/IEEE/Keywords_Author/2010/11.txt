@@ -1,0 +1,1 @@
+Food processing; object handling; sensor; slip detection

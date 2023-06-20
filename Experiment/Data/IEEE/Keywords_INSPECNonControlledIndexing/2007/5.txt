@@ -1,0 +1,1 @@
+color-based feature detection; food processing; color classification methods; vision-based feature detection; grayscale-based machine-vision algorithms; color machine vision algorithm; statistically based fast bounded box; principal component analysis technique; color characterization; neural-network classifier; support vector machine

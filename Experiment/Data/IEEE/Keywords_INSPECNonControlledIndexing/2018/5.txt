@@ -1,0 +1,1 @@
+tracking control scheme; compliant actuator; two-stage stiffness; continuous tracking control; direct physical interactions; series elastic actuators; force controllable; low-stiffness spring; high-stiffness spring; output force monitoring; SEAs; robots

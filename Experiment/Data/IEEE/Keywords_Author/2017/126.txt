@@ -1,0 +1,1 @@
+Error-correcting output codes (ECOC); online sparse least squares support vector machine (OS-LSSVM); sensor fault diagnosis; support vector machine (SVM)

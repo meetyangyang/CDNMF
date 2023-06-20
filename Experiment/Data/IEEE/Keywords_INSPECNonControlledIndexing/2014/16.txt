@@ -1,0 +1,1 @@
+path generation; trailer vehicle; truck vehicle; high-quality drive paths generation; automated wheeled vehicles; parameterized curve primitive; arbitrary dynamic configurations; articulated vehicle; ninth-order polynomial curve; Cartesian points; arbitrary unit tangent vector; interpolations conditions; spline symmetry

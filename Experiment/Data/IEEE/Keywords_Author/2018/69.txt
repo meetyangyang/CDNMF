@@ -1,0 +1,1 @@
+Car sharing; convolutional neural network (CNN); Haar filter; object detection; traffic scene

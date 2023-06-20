@@ -1,0 +1,1 @@
+Toward Socially Aware Robot Navigation in Dynamic and Crowded Environments: A Proactive Social Motion Model

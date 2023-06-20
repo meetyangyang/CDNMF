@@ -1,0 +1,1 @@
+autonomous robotic exploration; incremental road map construction; mobile robot; graph structure; exploration process; lazy collision checking method; trajectory optimization method; path cost evaluation; candidate target region; target reselection mechanism; sampling strategy; utility function

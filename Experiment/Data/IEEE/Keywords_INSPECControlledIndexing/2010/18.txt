@@ -1,0 +1,1 @@
+grippers; learning (artificial intelligence); manipulator kinematics

@@ -1,0 +1,1 @@
+Autonomous configuration; event-driven architecture (EDA); networked manufacturing system (NMS); ontology

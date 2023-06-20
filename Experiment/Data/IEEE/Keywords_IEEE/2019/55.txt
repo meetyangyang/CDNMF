@@ -1,0 +1,1 @@
+Layout; Hospitals; Optimization; Telecommunications; Planning; Search problems

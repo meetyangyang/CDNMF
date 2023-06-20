@@ -1,0 +1,1 @@
+schedulability analysis; short-term scheduling; crude oil operations; charging-tank-switch-overlap constraints; oil refinery; crude oil residency time constraint; mathematical programming models; control theory perspective; hybrid Petri net; control commands; schedulability conditions; refining schedule

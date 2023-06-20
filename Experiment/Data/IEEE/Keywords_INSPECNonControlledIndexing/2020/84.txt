@@ -1,0 +1,1 @@
+data-driven approach; fault detection and classification; semiconductor manufacturing process; equipment sensors; multidimensional key SVIDs; process engineer; data-driven framework; k-nearest neighbors; kNN; naïve Bayes classifiers; wafers classification; fault detection; fault diagnostic; abnormality detection

@@ -1,0 +1,1 @@
+assembly scheme; fixture scheme; properly constrained assembly; dimensional integrity; top-down design method; top-down decomposition-based approach; assembly design; assembly sequence; fixture plan

@@ -1,0 +1,1 @@
+condition monitoring; cost reduction; discrete event simulation; failure analysis; maintenance engineering; Markov processes; Poisson distribution; quality control; queueing theory; sensitivity analysis

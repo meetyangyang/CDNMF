@@ -1,0 +1,1 @@
+foreseeability; unstructured indoor environments; complex indoor environments; multilevel humanlike motion planning approach; indoor mobile robots; path planning framework; global path planning; sensor-level path planning; action-level path planning; planned path; velocity-adjustable trajectory planning algorithm

@@ -1,0 +1,1 @@
+This paper proposes methods and algorithms in which sequences are automatically created based on therelations among operations instead of having to be manually constructed. These are to be used during designing of the logical behavior of operation. The use of various views increases the understanding of operation behavior during design.

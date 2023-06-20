@@ -1,0 +1,1 @@
+formation-containment control problem; multiple multirotor unmanned aerial vehicle systems; convex hull; multiUAV system; formation reference; convex combination; quadrotor UAVs; formation control; containment control problems; distributed formation-containment protocol; time-varying formation

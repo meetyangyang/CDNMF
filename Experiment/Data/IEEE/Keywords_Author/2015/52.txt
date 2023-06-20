@@ -1,0 +1,1 @@
+Active learning; adaptive sampling; decentralized active sensing; decentralized/distributed data fusion; distributed consensus filtering; environmental sensing and monitoring; Gaussian process; log-Gaussian process; mobility demand prediction; relational Gaussian process; spatiotemporal modeling; traffic flow forecasting; vehicular sensor network

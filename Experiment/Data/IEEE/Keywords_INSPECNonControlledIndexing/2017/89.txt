@@ -1,0 +1,1 @@
+Gen2 RFID throughput; radio frequency identification; wireless communication; indoor item identification; dynamic frame slotted ALOHA; DFSA; medium access control; MAC mechanism; software defined radio technology; SDR technology; radio waves propagation

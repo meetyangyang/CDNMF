@@ -1,0 +1,1 @@
+computational geometry; computer vision; expectation-maximisation algorithm; Gaussian processes; image registration; mixture models; optimisation; probability; vectors

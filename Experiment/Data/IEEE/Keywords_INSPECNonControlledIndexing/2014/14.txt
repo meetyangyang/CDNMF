@@ -1,0 +1,1 @@
+planar compliances; symmetric notch flexure hinges; right circularly corner-filleted parabolic design; general analytical compliance model; variable thickness; serial combination; longitudinal-transverse mirroring; base segments; quarter-flexure compliance function; general analytical modeling algorithm; finite element simulation; aluminum flexure; geometric parameters

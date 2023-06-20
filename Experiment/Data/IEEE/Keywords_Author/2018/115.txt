@@ -1,0 +1,1 @@
+Mixed-integer linear programming (MILP); parallel machine scheduling; time-of-use (TOU) tariffs; total electricity cost

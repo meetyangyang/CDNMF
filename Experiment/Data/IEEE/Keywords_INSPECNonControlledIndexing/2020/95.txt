@@ -1,0 +1,1 @@
+two-level hierarchical deep convolutional neural network; deep learning; sewer videos; sewer images; hierarchical deep learning; automatic detection; defect autoclassification; defect inspection; sewer defects; feature representation

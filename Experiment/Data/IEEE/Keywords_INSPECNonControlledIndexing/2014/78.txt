@@ -1,0 +1,1 @@
+extended double row layout problem; multiobjective tabu search; linear programming; facility layout problems; semiconductor manufacturing; integrated optimization task; material movement; manufacturing area; material handling cost minimization; layout area minimization; nondominated solutions; Pareto solutions

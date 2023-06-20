@@ -1,0 +1,1 @@
+two-level iterative parameter estimation algorithm; thermal management; spatiotemporal thermal field modeling; time-varying parameter estimation; thermal system; dynamic thermal field; partial differential equations; differential equation models

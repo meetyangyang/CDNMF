@@ -1,0 +1,1 @@
+Convex optimization; distributed optimization; interior-point methods; linear systems; model predictive control

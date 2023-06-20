@@ -1,0 +1,1 @@
+human-robot collaborative manufacturing environment; industrial robotics; robotic manipulator; human; common motion generation algorithm; kinematic control strategy; robot productivity maximum level maintainance; optimization-based real-time algorithm; safety constraint; dual-arm concept robot; manipulation task; redundant robot

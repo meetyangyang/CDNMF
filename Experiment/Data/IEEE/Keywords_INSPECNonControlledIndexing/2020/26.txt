@@ -1,0 +1,1 @@
+multidirectional 3D printing systems; angular-motion-based system; Cartesian-motion-based system; hardware systems; supplementary algorithm; optimal volume decomposition; manufacturing constraints; beam-guided; overhangs; support-effective volume decomposition algorithm; different model regions

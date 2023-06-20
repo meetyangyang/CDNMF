@@ -1,0 +1,1 @@
+decentralised control; mobile robots; multi-robot systems; path planning; trajectory control

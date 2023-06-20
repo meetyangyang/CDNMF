@@ -1,0 +1,1 @@
+paired mobile robots; thin plate; end effectors; dynamic modeling; magnetic analysis; no-fall condition; no-slip conditions; precision positioning control; laser beacon; Halbach array permanent magnets; Lorentz force actuators; aircraft manufacturing; time-optimal control

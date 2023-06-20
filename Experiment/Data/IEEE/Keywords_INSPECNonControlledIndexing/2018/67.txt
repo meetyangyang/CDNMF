@@ -1,0 +1,1 @@
+Web service-based control system; optimal polling frequency control policy; network traffic; Web services; polling mechanism; network delay; Internet of Things systems; constrained Markov decision process; CMDPA algorithm

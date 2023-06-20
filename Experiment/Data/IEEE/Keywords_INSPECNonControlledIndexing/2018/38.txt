@@ -1,0 +1,1 @@
+automated robotic manufacturing systems; wafer residency time constraints; semiconductor manufacturing; wafer revisiting-nonrevisiting processes; wafer fabrication; activity time variation; chamber cleaning requirements; failure-prone computer-controlled process modules; cluster tools scheduling optimization

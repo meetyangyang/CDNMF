@@ -1,0 +1,1 @@
+realtime virtual machine allocation; cloud data center; resource scheduling; infrastructure-as-a-service; IaaS; large-scale cloud application; workload model; cloud provisioning algorithm; CloudSched; virtual machines; cloud computing; scheduling objective

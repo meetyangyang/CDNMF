@@ -1,0 +1,1 @@
+adaptive control; aerospace control; collision avoidance; cooperative systems; manipulators; mobile robots; motion control; multi-robot systems; robot dynamics; trajectory control; trees (mathematics); variable structure systems

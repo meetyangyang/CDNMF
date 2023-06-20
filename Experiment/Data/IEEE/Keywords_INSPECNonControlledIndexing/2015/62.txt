@@ -1,0 +1,1 @@
+gripper placement; 3D polyhedron-like workpiece; caging configuration; form-closure condition; force-closure condition; contact position; 3D workpiece grasping; flexible low-cost robotic system; binary industrial gripper; polyhedron-like workpiece; vision-based caging grasp

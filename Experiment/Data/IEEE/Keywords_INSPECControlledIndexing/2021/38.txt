@@ -1,0 +1,1 @@
+computerised tomography; dentistry; image classification; image reconstruction; image segmentation; learning (artificial intelligence); medical image processing; patient treatment

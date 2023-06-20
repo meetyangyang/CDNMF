@@ -1,0 +1,1 @@
+parameter learning algorithm; critical pattern characterization; RQA; recurrence quantification analysis; faulty conditions; normal conditions; process conditions; representative patterns; RP method; fault detection; die stations; tonnage signals; condition monitoring; progressive stamping processes; recurrence plot; automatic process monitoring method

@@ -1,0 +1,1 @@
+extended genetic algorithm; combined scheduling method; wafer fabrication; manufacturing process; semiconductor manufacturing; wafer sort step; assembly step; testing step; hierarchical colored timed Petri net; HCTPN; intelligent algorithm; EGA embedded scheduling strategy; scheduling performance; scheduling strategy

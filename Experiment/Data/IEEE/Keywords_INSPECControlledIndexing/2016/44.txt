@@ -1,0 +1,1 @@
+cryptographic protocols; Internet of Things; public key cryptography; telecommunication security

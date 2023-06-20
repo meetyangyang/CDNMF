@@ -1,0 +1,1 @@
+drift compensation; AFM-based nanomanipulation; atomic force microscopy; AFM image; drift-induced distortion elimination; drift-induced distortion identification; strategic local scan method; drift value measurement; global image; object position estimation; augmented reality; real-time visual feedback

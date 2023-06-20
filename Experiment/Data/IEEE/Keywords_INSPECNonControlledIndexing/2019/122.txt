@@ -1,0 +1,1 @@
+advisory temporal logic inference; advisory signal temporal logic formulas; advisory motion STL formula; spatial-temporal pattern; advisory selection STL formula; semiautonomous robots; advisory controller design; Baxter-On-Wheels simulator; trajectories

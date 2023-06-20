@@ -1,0 +1,1 @@
+data-driven approach; hierarchical anomaly detection; multioutput Gaussian process regression model; target system; statistical decision-making strategies; pointwise anomaly detection; trajectory anomaly detection; industrial gas regulators; industrial mechanical systems; multiple-target time series data; gas regulator data; rule-based methods; extreme value theory

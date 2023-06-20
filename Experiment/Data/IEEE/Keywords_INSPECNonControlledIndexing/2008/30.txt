@@ -1,0 +1,1 @@
+hybrid optimization algorithms; machine scheduling problems; dynamic programming; branch-and-bound; constraint programming; single-machine; time total weighted completion scheduling problem; NP-hard; production scheduling

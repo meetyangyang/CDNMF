@@ -1,0 +1,1 @@
+Gabor based nonuniform scale-frequency map; environmental sound classification; home automation; feature extraction; audio frame; Gabor dictionary; matching pursuit algorithm; phase information; position information; principal component analysis; linear discriminate analysis; support vector machine

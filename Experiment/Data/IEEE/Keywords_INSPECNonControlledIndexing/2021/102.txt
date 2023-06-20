@@ -1,0 +1,1 @@
+integrated human hip; pneumatic muscles; actuation torque; control bandwidth; task-specific gait training; human users; gait cycles; multiinput-multioutput sliding mode strategy; improved bijoint gait rehabilitation exoskeleton; MIMO; SM strategy; BiGREX

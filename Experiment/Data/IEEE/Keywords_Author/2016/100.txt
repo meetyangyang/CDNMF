@@ -1,0 +1,1 @@
+Design conflict resolution; incremental model update; multidomain model integration; SysML

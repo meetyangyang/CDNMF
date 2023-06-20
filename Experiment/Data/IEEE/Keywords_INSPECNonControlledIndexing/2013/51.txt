@@ -1,0 +1,1 @@
+nanorobotic placement procedure; nanorobotic pick-up procedure; electromechanical properties; MEMS; microelectromechanical systems device; growth substrate; vision-based motion control; SEM visual detection; teleoperation; functional device prototyping; scanning electron microscopes; automated silicon nanowire pick-place

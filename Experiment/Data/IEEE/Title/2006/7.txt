@@ -1,0 +1,1 @@
+A scheme for mapping tolerance specifications to generalized deviation space for use in tolerance synthesis and analysis

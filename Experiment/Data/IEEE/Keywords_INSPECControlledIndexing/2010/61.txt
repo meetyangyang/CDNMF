@@ -1,0 +1,1 @@
+aerospace control; collision avoidance; distributed control; linear quadratic control; numerical analysis; space vehicles

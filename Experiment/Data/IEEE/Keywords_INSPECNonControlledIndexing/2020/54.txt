@@ -1,0 +1,1 @@
+assembly task; CAD-level assembly specification; robot programs; Prolog-based reasoner; Web ontology language ontology; eTaSL programming framework; sensor-based robot skills; computer-aided design; CAD-based robotic assembly; system architecture

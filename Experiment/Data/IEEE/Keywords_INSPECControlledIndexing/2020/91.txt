@@ -1,0 +1,1 @@
+batch processing (industrial); delays; error compensation; least squares approximations; Lyapunov methods; moving average processes; photolithography; regression analysis; semiconductor device manufacture; semiconductor industry; semiconductor technology; stability; support vector machines

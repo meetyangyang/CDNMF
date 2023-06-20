@@ -1,0 +1,1 @@
+Active perception; Apache Hadoop; Apache Spark; distributed computing; growing self-organizing map (GSOM) algorithm; heterogeneous sensor data; intelligent robots; multimodal data fusion; parallel algorithms

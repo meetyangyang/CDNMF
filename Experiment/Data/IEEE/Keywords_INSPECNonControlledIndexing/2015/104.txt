@@ -1,0 +1,1 @@
+simultaneous bidirectional path model identification; process data; multivariate systems; data variables; causality relationships; augmented UD identification algorithm; bivariate system; order identification; parameter identification; open-loop systems; data matrix; information extraction; interleave data vector; UD factorization; ARMAX process; white noise; colored noise

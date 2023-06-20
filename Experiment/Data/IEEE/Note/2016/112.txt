@@ -1,0 +1,1 @@
+RFID supply chain application relies on the fast tag identification. As already shown in the literature, maximizing the number of read tags in the unit of time is a challenging task. In this paper, we propose a method which can assure near optimal tag identification time while maintaining low computational burden at the implementation point of view.

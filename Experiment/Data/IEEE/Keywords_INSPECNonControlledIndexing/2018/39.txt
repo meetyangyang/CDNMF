@@ -1,0 +1,1 @@
+safety-level aware bin-packing heuristic; automatic assignment; power plant; control functions; operational control system; above-mentioned assignment problem; multiple-choice vector bin packing; 1-D BP problem; NP-hard techniques; polynomial time; heuristic criteria; several criteria; heuristic scales

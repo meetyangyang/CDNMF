@@ -1,0 +1,1 @@
+attitude control; estimation theory; gradient methods; mobile robots; optimisation; robot vision; robust control; sensor fusion

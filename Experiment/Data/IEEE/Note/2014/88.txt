@@ -1,0 +1,1 @@
+A novel efficient technique to find out the cost analysis of an engineering system, which is a combination of subsystem-1 and subsystem-2 with controller application. Subsystem-1 operates under -out-of- : good policy, and subsystem-2 has three identical units in parallel configurations. Both subsystems are connected in series and the controller controls each subsystem.

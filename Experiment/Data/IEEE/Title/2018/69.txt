@@ -1,0 +1,1 @@
+Generalized Haar Filter-Based Object Detection for Car Sharing Services

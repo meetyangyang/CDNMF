@@ -1,0 +1,1 @@
+acceleration measurement; accelerometers; biomedical equipment; biomedical measurement; body sensor networks; expectation-maximisation algorithm; gait analysis; hidden Markov models; learning (artificial intelligence); medical signal processing; patient monitoring; pattern classification; regression analysis; signal classification

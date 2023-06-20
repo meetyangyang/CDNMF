@@ -1,0 +1,1 @@
+Multivariate Gaussian process (GP); sequential experimental design; surrogate modeling; parallel computing

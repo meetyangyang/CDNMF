@@ -1,0 +1,1 @@
+automatic guided vehicles; cameras; computer vision; driver information systems; feature extraction; image colour analysis; image fusion; image segmentation; image sensors; infrared imaging; learning (artificial intelligence); object detection; sensor fusion

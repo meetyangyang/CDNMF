@@ -1,0 +1,1 @@
+Generalized Hough transform (GHT); polygon-invariant generalized Hough transform (PI-GHT); template matching; vision-based positioning

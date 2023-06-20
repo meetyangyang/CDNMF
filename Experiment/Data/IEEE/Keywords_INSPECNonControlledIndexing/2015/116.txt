@@ -1,0 +1,1 @@
+robust stability; operator-based nonlinear uncertain systems; operator-based robust control; robust right coprime factorization approach; internally stable control design; internal model control; IMC like operator-based control design; operator theory-based approach; nonlinear characteristic property

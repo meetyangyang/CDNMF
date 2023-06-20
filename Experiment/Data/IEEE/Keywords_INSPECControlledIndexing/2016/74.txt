@@ -1,0 +1,1 @@
+affine transforms; convergence; infinite horizon; iterative methods; multilayer perceptrons; nonlinear control systems; optimal control; self-adjusting systems

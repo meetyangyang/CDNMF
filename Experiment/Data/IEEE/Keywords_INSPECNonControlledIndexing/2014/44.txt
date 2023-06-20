@@ -1,0 +1,1 @@
+kinematically optimal design; parallel manipulators; numerical optimization algorithms; sequential quadratic programming; SQP; controlled random search; CRS; genetic algorithm; GA; differential evolution; DE; particle swarm optimization; PSO; convergence performances; Delta robot; Gough-Stewart platform; convergence evolution

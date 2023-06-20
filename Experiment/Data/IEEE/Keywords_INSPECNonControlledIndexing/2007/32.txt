@@ -1,0 +1,1 @@
+support vector machine; recursive divergence; real time image processing; poultry carcasses; hyperspectral image analysis; feature dimensionality reduction; automatic skin tumor detection; hyperspectral image band selection

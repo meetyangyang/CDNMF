@@ -1,0 +1,1 @@
+dynamic pricing; inventory control; make-to-stock queue; production status information; make-to-stock production system; Poisson processes; selling price; item processing times; Erlang distribution; total discounted profit; work storage level; finished goods inventory

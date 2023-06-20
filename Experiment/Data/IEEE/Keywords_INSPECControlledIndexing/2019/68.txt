@@ -1,0 +1,1 @@
+adaptive control; control system synthesis; feedback; Lyapunov methods; mobile robots; neurocontrollers; position control; radial basis function networks; remotely operated vehicles; stability; uncertain systems; variable structure systems

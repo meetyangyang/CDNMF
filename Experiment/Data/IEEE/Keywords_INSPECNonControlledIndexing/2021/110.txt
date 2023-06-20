@@ -1,0 +1,1 @@
+patient flow dynamics; Bayesian inference; hotelling model; Bayesian learning; primary care physicians; primary-specialty care referrals; fundamental e-consult economics; hidden patient severity information; primary-specialty care interface

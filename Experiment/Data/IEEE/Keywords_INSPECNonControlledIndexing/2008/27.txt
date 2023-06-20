@@ -1,0 +1,1 @@
+lean buffering; serial production lines; nonidentical exponential machine; manufacturing system; production system; exponential reliability model; production manager; production line designer; JIT; mean-time-to-failure; mean-time-to-repair; inventory management

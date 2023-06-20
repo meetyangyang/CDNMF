@@ -1,0 +1,1 @@
+computation sharing; distributed robotic systems; SLAM; simultaneous localization and mapping; localization precision; map accuracy; network bandwidth; mobile robots

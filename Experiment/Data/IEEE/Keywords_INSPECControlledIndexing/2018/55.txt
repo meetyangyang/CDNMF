@@ -1,0 +1,1 @@
+asynchronous generators; linear programming; machine control; optimal control; predictive control; quadratic programming; wind power plants; wind turbines

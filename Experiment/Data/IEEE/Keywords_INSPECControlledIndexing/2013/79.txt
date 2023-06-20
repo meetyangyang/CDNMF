@@ -1,0 +1,1 @@
+concurrency control; control engineering computing; control system synthesis; IEC standards; industrial control; object-oriented programming; open systems; Petri nets; programmable controllers; resource allocation; service-oriented architecture

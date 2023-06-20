@@ -1,0 +1,1 @@
+asymptotically optimal motion planning; time-dependent cost maps; robot learning task; task motion constraints; sampling-based method; motion plan computing; time-dependent cost metric; sampling-based motion planning; obstacle avoidance; Mahalanobis distance; humanoid robot

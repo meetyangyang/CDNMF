@@ -1,0 +1,1 @@
+SAE benchmark; ILP formulation; integer linear programming problems; iterative sequence; event triggered frames; time triggered frames; associated protocol; communication bus; FlexRay dynamic messages; precise worst case response time

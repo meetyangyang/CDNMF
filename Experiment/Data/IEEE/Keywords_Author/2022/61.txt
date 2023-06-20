@@ -1,0 +1,1 @@
+Damage detection; deep learning (DL); dynamic analysis; signal processing; structural health monitoring (SHM); vibration

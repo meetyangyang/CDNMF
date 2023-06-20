@@ -1,0 +1,1 @@
+Control Reconfiguration of Discrete Event Systems With Dynamic Control Specifications

@@ -1,0 +1,1 @@
+Trajectory; Payloads; Manipulators; Vectors; Adaptive control; Real-time systems; Dynamics

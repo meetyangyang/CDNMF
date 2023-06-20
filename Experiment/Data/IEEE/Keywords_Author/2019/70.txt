@@ -1,0 +1,1 @@
+Autonomous exploration; directional endpoint feature; graph-based simultaneous localization and mapping (SLAM); information gain; mobile robots; polygon map

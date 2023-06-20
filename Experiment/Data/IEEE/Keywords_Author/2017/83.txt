@@ -1,0 +1,1 @@
+Dynamic Bayesian network (DBN); fault diagnosis; intermittent fault (IF); transient fault (TF)

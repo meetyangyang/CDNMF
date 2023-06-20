@@ -1,0 +1,1 @@
+Defect detection; machine vision; shape-from-shading (SFS); vision-based process control

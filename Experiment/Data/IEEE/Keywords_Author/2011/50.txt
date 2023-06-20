@@ -1,0 +1,1 @@
+Client-server networked automation system (NAS); max-plus algebra; probabilistic analysis; response time; timed event graph

@@ -1,0 +1,1 @@
+growing deep belief network; basic DBN structure; learned weight parameters; TL-GDBN model; optimal structure; transfer learning; single hidden layer; weight parameters; layer-by-layer partial least square regression

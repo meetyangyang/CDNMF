@@ -1,0 +1,1 @@
+quality control; predictive maintenance; data-level fusion; feature-level fusion; decision-level data fusion; low-dimensional decisions; sensor data; high-dimensional decisions; data integration; temperature; vibration; convex optimization problem; additive manufacturing; aircraft engines; prediction variance

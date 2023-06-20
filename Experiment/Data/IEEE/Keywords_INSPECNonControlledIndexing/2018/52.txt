@@ -1,0 +1,1 @@
+deformable object manipulation; multiarmed bandit methods; nonstationary multiarmed normal bandits; model utility estimation; velocity command; Kalman filtering; gripper

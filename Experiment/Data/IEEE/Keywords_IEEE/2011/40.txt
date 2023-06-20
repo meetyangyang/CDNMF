@@ -1,0 +1,1 @@
+Paints; Joints; Trajectory; Wrist; Surface treatment; End effectors

@@ -1,0 +1,1 @@
+Automata; Supervisory control; Manufacturing systems; Synchronization; Discrete-event systems; Software; Safety

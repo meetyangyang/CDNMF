@@ -1,0 +1,1 @@
+Particle swarm optimization (PSO); path planning; power management; solar-powered robot

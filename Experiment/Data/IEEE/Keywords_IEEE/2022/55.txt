@@ -1,0 +1,1 @@
+Feature extraction; Fault diagnosis; Real-time systems; Sensors; Condition monitoring; Deep learning; Knowledge transfer

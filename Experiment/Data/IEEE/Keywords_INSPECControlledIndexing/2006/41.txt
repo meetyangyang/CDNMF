@@ -1,0 +1,1 @@
+assembly planning; collision avoidance; graph theory; industrial manipulators; machine tools; motion control; polynomials; process control; production engineering computing; surface mount technology

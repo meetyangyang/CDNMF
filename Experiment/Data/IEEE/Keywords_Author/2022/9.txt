@@ -1,0 +1,1 @@
+Fuel consumption optimization; marine dynamic positioning (DP) systems; near real-time optimization; thrust allocation problem

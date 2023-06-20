@@ -1,0 +1,1 @@
+inventory control policy; production network; customer admission control; manufacturing system; partial backordering policy; complete backordering policy; lost sales policy; randomized admission policy; integral inventory control policy; admission probability; closed queueing network; exhaustive search analysis; convex analysis

@@ -1,0 +1,1 @@
+monocular visual-inertial state estimation; monocular VINS; online initialization; camera-IMU extrinsic calibration; inertial measurement unit; microaerial vehicle; MAV; vision-based autonomy; search and rescue mission; visual navigation; mobile robot

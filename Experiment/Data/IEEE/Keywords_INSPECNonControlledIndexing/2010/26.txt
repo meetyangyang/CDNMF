@@ -1,0 +1,1 @@
+correctness verification; generalized algebraic deadlock avoidance policies; mathematical programming; resource allocation systems; computational tool; computational complexity; mixed integer programming formulation; optimization software; Petri net modeling framework; deterministic finite state automata

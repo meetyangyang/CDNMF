@@ -1,0 +1,1 @@
+Nonlinear Antiswing Control for Crane Systems With Double-Pendulum Swing Effects and Uncertain Parameters: Design and Experiments

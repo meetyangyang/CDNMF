@@ -1,0 +1,1 @@
+structural property; optimal policies; multicomponent maintenance problems; generalized strict shortest-remaining-lifetime-first; opportunistic maintenance; multiple nonidentical life-limited components; neurodynamic programming

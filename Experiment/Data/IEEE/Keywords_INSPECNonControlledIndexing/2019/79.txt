@@ -1,0 +1,1 @@
+viscoelastic model; stable bipedal walking; indefinite uneven terrain; planned foot landing positions; actual foot landing positions; active contact perception; body stability controller; contact force control; torque control; sensor system; virtual repellent point; divergent component of motion; BHR-6P humanoid robot platform

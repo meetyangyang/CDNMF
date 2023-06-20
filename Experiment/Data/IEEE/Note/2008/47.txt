@@ -1,0 +1,1 @@
+One type of vibratory conveyance, popular in industrial parts feeding and presentation, makes use of friction and slidingbetween the part and the support surface. This paper gives the surface vibratory motions that maximize the speed of transport. It also describes anexperimental implementation and a control algorithm for achieving the desired vibratory motion.

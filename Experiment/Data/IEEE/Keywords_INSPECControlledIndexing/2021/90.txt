@@ -1,0 +1,1 @@
+computational complexity; greedy algorithms; minimisation; mobile robots; multi-robot systems; redundancy; remotely operated vehicles; transportation; uncertain systems

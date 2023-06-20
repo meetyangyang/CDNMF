@@ -1,0 +1,1 @@
+deterministic flow lines; flow line models; deterministic service times; arbitrary arrival process; segments channels; channel decomposition; state dependent failures; semiconductor wafer manufacturing; wafer advancement; clustered photolithography tool

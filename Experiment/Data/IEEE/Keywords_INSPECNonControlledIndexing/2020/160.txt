@@ -1,0 +1,1 @@
+polyp recognition; colonoscopy images; deep learning; two-stage pyramidal feature prediction; colorectal cancer detection; deep convolutional neural networks; PLPNet model; region-level polyp detector; polyp proposals; segmentation predictions; feature pyramids; polyp mask; residual nets

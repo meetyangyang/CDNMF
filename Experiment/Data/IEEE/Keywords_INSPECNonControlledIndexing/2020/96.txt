@@ -1,0 +1,1 @@
+lighting control system; diminishing dither signal; light-energy efficiency; modern energy system; lighting system; multilighting equipment; multivariate extremum seeking controller; dither signal converge; extremum estimation error; minimal LC value; light-energy consumption optimisation; proportional- integral-differential approach; PID approach; ESC; steady-state oscillations

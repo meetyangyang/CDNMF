@@ -1,0 +1,1 @@
+automata theory; mechatronics; multiprogramming; program verification; programmable controllers

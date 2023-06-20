@@ -1,0 +1,1 @@
+stochastic algorithm; discrete parameter simulation optimization; long run average cost objective; smoothed functional approximation; simultaneous perturbation stochastic approximation; random projections; admission control problem; optimal computing budget allocation; equal allocation algorithm

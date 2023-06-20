@@ -1,0 +1,1 @@
+Analytical models; Data models; Correlation; Autoregressive processes; Time series analysis; Mathematical model

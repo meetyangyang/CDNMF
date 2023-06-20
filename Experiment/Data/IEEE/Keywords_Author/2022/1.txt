@@ -1,0 +1,1 @@
+Electric vehicle (EV); event-driven; navigation; receding-horizon; routing optimization

@@ -1,0 +1,1 @@
+Discrete-event systems (DESs); ladder diagram; manufacturing systems; Petri nets; programmable logic controller (PLC)

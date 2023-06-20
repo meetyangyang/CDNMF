@@ -1,0 +1,1 @@
+Energy-responsive aggregate context (ERAC); energy-tagged aggregate context (ETAC); multi-resident activity recognition

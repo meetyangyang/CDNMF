@@ -1,0 +1,1 @@
+sensor placement; triangulation-based localization; localization uncertainty; triangulation-based state estimation; NP-hard problem; integer linear programming; bearing-only localization; approximation algorithm; constant factor performance guarantee

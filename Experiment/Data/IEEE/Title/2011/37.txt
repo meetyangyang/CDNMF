@@ -1,0 +1,1 @@
+A SNCCDBAGG-Based NN Ensemble Approach for Quality Prediction in Injection Molding Process

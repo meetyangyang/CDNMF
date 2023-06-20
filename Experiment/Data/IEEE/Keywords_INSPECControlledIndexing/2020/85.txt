@@ -1,0 +1,1 @@
+adaptive control; closed loop systems; control system synthesis; end effectors; feedback; human-robot interaction; industrial manipulators; learning (artificial intelligence); Lyapunov methods; manipulator dynamics; medical robotics; nonlinear control systems; position control; radial basis function networks; stability; uncertain systems

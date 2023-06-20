@@ -1,0 +1,1 @@
+Calibration free; camera-parameter-independent; fixed camera; image-based control; trajectory tracking

@@ -1,0 +1,1 @@
+parameterized ACD modeling; flexible manufacturing systems; activity cycle diagram; timed Petri net; discrete event systems; FMS; job flow modeling; job routing modeling; dispatching rule modeling; refixture operation modeling

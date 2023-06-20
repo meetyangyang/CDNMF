@@ -1,0 +1,1 @@
+CUSUM control chart; Bayesian approach; ILPM framework; cumulative sum control chart; in-line quality control; time-series data; off-line training; EPM; equipment parameter monitoring; PPM; process parameter monitoring; in-line predictive monitoring framework; control limit; semiconductor manufacturing; product quality

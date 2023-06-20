@@ -1,0 +1,1 @@
+humanoid robots; human-robot interaction; knapsack problems; motion control; path planning; probability; rescue robots; travelling salesman problems

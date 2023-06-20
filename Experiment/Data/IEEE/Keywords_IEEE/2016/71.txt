@@ -1,0 +1,1 @@
+Joints; Fault tolerance; Fault tolerant systems; Manipulators; Manifolds; Robot kinematics

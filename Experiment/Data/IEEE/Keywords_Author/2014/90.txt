@@ -1,0 +1,1 @@
+Kinematics; mobile welding robot; motion planning; optimization model; right angle seams

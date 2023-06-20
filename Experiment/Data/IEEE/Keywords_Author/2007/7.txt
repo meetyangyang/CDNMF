@@ -1,0 +1,1 @@
+Forward auction; generalized knapsack problem; marginal-decreasing piecewise constant bids; multiunit exchanges; reverse auction; volume discounts

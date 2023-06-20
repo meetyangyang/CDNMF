@@ -1,0 +1,1 @@
+design for disassembly; fixtures; friction; gravity; mechanical contact; path planning; recycling; robotic assembly; stability

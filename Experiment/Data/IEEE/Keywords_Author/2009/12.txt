@@ -1,0 +1,1 @@
+Fixture design; form closure; grasp synthesis; intrinsic grasp parameters; optimal constraint

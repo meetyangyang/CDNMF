@@ -1,0 +1,1 @@
+ensemble coordination approach; multi-AGV systems; industrial warehouses; automated guided vehicles; two layer control architecture; roadmap definition; path planning algorithm; hierarchical architecture; coordination strategy; industrial functionality

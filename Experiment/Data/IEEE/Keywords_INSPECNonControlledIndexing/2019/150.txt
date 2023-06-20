@@ -1,0 +1,1 @@
+texture surface defects; handcrafted features; defect-free texture samples; MS-FCAE method; textured background images; texture surface inspection data; visual inspection; unsupervised multiscale feature-clustering; convolutional autoencoder method; industrial automation

@@ -1,0 +1,1 @@
+volumetric modulated arc therapy; VMAT treatment planning model; VMAT treatment planning heuristic algorithms; radiation treatment planning optimization; nonlinear mixed integer programming model; linearization technique; heuristic approach; nested-partitions framework; LP relaxation

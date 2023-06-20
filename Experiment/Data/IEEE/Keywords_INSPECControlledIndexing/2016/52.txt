@@ -1,0 +1,1 @@
+approximation theory; computer vision; gradient methods; Hough transforms; image matching; manufacturing processes; object detection; position control

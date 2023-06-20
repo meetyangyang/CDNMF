@@ -1,0 +1,1 @@
+Ant colony algorithm; beam search; benchmarking data testing; meta-heuristics; weighted vehicle routing problem

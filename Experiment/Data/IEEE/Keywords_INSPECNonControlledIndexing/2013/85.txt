@@ -1,0 +1,1 @@
+state space-based prognostic model; age-dependent nonlinear degradation process; equipment hidden degradation; equipment remaining useful life estimation; RUL distribution; unobservable nonlinear drift-based Brownian motion; extended Kalman filter; expectation-maximization algorithm

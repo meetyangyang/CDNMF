@@ -1,0 +1,1 @@
+advertising budget allocation problem; LS-SVMR; least squares support vector machine regression; DE; differential evolution; financial service; statistical learning; evolutionary computation; regression method; market response model; planning horizon; decision variables

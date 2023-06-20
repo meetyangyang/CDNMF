@@ -1,0 +1,1 @@
+A Scale Stretch Method Based on ICP for 3D Data Registration

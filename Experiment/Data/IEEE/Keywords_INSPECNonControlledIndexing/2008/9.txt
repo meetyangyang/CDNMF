@@ -1,0 +1,1 @@
+strict/prioritized synchronization; partially observed discrete event-driven system; prioritized synchronous composition/mask-based control problem; global controller module; specification model; controllability problem; observability problem; linear complexity; nondeterministic control

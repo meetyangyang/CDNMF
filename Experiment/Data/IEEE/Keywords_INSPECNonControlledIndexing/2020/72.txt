@@ -1,0 +1,1 @@
+optimal solution; short path; neural RRT*; sampling-based algorithm; probability distribution; convolutional neural network; random-exploring tree; learning-based optimal path planning; high-quality initial path; sampling-based algorithms; planned path; CNN model; nonuniform sampling distribution; NRRT*

@@ -1,0 +1,1 @@
+Generalized Linear Quaternion Complementary Filter for Attitude Estimation From Multisensor Observations: An Optimization Approach

@@ -1,0 +1,1 @@
+Linear Programming SVM-ARMA<formula formulatype=\inline\> <tex Notation=\TeX\>$_{\\rm 2K}$</tex></formula> With Application in Engine System Identification

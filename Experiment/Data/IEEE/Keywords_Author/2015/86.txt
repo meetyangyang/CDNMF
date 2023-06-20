@@ -1,0 +1,1 @@
+Code division multiple access (CDMA); EPC Gen-2; framed ALOHA; Markov model; radio frequency identification (RFID); tag singulation

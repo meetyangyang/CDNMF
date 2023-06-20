@@ -1,0 +1,1 @@
+Control Lyapunov function; cyber-physical-system (CPS); hybrid system; optimization; transfemoral prosthesis

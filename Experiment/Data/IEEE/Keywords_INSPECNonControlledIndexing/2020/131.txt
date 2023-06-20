@@ -1,0 +1,1 @@
+discrete-event system; fault-free behavior model; synchronous codiagnosability; didactic automated system; fault diagnosis; discrete-event system synchronous diagnosis

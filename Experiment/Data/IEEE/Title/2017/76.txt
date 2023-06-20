@@ -1,0 +1,1 @@
+Weight-Balanced Timed Event Graphs to Model Periodic Phenomena in Manufacturing Systems
