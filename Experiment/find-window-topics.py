@@ -15,7 +15,7 @@ def main():
 	parser = OptionParser(usage="usage: %prog [options] window_matrix1 window_matrix2...")
 	parser.add_option("--seed", action="store", type="int", dest="seed", help="initial random seed", default=1000)
 	parser.add_option("-k", action="store", type="string", dest="krange", help="number of topics", default=None)
-	parser.add_option("--maxiters", action="store", type="int", dest="maxiter", help="maximum number of iterations", default=200)
+	parser.add_option("--maxiters", action="store", type="int", dest="maxiter", help="maximum number of iterations", default=500)
 	parser.add_option("-o","--outdir", action="store", type="string", dest="dir_out", 
 		help="base output directory (default is current directory)", default=None)
 	parser.add_option("-m", "--model", action="store", type="string", dest="model_path", 

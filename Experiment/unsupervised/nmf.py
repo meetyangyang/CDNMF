@@ -9,9 +9,9 @@ class SklNMF:
 	"""
 	Wrapper class backed by the scikit-learn package NMF implementation.
 	"""
-	def __init__( self, max_iters = 200, init_strategy = "random", random_seed = 0, alpha_W = 0.0, alpha_H = 0.0, l1_ratio = 1.0): #改进
-	# def __init__( self, max_iters = 200, init_strategy = "random", random_seed = 0, beta_loss="kullback-leibler", solver ="mu", alpha_W = 0.0, alpha_H = 0.0, l1_ratio = 1.0): #改进
-		self.max_iters = 200
+	# def __init__( self, max_iters = 500, init_strategy = "random", random_seed = 0, alpha_W = 0.0, alpha_H = 0.0, l1_ratio = 1.0): #改进
+	def __init__( self, max_iters = 500, init_strategy = "random", random_seed = 0, beta_loss="kullback-leibler", solver ="mu", alpha_W = 0.0, alpha_H = 0.0, l1_ratio = 1.0): #改进
+		self.max_iters = max_iters
 		self.init_strategy = init_strategy
 		self.W = None
 		self.H = None
